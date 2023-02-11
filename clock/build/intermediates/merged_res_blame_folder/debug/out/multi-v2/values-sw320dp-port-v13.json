@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-sw320dp-port-v13/values-sw320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-sw320dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "702",
+                        "endColumns": "46",
+                        "endOffsets": "744"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

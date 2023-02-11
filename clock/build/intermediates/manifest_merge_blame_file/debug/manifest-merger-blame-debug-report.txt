@@ -1,0 +1,603 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  Copyright (C) 2016 The Android Open Source Project
+4
+5  Licensed under the Apache License, Version 2.0 (the "License");
+6  you may not use this file except in compliance with the License.
+7  You may obtain a copy of the License at
+8
+9      http://www.apache.org/licenses/LICENSE-2.0
+10
+11  Unless required by applicable law or agreed to in writing, software
+12  distributed under the License is distributed on an "AS IS" BASIS,
+13  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  See the License for the specific language governing permissions and
+15  limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.best.deskclock"
+19    android:versionCode="1"
+20    android:versionName="1" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="23"
+23-->D:\android_project\clock\clock\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="25" />
+24-->D:\android_project\clock\clock\src\main\AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+26-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:21:5-81
+26-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:21:22-78
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:22:5-68
+27-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:22:22-65
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:23:5-66
+28-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:23:22-63
+29    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+29-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:24:5-75
+29-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:24:22-72
+30    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+30-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:25:5-77
+30-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:25:22-74
+31    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+31-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:26:5-81
+31-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:26:22-78
+32    <uses-permission android:name="org.codeaurora.permission.POWER_OFF_ALARM" />
+32-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:27:5-81
+32-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:27:22-78
+33    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+33-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:28:5-79
+33-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:28:22-76
+34    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
+34-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:29:5-31:47
+34-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:30:9-73
+35
+36    <application
+36-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:33:5-297:19
+37        android:name="com.best.deskclock.DeskClockApplication"
+37-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:34:9-45
+38        android:allowBackup="false"
+38-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:35:9-36
+39        android:appCategory="productivity"
+39-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:36:9-43
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.8.0] C:\Users\temp\.gradle\caches\transforms-3\6cedb7fad973482ec2e23e056b07f8f1\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+41        android:backupAgent="com.best.deskclock.DeskClockBackupAgent"
+41-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:37:9-51
+42        android:debuggable="true"
+43        android:extractNativeLibs="false"
+44        android:fullBackupContent="@xml/backup_scheme"
+44-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:38:9-55
+45        android:fullBackupOnly="true"
+45-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:39:9-38
+46        android:icon="@mipmap/launcher_clock"
+46-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:40:9-46
+47        android:label="@string/app_label"
+47-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:41:9-42
+48        android:requiredForAllUsers="true"
+48-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:42:9-43
+49        android:supportsRtl="true"
+49-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:43:9-35
+50        android:testOnly="true"
+51        android:theme="@style/Theme.DeskClock" >
+51-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:44:9-47
+52
+53        <!-- ============================================================== -->
+54        <!-- Main app components. -->
+55        <!-- ============================================================== -->
+56
+57        <activity
+57-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:51:9-62:20
+58            android:name="com.best.deskclock.DeskClock"
+58-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:52:13-38
+59            android:exported="true"
+59-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:53:13-36
+60            android:launchMode="singleTask"
+60-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:54:13-44
+61            android:windowSoftInputMode="adjustPan" >
+61-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:55:13-52
+62            <intent-filter>
+62-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:56:13-61:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:57:17-69
+63-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:57:25-66
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+65-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:60:17-77
+66-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:60:27-74
+67            </intent-filter>
+68        </activity>
+69        <activity
+69-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:64:9-69:64
+70            android:name="com.best.deskclock.ringtone.RingtonePickerActivity"
+70-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:65:13-60
+71            android:excludeFromRecents="true"
+71-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:66:13-46
+72            android:parentActivityName="com.best.deskclock.DeskClock"
+72-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:67:13-52
+73            android:taskAffinity=""
+73-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:68:13-36
+74            android:theme="@style/Theme.DeskClock.Actionbar" />
+74-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:69:13-61
+75        <activity
+75-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:71:9-77:64
+76            android:name="com.best.deskclock.worldclock.CitySelectionActivity"
+76-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:72:13-61
+77            android:excludeFromRecents="true"
+77-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:73:13-46
+78            android:label="@string/cities_activity_title"
+78-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:74:13-58
+79            android:parentActivityName="com.best.deskclock.DeskClock"
+79-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:75:13-52
+80            android:taskAffinity=""
+80-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:76:13-36
+81            android:theme="@style/Theme.DeskClock.Actionbar" />
+81-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:77:13-61
+82        <activity
+82-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:79:9-85:64
+83            android:name="com.best.deskclock.settings.SettingsActivity"
+83-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:80:13-54
+84            android:excludeFromRecents="true"
+84-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:81:13-46
+85            android:label="@string/settings"
+85-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:82:13-45
+86            android:parentActivityName="com.best.deskclock.DeskClock"
+86-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:83:13-52
+87            android:taskAffinity=""
+87-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:84:13-36
+88            android:theme="@style/Theme.DeskClock.Actionbar" />
+88-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:85:13-61
+89        <activity
+89-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:87:9-92:62
+90            android:name="com.best.deskclock.HandleShortcuts"
+90-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:88:13-44
+91            android:excludeFromRecents="true"
+91-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:89:13-46
+92            android:launchMode="singleInstance"
+92-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:90:13-48
+93            android:taskAffinity=""
+93-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:91:13-36
+94            android:theme="@android:style/Theme.NoDisplay" />
+94-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:92:13-59
+95
+96        <!-- ============================================================== -->
+97        <!-- AlarmClock API components. -->
+98        <!-- ============================================================== -->
+99
+100        <activity
+100-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:98:9-120:20
+101            android:name="com.best.deskclock.HandleApiCalls"
+101-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:99:13-61
+102            android:excludeFromRecents="true"
+102-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:100:13-46
+103            android:exported="true"
+103-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:101:13-36
+104            android:permission="com.android.alarm.permission.SET_ALARM"
+104-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:102:13-72
+105            android:theme="@android:style/Theme.NoDisplay" >
+105-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:103:13-59
+106            <intent-filter>
+106-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:104:13-107:29
+107                <action android:name="android.intent.action.SET_ALARM" />
+107-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:105:17-74
+107-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:105:25-71
+108
+109                <category android:name="android.intent.category.DEFAULT" />
+109-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+109-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+110            </intent-filter>
+111            <intent-filter>
+111-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:108:13-111:29
+112                <action android:name="android.intent.action.SHOW_ALARMS" />
+112-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:109:17-76
+112-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:109:25-73
+113
+114                <category android:name="android.intent.category.DEFAULT" />
+114-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+114-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+115            </intent-filter>
+116            <intent-filter>
+116-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:112:13-115:29
+117                <action android:name="org.omnirom.deskclock.ACTION_SHOW_STOPWATCH" />
+117-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:113:17-86
+117-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:113:25-83
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+119-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+120            </intent-filter>
+121            <intent-filter>
+121-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:116:13-119:29
+122                <action android:name="android.intent.action.SET_TIMER" />
+122-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:117:17-74
+122-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:117:25-71
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+124-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+125            </intent-filter>
+126        </activity>
+127
+128        <activity-alias
+128-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:122:9-125:74
+129            android:name="com.best.deskclock.HandleSetAlarm"
+129-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:123:13-42
+130            android:exported="true"
+130-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:124:13-36
+131            android:targetActivity="com.best.deskclock.HandleApiCalls" />
+131-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:125:13-71
+132
+133        <!-- ============================================================== -->
+134        <!-- Alarm components. -->
+135        <!-- ============================================================== -->
+136
+137        <activity
+137-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:131:9-142:39
+138            android:name="com.best.deskclock.alarms.AlarmActivity"
+138-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:132:13-49
+139            android:directBootAware="true"
+139-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:133:13-43
+140            android:excludeFromRecents="true"
+140-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:134:13-46
+141            android:resizeableActivity="false"
+141-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:135:13-47
+142            android:showOnLockScreen="true"
+142-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:136:13-44
+143            android:showWhenLocked="true"
+143-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:137:13-42
+144            android:taskAffinity=""
+144-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:138:13-36
+145            android:theme="@style/Theme.DeskClock.Wallpaper"
+145-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:139:13-61
+146            android:windowSoftInputMode="stateAlwaysHidden" />
+146-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:140:13-60
+147        <activity
+147-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:144:9-147:80
+148            android:name="com.best.deskclock.AlarmSelectionActivity"
+148-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:145:13-51
+149            android:label="@string/dismiss_alarm"
+149-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:146:13-50
+150            android:theme="@android:style/Theme.Material.Dialog.NoActionBar" />
+150-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:147:13-77
+151
+152        <provider
+152-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:149:9-153:40
+153            android:name="com.best.deskclock.provider.ClockProvider"
+153-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:150:13-51
+154            android:authorities="com.best.deskclock"
+154-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:151:13-53
+155            android:directBootAware="true"
+155-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:152:13-43
+156            android:exported="false" />
+156-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:153:13-37
+157
+158        <receiver
+158-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:155:9-168:20
+159            android:name="com.best.deskclock.AlarmInitReceiver"
+159-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:156:13-46
+160            android:directBootAware="true"
+160-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:157:13-43
+161            android:exported="false" >
+161-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:158:13-37
+162            <intent-filter>
+162-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:159:13-167:29
+163                <action android:name="android.intent.action.BOOT_COMPLETED" />
+163-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:160:17-79
+163-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:160:25-76
+164                <action android:name="android.intent.action.LOCALE_CHANGED" />
+164-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:161:17-79
+164-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:161:25-76
+165                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+165-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:162:17-86
+165-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:162:25-83
+166                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+166-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:163:17-84
+166-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:163:25-81
+167                <action android:name="android.intent.action.TIME_SET" />
+167-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:164:17-73
+167-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:164:25-70
+168                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+168-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:165:17-81
+168-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:165:25-78
+169                <action android:name="org.codeaurora.poweroffalarm.action.UPDATE_ALARM" />
+169-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:166:17-91
+169-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:166:25-88
+170            </intent-filter>
+171        </receiver>
+172        <receiver
+172-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:170:9-172:46
+173            android:name="com.best.deskclock.alarms.AlarmStateManager"
+173-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:171:13-53
+174            android:directBootAware="true" />
+174-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:172:13-43
+175
+176        <service
+176-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:174:9-176:46
+177            android:name="com.best.deskclock.alarms.AlarmService"
+177-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:175:13-48
+178            android:directBootAware="true" />
+178-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:176:13-43
+179
+180        <!-- ============================================================== -->
+181        <!-- Timer components. -->
+182        <!-- ============================================================== -->
+183
+184        <activity
+184-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:182:9-191:52
+185            android:name="com.best.deskclock.timer.ExpiredTimersActivity"
+185-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:183:13-56
+186            android:configChanges="screenSize|keyboardHidden|keyboard|navigation"
+186-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:184:13-82
+187            android:directBootAware="true"
+187-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:185:13-43
+188            android:excludeFromRecents="true"
+188-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:186:13-46
+189            android:launchMode="singleInstance"
+189-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:187:13-48
+190            android:resizeableActivity="false"
+190-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:188:13-47
+191            android:showOnLockScreen="true"
+191-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:189:13-44
+192            android:taskAffinity="" />
+192-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:190:13-36
+193
+194        <!-- Legacy broadcast receiver that honors old scheduled timers across app upgrade. -->
+195        <receiver
+195-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:194:9-200:20
+196            android:name="com.best.deskclock.timer.TimerReceiver"
+196-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:195:13-66
+197            android:exported="false" >
+197-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:196:13-37
+198            <intent-filter>
+198-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:197:13-199:29
+199                <action android:name="times_up" />
+199-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:198:17-51
+199-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:198:25-48
+200            </intent-filter>
+201        </receiver>
+202
+203        <service
+203-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:202:9-205:46
+204            android:name="com.best.deskclock.timer.TimerService"
+204-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:203:13-47
+205            android:description="@string/timer_service_desc"
+205-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:204:13-61
+206            android:directBootAware="true" />
+206-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:205:13-43
+207
+208        <!-- ============================================================== -->
+209        <!-- Stopwatch components. -->
+210        <!-- ============================================================== -->
+211
+212        <service
+212-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:211:9-214:46
+213            android:name="com.best.deskclock.stopwatch.StopwatchService"
+213-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:212:13-55
+214            android:description="@string/stopwatch_service_desc"
+214-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:213:13-65
+215            android:directBootAware="true" />
+215-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:214:13-43
+216
+217        <!-- ============================================================== -->
+218        <!-- Screen saver components. -->
+219        <!-- ============================================================== -->
+220
+221        <activity
+221-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:221:9-226:52
+222            android:name="com.best.deskclock.ScreensaverActivity"
+222-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:222:13-48
+223            android:excludeFromRecents="true"
+223-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:223:13-46
+224            android:resizeableActivity="false"
+224-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:224:13-47
+225            android:taskAffinity="" />
+225-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:225:13-36
+226        <activity
+226-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:228:9-234:64
+227            android:name="com.best.deskclock.settings.ScreensaverSettingsActivity"
+227-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:229:13-65
+228            android:excludeFromRecents="true"
+228-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:230:13-46
+229            android:label="@string/screensaver_settings"
+229-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:231:13-57
+230            android:parentActivityName="com.best.deskclock.DeskClock"
+230-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:232:13-52
+231            android:taskAffinity=""
+231-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:233:13-36
+232            android:theme="@style/Theme.DeskClock.Actionbar" />
+232-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:234:13-61
+233
+234        <service
+234-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:236:9-250:19
+235            android:name="com.best.deskclock.Screensaver"
+235-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:237:13-40
+236            android:exported="false"
+236-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:238:13-37
+237            android:label="@string/app_label"
+237-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:239:13-46
+238            android:permission="android.permission.BIND_DREAM_SERVICE" >
+238-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:240:13-71
+239            <intent-filter>
+239-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:241:13-246:29
+240                <action android:name="android.service.dreams.DreamService" />
+240-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:242:17-78
+240-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:242:25-75
+241                <action android:name="android.app.action.NEXT_ALARM_CLOCK_CHANGED" />
+241-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:243:17-86
+241-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:243:25-83
+242
+243                <category android:name="android.intent.category.DEFAULT" />
+243-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:17-76
+243-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:59:27-73
+244            </intent-filter>
+245
+246            <meta-data
+246-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:247:13-249:60
+247                android:name="android.service.dream"
+247-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:248:17-53
+248                android:resource="@xml/screensaver_info" />
+248-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:249:17-57
+249        </service>
+250
+251        <!-- ============================================================== -->
+252        <!-- App widget components. -->
+253        <!-- ============================================================== -->
+254
+255        <receiver
+255-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:256:9-270:20
+256            android:name="com.best.alarmclock.AnalogAppWidgetProvider"
+256-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:257:13-71
+257            android:exported="false"
+257-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:258:13-37
+258            android:label="@string/analog_gadget" >
+258-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:259:13-50
+259            <intent-filter>
+259-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:260:13-262:29
+260                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+260-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:261:17-84
+260-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:261:25-81
+261            </intent-filter>
+262
+263            <meta-data
+263-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:264:13-266:78
+264                android:name="android.appwidget.oldName"
+264-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:265:17-57
+265                android:value="com.best.deskclock.AnalogAppWidgetProvider" />
+265-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:266:17-75
+266            <meta-data
+266-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:267:13-269:60
+267                android:name="android.appwidget.provider"
+267-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:268:17-58
+268                android:resource="@xml/analog_appwidget" />
+268-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:269:17-57
+269        </receiver>
+270        <receiver
+270-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:272:9-291:20
+271            android:name="com.best.alarmclock.DigitalAppWidgetProvider"
+271-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:273:13-72
+272            android:exported="false"
+272-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:274:13-37
+273            android:label="@string/digital_gadget" >
+273-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:275:13-51
+274            <intent-filter>
+274-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:276:13-287:29
+275                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+275-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:261:17-84
+275-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:261:25-81
+276                <action android:name="android.app.action.NEXT_ALARM_CLOCK_CHANGED" />
+276-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:243:17-86
+276-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:243:25-83
+277                <action android:name="android.intent.action.DATE_CHANGED" />
+277-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:279:17-77
+277-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:279:25-74
+278                <action android:name="android.intent.action.LOCALE_CHANGED" />
+278-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:161:17-79
+278-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:161:25-76
+279                <action android:name="android.intent.action.SCREEN_ON" />
+279-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:281:17-74
+279-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:281:25-71
+280                <action android:name="android.intent.action.TIME_SET" />
+280-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:164:17-73
+280-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:164:25-70
+281                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+281-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:165:17-81
+281-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:165:25-78
+282                <action android:name="com.best.deskclock.ALARM_CHANGED" />
+282-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:284:17-75
+282-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:284:25-72
+283                <action android:name="com.best.deskclock.ON_DAY_CHANGE" />
+283-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:285:17-75
+283-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:285:25-72
+284                <action android:name="com.best.deskclock.WORLD_CITIES_CHANGED" />
+284-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:286:17-82
+284-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:286:25-79
+285            </intent-filter>
+286
+287            <meta-data
+287-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:267:13-269:60
+288                android:name="android.appwidget.provider"
+288-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:268:17-58
+289                android:resource="@xml/digital_appwidget" />
+289-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:269:17-57
+290        </receiver>
+291
+292        <service
+292-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:293:9-295:72
+293            android:name="com.best.alarmclock.DigitalAppWidgetCityService"
+293-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:294:13-75
+294            android:permission="android.permission.BIND_REMOTEVIEWS" />
+294-->D:\android_project\clock\clock\src\main\AndroidManifest.xml:295:13-69
+295
+296        <provider
+296-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+297            android:name="androidx.startup.InitializationProvider"
+297-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+298            android:authorities="com.best.deskclock.androidx-startup"
+298-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+299            android:exported="false" >
+299-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+300            <meta-data
+300-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+301                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+301-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+302                android:value="androidx.startup" />
+302-->[androidx.emoji2:emoji2:1.0.0] C:\Users\temp\.gradle\caches\transforms-3\1dc53c2b6b4d424573e414667881d717\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+303            <meta-data
+303-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\temp\.gradle\caches\transforms-3\c58f49ca58672dc5300be2601586d3c4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+304                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+304-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\temp\.gradle\caches\transforms-3\c58f49ca58672dc5300be2601586d3c4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+305                android:value="androidx.startup" />
+305-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\temp\.gradle\caches\transforms-3\c58f49ca58672dc5300be2601586d3c4\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+306            <meta-data
+306-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:30:13-32:52
+307                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+307-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:31:17-85
+308                android:value="androidx.startup" />
+308-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:32:17-49
+309        </provider>
+310
+311        <uses-library
+311-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:25:9-27:40
+312            android:name="androidx.window.extensions"
+312-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:26:13-54
+313            android:required="false" />
+313-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:27:13-37
+314        <uses-library
+314-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:28:9-30:40
+315            android:name="androidx.window.sidecar"
+315-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:29:13-51
+316            android:required="false" />
+316-->[androidx.window:window:1.1.0-alpha02] C:\Users\temp\.gradle\caches\transforms-3\105be6acb6135991357a8df964b7e6c5\transformed\window-1.1.0-alpha02\AndroidManifest.xml:30:13-37
+317
+318        <receiver
+318-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:35:9-47:20
+319            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+319-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:36:13-76
+320            android:directBootAware="false"
+320-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:37:13-44
+321            android:enabled="true"
+321-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:38:13-35
+322            android:exported="true"
+322-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:39:13-36
+323            android:permission="android.permission.DUMP" >
+323-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:40:13-57
+324            <intent-filter>
+324-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:41:13-43:29
+325                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+325-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:42:17-91
+325-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:42:25-88
+326            </intent-filter>
+327            <intent-filter>
+327-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:44:13-46:29
+328                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+328-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:45:17-85
+328-->[androidx.profileinstaller:profileinstaller:1.2.0-beta03] C:\Users\temp\.gradle\caches\transforms-3\3c28c73b0c0d32bfb92a737bec6c3b7d\transformed\profileinstaller-1.2.0-beta03\AndroidManifest.xml:45:25-82
+329            </intent-filter>
+330        </receiver>
+331    </application>
+332
+333</manifest>

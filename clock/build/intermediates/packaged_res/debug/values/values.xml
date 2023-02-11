@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="action_setting_entries">
+        <item>Snooze</item>
+        <item>Dismiss</item>
+        <item>Nothing</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm set for less than 1 minute from now.</item>
+        <item>Alarm set for <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> and <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 days" id="DAYS">%1$s</ns1:g> and <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g> and <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> from now.</item>
+        <item>Alarm set for <ns1:g example="2 days" id="DAYS">%1$s</ns1:g>, <ns1:g example="2 hours" id="HOURS">%2$s</ns1:g>, and <ns1:g example="2 minutes" id="MINUTES">%3$s</ns1:g> from now.</item>
+    </string-array>
+    <string-array name="array_theme">
+        <item>System</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="auto_silence_values" translatable="false">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>-1</item> 
+    </string-array>
+    <array name="city_ids" translatable="false">
+        <item>@string/C1</item>
+        <item>@string/C2</item>
+        <item>@string/C3</item>
+        <item>@string/C4</item>
+        <item>@string/C5</item>
+        <item>@string/C6</item>
+        <item>@string/C7</item>
+        <item>@string/C8</item>
+        <item>@string/C9</item>
+        <item>@string/C10</item>
+        <item>@string/C11</item>
+        <item>@string/C12</item>
+        <item>@string/C13</item>
+        <item>@string/C14</item>
+        <item>@string/C15</item>
+        <item>@string/C16</item>
+        <item>@string/C17</item>
+        <item>@string/C18</item>
+        <item>@string/C19</item>
+        <item>@string/C20</item>
+        <item>@string/C21</item>
+        <item>@string/C22</item>
+        <item>@string/C23</item>
+        <item>@string/C24</item>
+        <item>@string/C25</item>
+        <item>@string/C26</item>
+        <item>@string/C27</item>
+        <item>@string/C28</item>
+        <item>@string/C29</item>
+        <item>@string/C31</item>
+        <item>@string/C32</item>
+        <item>@string/C33</item>
+        <item>@string/C34</item>
+        <item>@string/C35</item>
+        <item>@string/C36</item>
+        <item>@string/C37</item>
+        <item>@string/C38</item>
+        <item>@string/C39</item>
+        <item>@string/C40</item>
+        <item>@string/C42</item>
+        <item>@string/C43</item>
+        <item>@string/C44</item>
+        <item>@string/C45</item>
+        <item>@string/C46</item>
+        <item>@string/C47</item>
+        <item>@string/C48</item>
+        <item>@string/C49</item>
+        <item>@string/C50</item>
+        <item>@string/C51</item>
+        <item>@string/C52</item>
+        <item>@string/C53</item>
+        <item>@string/C54</item>
+        <item>@string/C55</item>
+        <item>@string/C56</item>
+        <item>@string/C57</item>
+        <item>@string/C58</item>
+        <item>@string/C59</item>
+        <item>@string/C60</item>
+        <item>@string/C61</item>
+        <item>@string/C62</item>
+        <item>@string/C63</item>
+        <item>@string/C64</item>
+        <item>@string/C65</item>
+        <item>@string/C66</item>
+        <item>@string/C67</item>
+        <item>@string/C68</item>
+        <item>@string/C69</item>
+        <item>@string/C70</item>
+        <item>@string/C71</item>
+        <item>@string/C72</item>
+        <item>@string/C73</item>
+        <item>@string/C74</item>
+        <item>@string/C75</item>
+        <item>@string/C76</item>
+        <item>@string/C77</item>
+        <item>@string/C78</item>
+        <item>@string/C79</item>
+        <item>@string/C80</item>
+        <item>@string/C81</item>
+        <item>@string/C82</item>
+        <item>@string/C83</item>
+        <item>@string/C84</item>
+        <item>@string/C85</item>
+        <item>@string/C86</item>
+        <item>@string/C87</item>
+        <item>@string/C88</item>
+        <item>@string/C89</item>
+        <item>@string/C90</item>
+        <item>@string/C91</item>
+        <item>@string/C92</item>
+        <item>@string/C93</item>
+        <item>@string/C94</item>
+        <item>@string/C95</item>
+        <item>@string/C96</item>
+        <item>@string/C97</item>
+        <item>@string/C98</item>
+        <item>@string/C99</item>
+        <item>@string/C100</item>
+        <item>@string/C101</item>
+        <item>@string/C102</item>
+        <item>@string/C103</item>
+        <item>@string/C104</item>
+        <item>@string/C105</item>
+        <item>@string/C106</item>
+        <item>@string/C107</item>
+        <item>@string/C108</item>
+        <item>@string/C109</item>
+        <item>@string/C110</item>
+        <item>@string/C111</item>
+        <item>@string/C112</item>
+        <item>@string/C113</item>
+        <item>@string/C114</item>
+        <item>@string/C115</item>
+        <item>@string/C117</item>
+        <item>@string/C118</item>
+        <item>@string/C119</item>
+        <item>@string/C120</item>
+        <item>@string/C121</item>
+        <item>@string/C122</item>
+        <item>@string/C123</item>
+        <item>@string/C124</item>
+        <item>@string/C125</item>
+        <item>@string/C126</item>
+        <item>@string/C127</item>
+        <item>@string/C128</item>
+        <item>@string/C130</item>
+        <item>@string/C131</item>
+        <item>@string/C133</item>
+        <item>@string/C134</item>
+        <item>@string/C135</item>
+        <item>@string/C136</item>
+        <item>@string/C137</item>
+        <item>@string/C138</item>
+        <item>@string/C139</item>
+        <item>@string/C140</item>
+        <item>@string/C141</item>
+        <item>@string/C142</item>
+        <item>@string/C143</item>
+        <item>@string/C144</item>
+        <item>@string/C145</item>
+        <item>@string/C146</item>
+        <item>@string/C147</item>
+        <item>@string/C148</item>
+        <item>@string/C149</item>
+        <item>@string/C150</item>
+        <item>@string/C151</item>
+        <item>@string/C152</item>
+        <item>@string/C153</item>
+        <item>@string/C154</item>
+        <item>@string/C155</item>
+        <item>@string/C156</item>
+        <item>@string/C157</item>
+        <item>@string/C158</item>
+        <item>@string/C159</item>
+        <item>@string/C160</item>
+        <item>@string/C161</item>
+        <item>@string/C162</item>
+        <item>@string/C163</item>
+        <item>@string/C164</item>
+        <item>@string/C165</item>
+        <item>@string/C166</item>
+        <item>@string/C167</item>
+        <item>@string/C168</item>
+        <item>@string/C169</item>
+        <item>@string/C170</item>
+        <item>@string/C171</item>
+        <item>@string/C172</item>
+        <item>@string/C173</item>
+        <item>@string/C174</item>
+        <item>@string/C175</item>
+        <item>@string/C176</item>
+        <item>@string/C177</item>
+        <item>@string/C178</item>
+        <item>@string/C179</item>
+        <item>@string/C180</item>
+        <item>@string/C181</item>
+        <item>@string/C182</item>
+        <item>@string/C183</item>
+        <item>@string/C184</item>
+        <item>@string/C185</item>
+        <item>@string/C186</item>
+        <item>@string/C187</item>
+        <item>@string/C188</item>
+        <item>@string/C189</item>
+        <item>@string/C190</item>
+        <item>@string/C191</item>
+        <item>@string/C192</item>
+        <item>@string/C193</item>
+        <item>@string/C194</item>
+        <item>@string/C195</item>
+        <item>@string/C196</item>
+        <item>@string/C197</item>
+        <item>@string/C198</item>
+        <item>@string/C199</item>
+        <item>@string/C200</item>
+        <item>@string/C201</item>
+        <item>@string/C202</item>
+        <item>@string/C203</item>
+        <item>@string/C204</item>
+        <item>@string/C205</item>
+        <item>@string/C206</item>
+        <item>@string/C207</item>
+        <item>@string/C208</item>
+        <item>@string/C209</item>
+        <item>@string/C210</item>
+        <item>@string/C211</item>
+        <item>@string/C214</item>
+        <item>@string/C215</item>
+        <item>@string/C216</item>
+        <item>@string/C217</item>
+        <item>@string/C218</item>
+        <item>@string/C219</item>
+        <item>@string/C220</item>
+        <item>@string/C221</item>
+        <item>@string/C222</item>
+        <item>@string/C223</item>
+        <item>@string/C224</item>
+        <item>@string/C225</item>
+        <item>@string/C226</item>
+        <item>@string/C227</item>
+        <item>@string/C228</item>
+        <item>@string/C229</item>
+        <item>@string/C230</item>
+        <item>@string/C231</item>
+        <item>@string/C232</item>
+        <item>@string/C233</item>
+        <item>@string/C234</item>
+        <item>@string/C235</item>
+        <item>@string/C236</item>
+        <item>@string/C237</item>
+        <item>@string/C238</item>
+        <item>@string/C239</item>
+        <item>@string/C240</item>
+        <item>@string/C241</item>
+        <item>@string/C242</item>
+        <item>@string/C243</item>
+        <item>@string/C244</item>
+        <item>@string/C245</item>
+        <item>@string/C246</item>
+        <item>@string/C247</item>
+        <item>@string/C248</item>
+        <item>@string/C249</item>
+        <item>@string/C250</item>
+        <item>@string/C251</item>
+        <item>@string/C252</item>
+        <item>@string/C253</item>
+        <item>@string/C254</item>
+        <item>@string/C255</item>
+        <item>@string/C256</item>
+        <item>@string/C257</item>
+        <item>@string/C258</item>
+        <item>@string/C259</item>
+        <item>@string/C260</item>
+        <item>@string/C261</item>
+        <item>@string/C262</item>
+        <item>@string/C263</item>
+        <item>@string/C264</item>
+        <item>@string/C265</item>
+        <item>@string/C266</item>
+        <item>@string/C267</item>
+        <item>@string/C268</item>
+        <item>@string/C269</item>
+        <item>@string/C270</item>
+        <item>@string/C271</item>
+        <item>@string/C272</item>
+        <item>@string/C273</item>
+        <item>@string/C274</item>
+        <item>@string/C275</item>
+        <item>@string/C276</item>
+        <item>@string/C277</item>
+        <item>@string/C278</item>
+        <item>@string/C279</item>
+        <item>@string/C280</item>
+        <item>@string/C281</item>
+        <item>@string/C282</item>
+        <item>@string/C283</item>
+        <item>@string/C284</item>
+        <item>@string/C285</item>
+        <item>@string/C286</item>
+        <item>@string/C287</item>
+        <item>@string/C288</item>
+        <item>@string/C290</item>
+        <item>@string/C291</item>
+        <item>@string/C292</item>
+        <item>@string/C293</item>
+        <item>@string/C294</item>
+        <item>@string/C295</item>
+        <item>@string/C296</item>
+        <item>@string/C297</item>
+        <item>@string/C298</item>
+        <item>@string/C299</item>
+        <item>@string/C300</item>
+        <item>@string/C301</item>
+        <item>@string/C302</item>
+        <item>@string/C303</item>
+        <item>@string/C304</item>
+        <item>@string/C305</item>
+        <item>@string/C306</item>
+        <item>@string/C307</item>
+        <item>@string/C308</item>
+        <item>@string/C309</item>
+        <item>@string/C310</item>
+        <item>@string/C311</item>
+        <item>@string/C312</item>
+        <item>@string/C313</item>
+        <item>@string/C314</item>
+        <item>@string/C315</item>
+        <item>@string/C316</item>
+        <item>@string/C317</item>
+        <item>@string/C318</item>
+        <item>@string/C319</item>
+        <item>@string/C320</item>
+        <item>@string/C321</item>
+        <item>@string/C322</item>
+        <item>@string/C323</item>
+        <item>@string/C324</item>
+        <item>@string/C325</item>
+        <item>@string/C326</item>
+        <item>@string/C327</item>
+        <item>@string/C328</item>
+        <item>@string/C329</item>
+        <item>@string/C330</item>
+        <item>@string/C331</item>
+        <item>@string/C332</item>
+        <item>@string/C333</item>
+        <item>@string/C334</item>
+        <item>@string/C335</item>
+        <item>@string/C336</item>
+        <item>@string/C337</item>
+        <item>@string/C338</item>
+        <item>@string/C339</item>
+        <item>@string/C340</item>
+        <item>@string/C341</item>
+        <item>@string/C342</item>
+        <item>@string/C343</item>
+        <item>@string/C344</item>
+        <item>@string/C345</item>
+        <item>@string/C346</item>
+        <item>@string/C347</item>
+        <item>@string/C348</item>
+    </array>
+    <string-array name="clock_style_entries">
+        <item>Analog</item>
+        <item>Digital</item>
+    </string-array>
+    <string-array name="clock_style_values" translatable="false">
+        <item>analog</item>
+        <item>digital</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>Off</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>20 seconds</item>
+        <item>25 seconds</item>
+        <item>30 seconds</item>
+        <item>35 seconds</item>
+        <item>40 seconds</item>
+        <item>45 seconds</item>
+        <item>50 seconds</item>
+        <item>55 seconds</item>
+        <item>60 seconds</item>
+    </string-array>
+    <string-array name="crescendo_values" translatable="false">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>4 minutes</item>
+        <item>5 minutes</item>
+        <item>6 minutes</item>
+        <item>7 minutes</item>
+        <item>8 minutes</item>
+        <item>9 minutes</item>
+        <item>10 minutes</item>
+        <item>11 minutes</item>
+        <item>12 minutes</item>
+        <item>13 minutes</item>
+        <item>14 minutes</item>
+        <item>15 minutes</item>
+        <item>16 minutes</item>
+        <item>17 minutes</item>
+        <item>18 minutes</item>
+        <item>19 minutes</item>
+        <item>20 minutes</item>
+        <item>21 minutes</item>
+        <item>22 minutes</item>
+        <item>23 minutes</item>
+        <item>24 minutes</item>
+        <item>25 minutes</item>
+        <item>26 minutes</item>
+        <item>27 minutes</item>
+        <item>28 minutes</item>
+        <item>29 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="snooze_duration_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="sw_share_strings" translatable="true">
+        <item>You\'re quite the speed demon.</item>
+        <item>Enjoy the fruits of your labor.</item>
+        <item>Androids are known to be fast, but not as fast as you!</item>
+        <item>Phew.</item>
+        <item>L33t times.</item>
+        <item>Such prodigious velocity.</item>
+        <item>Let\'s do the time warp again.</item>
+        <item>Just a jump to the left.</item>
+        <item>You have a palette for haste.</item>
+        <item>Photonic velocity.</item>
+    </string-array>
+    <string-array name="theme_setting_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="timezone_labels" ns2:ignore="Typos">
+        <item>"Marshall Islands"</item>
+        <item>"Midway Island"</item>
+        <item>"Hawaii"</item>
+        <item>"Alaska"</item>
+        <item>"Pacific Time"</item>
+        <item>"Tijuana"</item>
+        <item>"Arizona"</item>
+        <item>"Chihuahua"</item>
+        <item>"Mountain Time"</item>
+        <item>"Central America"</item>
+        <item>"Central Time"</item>
+        <item>"Mexico City"</item>
+        <item>"Saskatchewan"</item>
+        <item>"Bogota"</item>
+        <item>"Eastern Time"</item>
+        <item>"Venezuela"</item>
+        <item>"Atlantic Time (Barbados)"</item>
+        <item>"Atlantic Time (Canada)"</item>
+        <item>"Manaus"</item>
+        <item>"Santiago"</item>
+        <item>"Newfoundland"</item>
+        <item>"Brasilia"</item>
+        <item>"Buenos Aires"</item>
+        <item>"Greenland"</item>
+        <item>"Montevideo"</item>
+        <item>"Mid-Atlantic"</item>
+        <item>"Azores"</item>
+        <item>"Cape Verde Islands"</item>
+        <item>"Casablanca"</item>
+        <item>"London, Dublin"</item>
+        <item>"Amsterdam, Berlin"</item>
+        <item>"Belgrade"</item>
+        <item>"Brussels"</item>
+        <item>"Sarajevo"</item>
+        <item>"Windhoek"</item>
+        <item>"W. Africa Time"</item>
+        <item>"Amman, Jordan"</item>
+        <item>"Athens, Istanbul"</item>
+        <item>"Beirut, Lebanon"</item>
+        <item>"Cairo"</item>
+        <item>"Helsinki"</item>
+        <item>"Jerusalem"</item>
+        <item>"Minsk"</item>
+        <item>"Harare"</item>
+        <item>"Baghdad"</item>
+        <item>"Moscow"</item>
+        <item>"Kuwait"</item>
+        <item>"Nairobi"</item>
+        <item>"Tehran"</item>
+        <item>"Baku"</item>
+        <item>"Tbilisi"</item>
+        <item>"Yerevan"</item>
+        <item>"Dubai"</item>
+        <item>"Kabul"</item>
+        <item>"Islamabad, Karachi"</item>
+        <item>"Ural'sk"</item>
+        <item>"Yekaterinburg"</item>
+        <item>"Kolkata"</item>
+        <item>"Sri Lanka"</item>
+        <item>"Kathmandu"</item>
+        <item>"Astana"</item>
+        <item>"Yangon"</item>
+        <item>"Krasnoyarsk"</item>
+        <item>"Bangkok"</item>
+        <item>"Beijing"</item>
+        <item>"Hong Kong"</item>
+        <item>"Irkutsk"</item>
+        <item>"Kuala Lumpur"</item>
+        <item>"Perth"</item>
+        <item>"Taipei"</item>
+        <item>"Seoul"</item>
+        <item>"Tokyo, Osaka"</item>
+        <item>"Yakutsk"</item>
+        <item>"Adelaide"</item>
+        <item>"Darwin"</item>
+        <item>"Brisbane"</item>
+        <item>"Hobart"</item>
+        <item>"Sydney, Canberra"</item>
+        <item>"Vladivostok"</item>
+        <item>"Guam"</item>
+        <item>"Magadan"</item>
+        <item>"Auckland"</item>
+        <item>"Fiji"</item>
+        <item>"Tonga"</item>
+        <item>"Jakarta"</item>
+    </string-array>
+    <string-array name="timezone_values" ns2:ignore="Typos" translatable="false">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+        <item>Asia/Jakarta</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Snooze</item>
+        <item>Dismiss</item>
+        <item>Control volume</item>
+    </string-array>
+    <string-array name="volume_button_setting_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+    <string-array name="week_start_values" translatable="false">
+        <item>7</item> 
+        <item>1</item> 
+        <item>2</item> 
+    </string-array>
+    <bool name="rotateAlarmAlert">false</bool>
+    <color name="black">#FF000000</color>
+    <color name="black_54p">#8A000000</color>
+    <color name="md_theme_dark_background">#1B1B1F</color>
+    <color name="md_theme_dark_bottomNav">#14ADC6FF</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_inverseOnSurface">#1B1B1F</color>
+    <color name="md_theme_dark_inversePrimary">#005AC1</color>
+    <color name="md_theme_dark_inverseSurface">#E3E2E6</color>
+    <color name="md_theme_dark_onBackground">#E3E2E6</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_onPrimary">#002E69</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D8E2FF</color>
+    <color name="md_theme_dark_onSecondary">#002E69</color>
+    <color name="md_theme_dark_onSecondaryContainer">#D8E2FF</color>
+    <color name="md_theme_dark_onSurface">#E3E2E6</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C4C6D0</color>
+    <color name="md_theme_dark_onTertiary">#402843</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FBD7FC</color>
+    <color name="md_theme_dark_outline">#8E9099</color>
+    <color name="md_theme_dark_primary">#ADC6FF</color>
+    <color name="md_theme_dark_primaryContainer">#004494</color>
+    <color name="md_theme_dark_secondary">#ADC6FF</color>
+    <color name="md_theme_dark_secondaryContainer">#0D448E</color>
+    <color name="md_theme_dark_surface">#1B1B1F</color>
+    <color name="md_theme_dark_surfaceVariant">#44474F</color>
+    <color name="md_theme_dark_tertiary">#DEBCDF</color>
+    <color name="md_theme_dark_tertiaryContainer">#583E5B</color>
+    <color name="md_theme_light_background">#FEFBFF</color>
+    <color name="md_theme_light_bottomNav">#14005AC1</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_inverseOnSurface">#F2F0F4</color>
+    <color name="md_theme_light_inversePrimary">#ADC6FF</color>
+    <color name="md_theme_light_inverseSurface">#303033</color>
+    <color name="md_theme_light_onBackground">#1B1B1F</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001A41</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondaryContainer">#001A41</color>
+    <color name="md_theme_light_onSurface">#1B1B1F</color>
+    <color name="md_theme_light_onSurfaceVariant">#44474F</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_onTertiaryContainer">#29132D</color>
+    <color name="md_theme_light_outline">#74777F</color>
+    <color name="md_theme_light_primary">#005AC1</color>
+    <color name="md_theme_light_primaryContainer">#D8E2FF</color>
+    <color name="md_theme_light_secondary">#305DA8</color>
+    <color name="md_theme_light_secondaryContainer">#D8E2FF</color>
+    <color name="md_theme_light_surface">#FEFBFF</color>
+    <color name="md_theme_light_surfaceVariant">#E1E2EC</color>
+    <color name="md_theme_light_tertiary">#715573</color>
+    <color name="md_theme_light_tertiaryContainer">#FBD7FC</color>
+    <color name="navigation_icon_color">@color/black</color>
+    <color name="no_alarms">#DE000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_08p">#14FFFFFF</color>
+    <color name="widget_shadow_color">#000000</color>
+    <dimen name="alarm_clock_vertical_margin">12dip</dimen>
+    <dimen name="alarm_horizontal_padding">16dp</dimen>
+    <dimen name="alarm_icon_padding">6dp</dimen>
+    <dimen name="alarm_label_padding">8dip</dimen>
+    <dimen name="alarm_lockscreen_alarm_horizontal_padding">16dp</dimen>
+    <dimen name="alarm_lockscreen_alarm_vertical_padding">48dp</dimen>
+    <dimen name="alarm_lockscreen_bottom_margin">40dp</dimen>
+    <dimen name="alarm_lockscreen_pulse_radius">128dp</dimen>
+    <dimen name="alarm_picker_dialog_horizontal_margin">30dp</dimen>
+    <dimen name="alarm_picker_dialog_vertical_margin">20dp</dimen>
+    <dimen name="alarm_picker_margin_bottom">10dp</dimen>
+    <dimen name="alarm_text_font_size">16sp</dimen>
+    <dimen name="analog_clock_margin">60dp</dimen>
+    <dimen name="analog_clock_size">294dp</dimen>
+    <dimen name="backspace_icon_size">24dp</dimen>
+    <dimen name="big_font_size">32sp</dimen>
+    <dimen name="body_font_padding">4dp</dimen>
+    <dimen name="bottom_text_size">16sp</dimen>
+    <dimen name="bottom_text_spacing_analog">14dp</dimen>
+    <dimen name="bottom_text_spacing_analog_small">6dp</dimen>
+    <dimen name="bottom_text_spacing_digital">-8dp</dimen>
+    <dimen name="checkbox_start_padding">12dp</dimen>
+    <dimen name="circle_margin_top">16dp</dimen>
+    <dimen name="circletimer_circle_size">10dp</dimen>
+    <dimen name="circletimer_dot_size">10dp</dimen>
+    <dimen name="circletimer_marker_size">0dp</dimen>
+    <dimen name="cities_list_item_height">56dip</dimen>
+    <dimen name="city_widget_name_font_size">10dp</dimen>
+    <dimen name="day_button_font_size">16sp</dimen>
+    <dimen name="digital_widget_city_12_medium_font_size">32sp</dimen>
+    <dimen name="digital_widget_city_24_medium_font_size">40sp</dimen>
+    <dimen name="digital_widget_city_margin_bottom">10dp</dimen>
+    <dimen name="fab_alarm_size">56dp</dimen>
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_height">96dp</dimen>
+    <dimen name="fab_margin">0dp</dimen>
+    <dimen name="hairline_height">1dp</dimen>
+    <dimen name="hairline_side_padding">6dp</dimen>
+    <dimen name="header_font_size">24sp</dimen>
+    <dimen name="icon_margin">4dp</dimen>
+    <dimen name="label_edittext_padding">21dp</dimen>
+    <dimen name="label_font_size">16sp</dimen>
+    <dimen name="label_margin_big">4dp</dimen>
+    <dimen name="label_text_size">16sp</dimen>
+    <dimen name="main_clock_digital_font_size">70sp</dimen>
+    <dimen name="main_clock_digital_padding">24dp</dimen>
+    <dimen name="main_clock_font_size">64sp</dimen>
+    <dimen name="max_timer_circle_size">360dp</dimen>
+    <dimen name="medium_space_top">22dp</dimen>
+    <dimen name="min_analog_widget_size">110dp</dimen>
+    <dimen name="min_digital_widget_height">129dp</dimen>
+    <dimen name="min_digital_widget_width">206dp</dimen>
+    <dimen name="no_alarm_font_size">16sp</dimen>
+    <dimen name="no_alarms_size">90dp</dimen>
+    <dimen name="screensaver_margin">16dip</dimen>
+    <dimen name="style_label_space">4dip</dimen>
+    <dimen name="time_margin_top">32dip</dimen>
+    <dimen name="timer_setup_digit_font_size">56sp</dimen>
+    <dimen name="timer_setup_top_size">120dip</dimen>
+    <dimen name="touch_target_min_size">48dp</dimen>
+    <dimen name="widget_max_clock_font_size">88dp</dimen>
+    <dimen name="widget_min_world_city_list_size">80dp</dimen>
+    <item format="float" name="widget_shadow_dx" type="dimen">2.0</item>
+    <item format="float" name="widget_shadow_dy" type="dimen">2.0</item>
+    <item format="float" name="widget_shadow_radius" type="dimen">2.75</item>
+    <dimen name="world_analog_clock_size">220dp</dimen>
+    <dimen name="world_clock_analog_size">60dp</dimen>
+    <item name="ic_caret_down" type="drawable">@drawable/ic_caret_down_animation</item>
+    <item name="ic_caret_up" type="drawable">@drawable/ic_caret_up_animation</item>
+    <item name="ic_tab_alarm" type="drawable">@drawable/ic_tab_alarm_animated</item>
+    <item name="ic_tab_clock" type="drawable">@drawable/ic_tab_clock_animated</item>
+    <item name="ic_tab_stopwatch" type="drawable">@drawable/ic_tab_stopwatch_animated</item>
+    <item name="ic_tab_timer" type="drawable">@drawable/ic_tab_timer_animated</item>
+    <fraction name="timer_circle_height_percent">-100%</fraction>
+    <fraction name="timer_circle_width_percent">60%</fraction>
+    <item name="menu_item_night_mode" type="id"/>
+    <item name="menu_item_search" type="id"/>
+    <item name="menu_item_settings" type="id"/>
+    <item name="menu_item_sort" type="id"/>
+    <integer name="gutter_width_percent">4</integer>
+    <integer name="guttered_content_width_percent">92</integer>
+    <plurals name="alarm_alert_snooze_duration">
+        
+        <item quantity="one">1 min</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%d</ns1:g> min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        
+        <item quantity="one">Snoozing for 1 minute.</item>
+        
+        <item quantity="other">Snoozing for <ns1:g id="minutes">%d</ns1:g> minutes.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        
+        <item quantity="one">1 minute</item>
+        
+        <item quantity="other"><ns1:g example="7" id="formatted_number">%s</ns1:g> minutes</item>
+    </plurals>
+    <plurals name="days">
+        
+        <item quantity="one">1 day</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> days</item>
+    </plurals>
+    <plurals name="expired_timers_dismissed">
+        <item quantity="one">Timer dismissed</item>
+        <item quantity="other"><ns1:g example="5" id="number">%d</ns1:g> timers dismissed</item>
+    </plurals>
+    <plurals name="hours">
+        
+        <item quantity="one">1 hour</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> hours</item>
+    </plurals>
+    <plurals name="hours_short">
+        
+        <item quantity="one">1 hr</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> hr</item>
+    </plurals>
+    <plurals name="minutes">
+        
+        <item quantity="one">1 minute</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> minutes</item>
+    </plurals>
+    <plurals name="minutes_short">
+        
+        <item quantity="one">1 min</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> min</item>
+    </plurals>
+    <plurals name="seconds">
+        
+        <item quantity="one">1 second</item>
+        
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> seconds</item>
+    </plurals>
+    <string name="C1">A<ns1:g id="separator">=</ns1:g>Abidjan<ns1:g id="timezone">|Africa/Abidjan</ns1:g></string>
+    <string name="C10">D<ns1:g id="separator">=</ns1:g>Dakar<ns1:g id="timezone">|Africa/Dakar</ns1:g></string>
+    <string name="C100">A<ns1:g id="separator">=</ns1:g>Amman<ns1:g id="timezone">|Asia/Amman</ns1:g></string>
+    <string name="C101">A<ns1:g id="separator">=</ns1:g>Anadyr<ns1:g id="timezone">|Asia/Anadyr</ns1:g></string>
+    <string name="C102">A<ns1:g id="separator">=</ns1:g>Aqtau<ns1:g id="timezone">|Asia/Aqtau</ns1:g></string>
+    <string name="C103">B<ns1:g id="separator">=</ns1:g>Baghdad<ns1:g id="timezone">|Asia/Baghdad</ns1:g></string>
+    <string name="C104">B<ns1:g id="separator">=</ns1:g>Bahrain<ns1:g id="timezone">|Asia/Bahrain</ns1:g></string>
+    <string name="C105">B<ns1:g id="separator">=</ns1:g>Baku<ns1:g id="timezone">|Asia/Baku</ns1:g></string>
+    <string name="C106">B<ns1:g id="separator">=</ns1:g>Bangkok<ns1:g id="timezone">|Asia/Bangkok</ns1:g></string>
+    <string name="C107">B<ns1:g id="separator">=</ns1:g>Beirut<ns1:g id="timezone">|Asia/Beirut</ns1:g></string>
+    <string name="C108">K<ns1:g id="separator">=</ns1:g>Kolkata<ns1:g id="timezone">|Asia/Calcutta</ns1:g></string>
+    <string name="C109">D<ns1:g id="separator">=</ns1:g>Damascus<ns1:g id="timezone">|Asia/Damascus</ns1:g></string>
+    <string name="C11">D<ns1:g id="separator">=</ns1:g>Dar es Salaam<ns1:g id="timezone">|Africa/Dar_es_Salaam</ns1:g></string>
+    <string name="C110">D<ns1:g id="separator">=</ns1:g>Dhaka<ns1:g id="timezone">|Asia/Dhaka</ns1:g></string>
+    <string name="C111">D<ns1:g id="separator">=</ns1:g>Dubai<ns1:g id="timezone">|Asia/Dubai</ns1:g></string>
+    <string name="C112">G<ns1:g id="separator">=</ns1:g>Gaza<ns1:g id="timezone">|Asia/Gaza</ns1:g></string>
+    <string name="C113">H<ns1:g id="separator">=</ns1:g>Hebron<ns1:g id="timezone">|Asia/Hebron</ns1:g></string>
+    <string name="C114">H<ns1:g id="separator">=</ns1:g>Ho Chi Minh<ns1:g id="timezone">|Asia/Ho_Chi_Minh</ns1:g></string>
+    <string name="C115">H<ns1:g id="separator">=</ns1:g>Hong Kong<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Hong_Kong</ns1:g></string>
+    <string name="C117">J<ns1:g id="separator">=</ns1:g>Jakarta<ns1:g id="timezone">|Asia/Jakarta</ns1:g></string>
+    <string name="C118">J<ns1:g id="separator">=</ns1:g>Jerusalem<ns1:g id="timezone">|Asia/Jerusalem</ns1:g></string>
+    <string name="C119">K<ns1:g id="separator">=</ns1:g>Kabul<ns1:g id="timezone">|Asia/Kabul</ns1:g></string>
+    <string name="C12">D<ns1:g id="separator">=</ns1:g>Djibouti<ns1:g id="timezone">|Africa/Djibouti</ns1:g></string>
+    <string name="C120">K<ns1:g id="separator">=</ns1:g>Karachi<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C121">K<ns1:g id="separator">=</ns1:g>Kathmandu<ns1:g id="timezone">|Asia/Kathmandu</ns1:g></string>
+    <string name="C122">K<ns1:g id="separator">=</ns1:g>Kuala Lumpur<ns1:g id="timezone">|Asia/Kuala_Lumpur</ns1:g></string>
+    <string name="C123">K<ns1:g id="separator">=</ns1:g>Kuwait<ns1:g id="timezone">|Asia/Kuwait</ns1:g></string>
+    <string name="C124">M<ns1:g id="separator">=</ns1:g>Macau<ns1:g id="timezone">|Asia/Macau</ns1:g></string>
+    <string name="C125">M<ns1:g id="separator">=</ns1:g>Manila<ns1:g id="timezone">|Asia/Manila</ns1:g></string>
+    <string name="C126">M<ns1:g id="separator">=</ns1:g>Muscat<ns1:g id="timezone">|Asia/Muscat</ns1:g></string>
+    <string name="C127">P<ns1:g id="separator">=</ns1:g>Phnom Penh<ns1:g id="timezone">|Asia/Phnom_Penh</ns1:g></string>
+    <string name="C128">P<ns1:g id="separator">=</ns1:g>Pyongyang<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Pyongyang</ns1:g></string>
+    <string name="C13">F<ns1:g id="separator">=</ns1:g>Freetown<ns1:g id="timezone">|Africa/Freetown</ns1:g></string>
+    <string name="C130">R<ns1:g id="separator">=</ns1:g>Rangoon<ns1:g id="timezone">|Asia/Rangoon</ns1:g></string>
+    <string name="C131">R<ns1:g id="separator">=</ns1:g>Riyadh<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C133">S<ns1:g id="separator">=</ns1:g>Seoul<ns1:g id="timezone">|Asia/Seoul</ns1:g></string>
+    <string name="C134">S<ns1:g id="separator">=</ns1:g>Shanghai<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C135">S<ns1:g id="separator">=</ns1:g>Singapore<ns1:g id="timezone">|Asia/Singapore</ns1:g></string>
+    <string name="C136">T<ns1:g id="separator">=</ns1:g>Taipei<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Taipei</ns1:g></string>
+    <string name="C137">T<ns1:g id="separator">=</ns1:g>Tehran<ns1:g id="timezone">|Asia/Tehran</ns1:g></string>
+    <string name="C138">T<ns1:g id="separator">=</ns1:g>Tel Aviv<ns1:g id="timezone">|Asia/Tel_Aviv</ns1:g></string>
+    <string name="C139">T<ns1:g id="separator">=</ns1:g>Tokyo<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Tokyo</ns1:g></string>
+    <string name="C14">G<ns1:g id="separator">=</ns1:g>Gaborone<ns1:g id="timezone">|Africa/Gaborone</ns1:g></string>
+    <string name="C140">U<ns1:g id="separator">=</ns1:g>Ulaanbaatar<ns1:g id="timezone">|Asia/Ulaanbaatar</ns1:g></string>
+    <string name="C141">B<ns1:g id="separator">=</ns1:g>Bermuda<ns1:g id="timezone">|Atlantic/Bermuda</ns1:g></string>
+    <string name="C142">C<ns1:g id="separator">=</ns1:g>Canary<ns1:g id="timezone">|Atlantic/Canary</ns1:g></string>
+    <string name="C143">C<ns1:g id="separator">=</ns1:g>Cape Verde<ns1:g id="timezone">|Atlantic/Cape_Verde</ns1:g></string>
+    <string name="C144">R<ns1:g id="separator">=</ns1:g>Reykjavik<ns1:g id="timezone">|Atlantic/Reykjavik</ns1:g></string>
+    <string name="C145">S<ns1:g id="separator">=</ns1:g>Stanley<ns1:g id="timezone">|Atlantic/Stanley</ns1:g></string>
+    <string name="C146">A<ns1:g id="separator">=</ns1:g>Adelaide<ns1:g id="timezone">|Australia/Adelaide</ns1:g></string>
+    <string name="C147">B<ns1:g id="separator">=</ns1:g>Brisbane<ns1:g id="timezone">|Australia/Brisbane</ns1:g></string>
+    <string name="C148">C<ns1:g id="separator">=</ns1:g>Canberra<ns1:g id="timezone">|Australia/Canberra</ns1:g></string>
+    <string name="C149">D<ns1:g id="separator">=</ns1:g>Darwin<ns1:g id="timezone">|Australia/Darwin</ns1:g></string>
+    <string name="C15">H<ns1:g id="separator">=</ns1:g>Harare<ns1:g id="timezone">|Africa/Harare</ns1:g></string>
+    <string name="C150">M<ns1:g id="separator">=</ns1:g>Melbourne<ns1:g id="timezone">|Australia/Melbourne</ns1:g></string>
+    <string name="C151">N<ns1:g id="separator">=</ns1:g>New South Wales<ns1:g id="timezone">|Australia/NSW</ns1:g></string>
+    <string name="C152">P<ns1:g id="separator">=</ns1:g>Perth<ns1:g id="timezone">|Australia/Perth</ns1:g></string>
+    <string name="C153">Q<ns1:g id="separator">=</ns1:g>Queensland<ns1:g id="timezone">|Australia/Queensland</ns1:g></string>
+    <string name="C154">S<ns1:g id="separator">=</ns1:g>Sydney<ns1:g id="timezone">|Australia/Sydney</ns1:g></string>
+    <string name="C155">V<ns1:g id="separator">=</ns1:g>Victoria<ns1:g id="timezone">|Australia/Victoria</ns1:g></string>
+    <string name="C156">N<ns1:g id="separator">=</ns1:g>Newfoundland<ns1:g id="timezone">|Canada/Newfoundland</ns1:g></string>
+    <string name="C157">S<ns1:g id="separator">=</ns1:g>Saskatchewan<ns1:g id="timezone">|Canada/Saskatchewan</ns1:g></string>
+    <string name="C158">E<ns1:g id="separator">=</ns1:g>Easter Island<ns1:g id="timezone">|Chile/EasterIsland</ns1:g></string>
+    <string name="C159">A<ns1:g id="separator">=</ns1:g>Amsterdam<ns1:g id="timezone">|Europe/Amsterdam</ns1:g></string>
+    <string name="C16">J<ns1:g id="separator">=</ns1:g>Johannesburg<ns1:g id="timezone">|Africa/Johannesburg</ns1:g></string>
+    <string name="C160">A<ns1:g id="separator">=</ns1:g>Andorra<ns1:g id="timezone">|Europe/Andorra</ns1:g></string>
+    <string name="C161">A<ns1:g id="separator">=</ns1:g>Athens<ns1:g id="timezone">|Europe/Athens</ns1:g></string>
+    <string name="C162">B<ns1:g id="separator">=</ns1:g>Belfast<ns1:g id="timezone">|Europe/Belfast</ns1:g></string>
+    <string name="C163">B<ns1:g id="separator">=</ns1:g>Belgrade<ns1:g id="timezone">|Europe/Belgrade</ns1:g></string>
+    <string name="C164">B<ns1:g id="separator">=</ns1:g>Berlin<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C165">B<ns1:g id="separator">=</ns1:g>Bratislava<ns1:g id="timezone">|Europe/Bratislava</ns1:g></string>
+    <string name="C166">B<ns1:g id="separator">=</ns1:g>Brussels<ns1:g id="timezone">|Europe/Brussels</ns1:g></string>
+    <string name="C167">B<ns1:g id="separator">=</ns1:g>Bucharest<ns1:g id="timezone">|Europe/Bucharest</ns1:g></string>
+    <string name="C168">B<ns1:g id="separator">=</ns1:g>Budapest<ns1:g id="timezone">|Europe/Budapest</ns1:g></string>
+    <string name="C169">C<ns1:g id="separator">=</ns1:g>Chisinau<ns1:g id="timezone">|Europe/Chisinau</ns1:g></string>
+    <string name="C17">K<ns1:g id="separator">=</ns1:g>Kampala<ns1:g id="timezone">|Africa/Kampala</ns1:g></string>
+    <string name="C170">C<ns1:g id="separator">=</ns1:g>Copenhagen<ns1:g id="timezone">|Europe/Copenhagen</ns1:g></string>
+    <string name="C171">D<ns1:g id="separator">=</ns1:g>Dublin<ns1:g id="timezone">|Europe/Dublin</ns1:g></string>
+    <string name="C172">G<ns1:g id="separator">=</ns1:g>Gibraltar<ns1:g id="timezone">|Europe/Gibraltar</ns1:g></string>
+    <string name="C173">H<ns1:g id="separator">=</ns1:g>Helsinki<ns1:g id="timezone">|Europe/Helsinki</ns1:g></string>
+    <string name="C174">I<ns1:g id="separator">=</ns1:g>Isle of Man<ns1:g id="timezone">|Europe/Isle_of_Man</ns1:g></string>
+    <string name="C175">I<ns1:g id="separator">=</ns1:g>Istanbul<ns1:g id="timezone">|Europe/Istanbul</ns1:g></string>
+    <string name="C176">K<ns1:g id="separator">=</ns1:g>Kiev<ns1:g id="timezone">|Europe/Kiev</ns1:g></string>
+    <string name="C177">L<ns1:g id="separator">=</ns1:g>Lisbon<ns1:g id="timezone">|Europe/Lisbon</ns1:g></string>
+    <string name="C178">L<ns1:g id="separator">=</ns1:g>London<ns1:g id="timezone">|Europe/London</ns1:g></string>
+    <string name="C179">L<ns1:g id="separator">=</ns1:g>Luxembourg<ns1:g id="timezone">|Europe/Luxembourg</ns1:g></string>
+    <string name="C18">K<ns1:g id="separator">=</ns1:g>Khartoum<ns1:g id="timezone">|Africa/Khartoum</ns1:g></string>
+    <string name="C180">M<ns1:g id="separator">=</ns1:g>Madrid<ns1:g id="timezone">|Europe/Madrid</ns1:g></string>
+    <string name="C181">M<ns1:g id="separator">=</ns1:g>Malta<ns1:g id="timezone">|Europe/Malta</ns1:g></string>
+    <string name="C182">M<ns1:g id="separator">=</ns1:g>Minsk<ns1:g id="timezone">|Europe/Minsk</ns1:g></string>
+    <string name="C183">M<ns1:g id="separator">=</ns1:g>Monaco<ns1:g id="timezone">|Europe/Monaco</ns1:g></string>
+    <string name="C184">M<ns1:g id="separator">=</ns1:g>Moscow<ns1:g id="timezone">|Europe/Moscow</ns1:g></string>
+    <string name="C185">O<ns1:g id="separator">=</ns1:g>Oslo<ns1:g id="timezone">|Europe/Oslo</ns1:g></string>
+    <string name="C186">P<ns1:g id="separator">=</ns1:g>Paris<ns1:g id="timezone">|Europe/Paris</ns1:g></string>
+    <string name="C187">P<ns1:g id="separator">=</ns1:g>Prague<ns1:g id="timezone">|Europe/Prague</ns1:g></string>
+    <string name="C188">R<ns1:g id="separator">=</ns1:g>Riga<ns1:g id="timezone">|Europe/Riga</ns1:g></string>
+    <string name="C189">R<ns1:g id="separator">=</ns1:g>Rome<ns1:g id="timezone">|Europe/Rome</ns1:g></string>
+    <string name="C19">K<ns1:g id="separator">=</ns1:g>Kigali<ns1:g id="timezone">|Africa/Kigali</ns1:g></string>
+    <string name="C190">S<ns1:g id="separator">=</ns1:g>San Marino<ns1:g id="timezone">|Europe/San_Marino</ns1:g></string>
+    <string name="C191">S<ns1:g id="separator">=</ns1:g>Sarajevo<ns1:g id="timezone">|Europe/Sarajevo</ns1:g></string>
+    <string name="C192">S<ns1:g id="separator">=</ns1:g>Simferopol<ns1:g id="timezone">|Europe/Simferopol</ns1:g></string>
+    <string name="C193">S<ns1:g id="separator">=</ns1:g>Skopje<ns1:g id="timezone">|Europe/Skopje</ns1:g></string>
+    <string name="C194">S<ns1:g id="separator">=</ns1:g>Sofia<ns1:g id="timezone">|Europe/Sofia</ns1:g></string>
+    <string name="C195">S<ns1:g id="separator">=</ns1:g>Stockholm<ns1:g id="timezone">|Europe/Stockholm</ns1:g></string>
+    <string name="C196">T<ns1:g id="separator">=</ns1:g>Tallinn<ns1:g id="timezone">|Europe/Tallinn</ns1:g></string>
+    <string name="C197">V<ns1:g id="separator">=</ns1:g>Vatican<ns1:g id="timezone">|Europe/Vatican</ns1:g></string>
+    <string name="C198">V<ns1:g id="separator">=</ns1:g>Vienna<ns1:g id="timezone">|Europe/Vienna</ns1:g></string>
+    <string name="C199">V<ns1:g id="separator">=</ns1:g>Vilnius<ns1:g id="timezone">|Europe/Vilnius</ns1:g></string>
+    <string name="C2">A<ns1:g id="separator">=</ns1:g>Accra<ns1:g id="timezone">|Africa/Accra</ns1:g></string>
+    <string name="C20">K<ns1:g id="separator">=</ns1:g>Kinshasa<ns1:g id="timezone">|Africa/Kinshasa</ns1:g></string>
+    <string name="C200">W<ns1:g id="separator">=</ns1:g>Warsaw<ns1:g id="timezone">|Europe/Warsaw</ns1:g></string>
+    <string name="C201">Z<ns1:g id="separator">=</ns1:g>Zagreb<ns1:g id="timezone">|Europe/Zagreb</ns1:g></string>
+    <string name="C202">Z<ns1:g id="separator">=</ns1:g>Zurich<ns1:g id="timezone">|Europe/Zurich</ns1:g></string>
+    <string name="C203">A<ns1:g id="separator">=</ns1:g>Antananarivo<ns1:g id="timezone">|Indian/Antananarivo</ns1:g></string>
+    <string name="C204">M<ns1:g id="separator">=</ns1:g>Maldives<ns1:g id="timezone">|Indian/Maldives</ns1:g></string>
+    <string name="C205">M<ns1:g id="separator">=</ns1:g>Mauritius<ns1:g id="timezone">|Indian/Mauritius</ns1:g></string>
+    <string name="C206">A<ns1:g id="separator">=</ns1:g>Auckland<ns1:g id="timezone">|Pacific/Auckland</ns1:g></string>
+    <string name="C207">F<ns1:g id="separator">=</ns1:g>Fiji<ns1:g id="timezone">|Pacific/Fiji</ns1:g></string>
+    <string name="C208">G<ns1:g id="separator">=</ns1:g>Guam<ns1:g id="timezone">|Pacific/Guam</ns1:g></string>
+    <string name="C209">H<ns1:g id="separator">=</ns1:g>Honolulu<ns1:g id="timezone">|Pacific/Honolulu</ns1:g></string>
+    <string name="C21">L<ns1:g id="separator">=</ns1:g>Lagos<ns1:g id="timezone">|Africa/Lagos</ns1:g></string>
+    <string name="C210">K<ns1:g id="separator">=</ns1:g>Kiritimati<ns1:g id="timezone">|Pacific/Kiritimati</ns1:g></string>
+    <string name="C211">N<ns1:g id="separator">=</ns1:g>Noumea<ns1:g id="timezone">|Pacific/Noumea</ns1:g></string>
+    <string name="C214">A<ns1:g id="separator">=</ns1:g>Antigua<ns1:g id="timezone">|America/Antigua</ns1:g></string>
+    <string name="C215">A<ns1:g id="separator">=</ns1:g>Austin<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C216">B<ns1:g id="separator">=</ns1:g>Boston<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C217">C<ns1:g id="separator">=</ns1:g>Calgary<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C218">C<ns1:g id="separator">=</ns1:g>Columbus<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C219">D<ns1:g id="separator">=</ns1:g>Dallas<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C22">M<ns1:g id="separator">=</ns1:g>Maseru<ns1:g id="timezone">|Africa/Maseru</ns1:g></string>
+    <string name="C220">K<ns1:g id="separator">=</ns1:g>Knoxville<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C221">M<ns1:g id="separator">=</ns1:g>Memphis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C222">M<ns1:g id="separator">=</ns1:g>Miami<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C223">M<ns1:g id="separator">=</ns1:g>Minneapolis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C224">O<ns1:g id="separator">=</ns1:g>Ottawa<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C225">P<ns1:g id="separator">=</ns1:g>Philadelphia<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C226">P<ns1:g id="separator">=</ns1:g>Portland<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C227">S<ns1:g id="separator">=</ns1:g>San Diego<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C228">S<ns1:g id="separator">=</ns1:g>San Francisco<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C229">S<ns1:g id="separator">=</ns1:g>Salt Lake City<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C23">M<ns1:g id="separator">=</ns1:g>Mogadishu<ns1:g id="timezone">|Africa/Mogadishu</ns1:g></string>
+    <string name="C230">S<ns1:g id="separator">=</ns1:g>San Jose<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C231">S<ns1:g id="separator">=</ns1:g>San Salvador<ns1:g id="timezone">|America/Guatemala</ns1:g></string>
+    <string name="C232">S<ns1:g id="separator">=</ns1:g>Seattle<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C233">S<ns1:g id="separator">=</ns1:g>St. Louis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C234">W<ns1:g id="separator">=</ns1:g>Washington D.C.<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C235">H<ns1:g id="separator">=</ns1:g>Houston<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C236">S<ns1:g id="separator">=</ns1:g>San Antonio<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C237">J<ns1:g id="separator">=</ns1:g>Jacksonville<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C238">B<ns1:g id="separator">=</ns1:g>Baltimore<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C239">N<ns1:g id="separator">=</ns1:g>Nashville<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C24">N<ns1:g id="separator">=</ns1:g>Nairobi<ns1:g id="timezone">|Africa/Nairobi</ns1:g></string>
+    <string name="C240">M<ns1:g id="separator">=</ns1:g>Milwaukee<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C241">O<ns1:g id="separator">=</ns1:g>Oklahoma City<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C242">L<ns1:g id="separator">=</ns1:g>Las Vegas<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C243">A<ns1:g id="separator">=</ns1:g>Albuquerque<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C244">T<ns1:g id="separator">=</ns1:g>Tucson<ns1:g id="timezone">|MST</ns1:g></string>
+    <string name="C245">S<ns1:g id="separator">=</ns1:g>Sacramento<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C246">A<ns1:g id="separator">=</ns1:g>Atlanta<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C247">C<ns1:g id="separator">=</ns1:g>Cleveland<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C248">N<ns1:g id="separator">=</ns1:g>New Orleans<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C249">T<ns1:g id="separator">=</ns1:g>Tampa<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C25">S<ns1:g id="separator">=</ns1:g>São Tomé<ns1:g id="timezone">|Africa/Sao_Tome</ns1:g></string>
+    <string name="C250">P<ns1:g id="separator">=</ns1:g>Pittsburgh<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C251">C<ns1:g id="separator">=</ns1:g>Cincinnati<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C252">M<ns1:g id="separator">=</ns1:g>Mountain View<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C253">R<ns1:g id="separator">=</ns1:g>Reno<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C254">B<ns1:g id="separator">=</ns1:g>Black Rock City<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C255">D<ns1:g id="separator">=</ns1:g>Doha<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C256">B<ns1:g id="separator">=</ns1:g>Beijing<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C257">M<ns1:g id="separator">=</ns1:g>Mumbai<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C258">D<ns1:g id="separator">=</ns1:g>Delhi<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C259">O<ns1:g id="separator">=</ns1:g>Osaka<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Tokyo</ns1:g></string>
+    <string name="C26">T<ns1:g id="separator">=</ns1:g>Timbuktu<ns1:g id="timezone">|Africa/Timbuktu</ns1:g></string>
+    <string name="C260">L<ns1:g id="separator">=</ns1:g>Lahore<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C261">S<ns1:g id="separator">=</ns1:g>Sana\'a<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C262">B<ns1:g id="separator">=</ns1:g>Barcelona<ns1:g id="timezone">|Europe/Madrid</ns1:g></string>
+    <string name="C263">M<ns1:g id="separator">=</ns1:g>Munich<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C264">M<ns1:g id="separator">=</ns1:g>Milan<ns1:g id="timezone">|Europe/Rome</ns1:g></string>
+    <string name="C265">F<ns1:g id="separator">=</ns1:g>Frankfurt<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C266">H<ns1:g id="separator">=</ns1:g>Hanoi<ns1:g id="timezone">|Asia/Bangkok</ns1:g></string>
+    <string name="C267">A<ns1:g id="separator">=</ns1:g>Ankara<ns1:g id="timezone">|Europe/Istanbul</ns1:g></string>
+    <string name="C268">B<ns1:g id="separator">=</ns1:g>Bangalore<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C269">B<ns1:g id="separator">=</ns1:g>Brasília<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C27">T<ns1:g id="separator">=</ns1:g>Tripoli<ns1:g id="timezone">|Africa/Tripoli</ns1:g></string>
+    <string name="C270">C<ns1:g id="separator">=</ns1:g>Cape Town<ns1:g id="timezone">|Africa/Johannesburg</ns1:g></string>
+    <string name="C271">I<ns1:g id="separator">=</ns1:g>Islamabad<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C272">R<ns1:g id="separator">=</ns1:g>Rio de Janeiro<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C273">A<ns1:g id="separator">=</ns1:g>Ann Arbor<ns1:g id="timezone">|America/Detroit</ns1:g></string>
+    <string name="C274">B<ns1:g id="separator">=</ns1:g>Boulder<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C275">C<ns1:g id="separator">=</ns1:g>Cambridge<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C276">K<ns1:g id="separator">=</ns1:g>Kirkland<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C277">M<ns1:g id="separator">=</ns1:g>Madison<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C278">G<ns1:g id="separator">=</ns1:g>Guangzhou<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C279">H<ns1:g id="separator">=</ns1:g>Hyderabad<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C28">T<ns1:g id="separator">=</ns1:g>Tunis<ns1:g id="timezone">|Africa/Tunis</ns1:g></string>
+    <string name="C280">R<ns1:g id="separator">=</ns1:g>Reston<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C281">B<ns1:g id="separator">=</ns1:g>Belo Horizonte<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C282">S<ns1:g id="separator">=</ns1:g>Santiago<ns1:g id="timezone">|America/Santiago</ns1:g></string>
+    <string name="C283">M<ns1:g id="separator">=</ns1:g>Monrovia<ns1:g id="timezone">|Africa/Monrovia</ns1:g></string>
+    <string name="C284">C<ns1:g id="separator">=</ns1:g>Colombo<ns1:g id="timezone">|Asia/Colombo</ns1:g></string>
+    <string name="C285">C<ns1:g id="separator">=</ns1:g>Chihuahua<ns1:g id="timezone">|America/Chihuahua</ns1:g></string>
+    <string name="C286">S<ns1:g id="separator">=</ns1:g>Salvador<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C287">G<ns1:g id="separator">=</ns1:g>Gurgaon<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C288">M<ns1:g id="separator">=</ns1:g>Manchester<ns1:g id="timezone">|Europe/London</ns1:g></string>
+    <string name="C29">A<ns1:g id="separator">=</ns1:g>Anchorage<ns1:g id="timezone">|America/Anchorage</ns1:g></string>
+    <string name="C290">S<ns1:g id="separator">=</ns1:g>St. Petersburg<ns1:g id="timezone">|Europe/Moscow</ns1:g></string>
+    <string name="C291">K<ns1:g id="separator">=</ns1:g>Kraków<ns1:g id="timezone">|Europe/Warsaw</ns1:g></string>
+    <string name="C292">W<ns1:g id="separator">=</ns1:g>Wroclaw<ns1:g id="timezone">|Europe/Warsaw</ns1:g></string>
+    <string name="C293">H<ns1:g id="separator">=</ns1:g>Hamburg<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C294">O<ns1:g id="separator">=</ns1:g>Oulu<ns1:g id="timezone">|Europe/Bucharest</ns1:g></string>
+    <string name="C295">H<ns1:g id="separator">=</ns1:g>Haifa<ns1:g id="timezone">|Asia/Jerusalem</ns1:g></string>
+    <string name="C296">S<ns1:g id="separator">=</ns1:g>San Juan<ns1:g id="timezone">|America/Puerto_Rico</ns1:g></string>
+    <string name="C297">T<ns1:g id="separator">=</ns1:g>Tegucigalpa<ns1:g id="timezone">|America/Tegucigalpa</ns1:g></string>
+    <string name="C298">P<ns1:g id="separator">=</ns1:g>Paramaribo<ns1:g id="timezone">|America/Paramaribo</ns1:g></string>
+    <string name="C299">Q<ns1:g id="separator">=</ns1:g>Quito<ns1:g id="timezone">|America/Panama</ns1:g></string>
+    <string name="C3">A<ns1:g id="separator">=</ns1:g>Addis Ababa<ns1:g id="timezone">|Africa/Addis_Ababa</ns1:g></string>
+    <string name="C300">L<ns1:g id="separator">=</ns1:g>Ljubljana<ns1:g id="timezone">|Europe/Ljubljana</ns1:g></string>
+    <string name="C301">A<ns1:g id="separator">=</ns1:g>Ashgabat<ns1:g id="timezone">|Asia/Ashgabat</ns1:g></string>
+    <string name="C302">A<ns1:g id="separator">=</ns1:g>Asmara<ns1:g id="timezone">|Africa/Asmara</ns1:g></string>
+    <string name="C303">B<ns1:g id="separator">=</ns1:g>Bandar Seri Begawan<ns1:g id="timezone">|Asia/Brunei</ns1:g></string>
+    <string name="C304">B<ns1:g id="separator">=</ns1:g>Bangui<ns1:g id="timezone">|Africa/Bangui</ns1:g></string>
+    <string name="C305">B<ns1:g id="separator">=</ns1:g>Banjul<ns1:g id="timezone">|Africa/Banjul</ns1:g></string>
+    <string name="C306">B<ns1:g id="separator">=</ns1:g>Bishkek<ns1:g id="timezone">|Asia/Bishkek</ns1:g></string>
+    <string name="C307">B<ns1:g id="separator">=</ns1:g>Bissau<ns1:g id="timezone">|Africa/Bissau</ns1:g></string>
+    <string name="C308">B<ns1:g id="separator">=</ns1:g>Bujumbura<ns1:g id="timezone">|Africa/Bujumbura</ns1:g></string>
+    <string name="C309">D<ns1:g id="separator">=</ns1:g>Dili<ns1:g id="timezone">|Asia/Dili</ns1:g></string>
+    <string name="C31">A<ns1:g id="separator">=</ns1:g>Aruba<ns1:g id="timezone">|America/Aruba</ns1:g></string>
+    <string name="C310">D<ns1:g id="separator">=</ns1:g>Dushanbe<ns1:g id="timezone">|Asia/Dushanbe</ns1:g></string>
+    <string name="C311">F<ns1:g id="separator">=</ns1:g>Funafuti<ns1:g id="timezone">|Pacific/Funafuti</ns1:g></string>
+    <string name="C312">H<ns1:g id="separator">=</ns1:g>Honiara<ns1:g id="timezone">|Pacific/Guadalcanal</ns1:g></string>
+    <string name="C313">J<ns1:g id="separator">=</ns1:g>Juba<ns1:g id="timezone">|Africa/Juba</ns1:g></string>
+    <string name="C314">K<ns1:g id="separator">=</ns1:g>Kingstown<ns1:g id="timezone">|America/St_Vincent</ns1:g></string>
+    <string name="C315">L<ns1:g id="separator">=</ns1:g>Libreville<ns1:g id="timezone">|Africa/Libreville</ns1:g></string>
+    <string name="C316">L<ns1:g id="separator">=</ns1:g>Lomé<ns1:g id="timezone">|Africa/Lome</ns1:g></string>
+    <string name="C317">L<ns1:g id="separator">=</ns1:g>Luanda<ns1:g id="timezone">|Africa/Luanda</ns1:g></string>
+    <string name="C318">L<ns1:g id="separator">=</ns1:g>Lusaka<ns1:g id="timezone">|Africa/Lusaka</ns1:g></string>
+    <string name="C319">M<ns1:g id="separator">=</ns1:g>Majuro<ns1:g id="timezone">|Pacific/Majuro</ns1:g></string>
+    <string name="C32">A<ns1:g id="separator">=</ns1:g>Asunción<ns1:g id="timezone">|America/Asuncion</ns1:g></string>
+    <string name="C320">M<ns1:g id="separator">=</ns1:g>Malabo<ns1:g id="timezone">|Africa/Malabo</ns1:g></string>
+    <string name="C321">M<ns1:g id="separator">=</ns1:g>Maputo<ns1:g id="timezone">|Africa/Maputo</ns1:g></string>
+    <string name="C322">M<ns1:g id="separator">=</ns1:g>Mbabane<ns1:g id="timezone">|Africa/Mbabane</ns1:g></string>
+    <string name="C323">M<ns1:g id="separator">=</ns1:g>Moroni<ns1:g id="timezone">|Indian/Comoro</ns1:g></string>
+    <string name="C324">N<ns1:g id="separator">=</ns1:g>N\'Djamena<ns1:g id="timezone">|Africa/Ndjamena</ns1:g></string>
+    <string name="C325">N<ns1:g id="separator">=</ns1:g>Ngerulmud<ns1:g id="timezone">|Pacific/Palau</ns1:g></string>
+    <string name="C326">N<ns1:g id="separator">=</ns1:g>Niamey<ns1:g id="timezone">|Africa/Niamey</ns1:g></string>
+    <string name="C327">N<ns1:g id="separator">=</ns1:g>Nicosia<ns1:g id="timezone">|Europe/Nicosia</ns1:g></string>
+    <string name="C328">N<ns1:g id="separator">=</ns1:g>Nouakchott<ns1:g id="timezone">|Africa/Nouakchott</ns1:g></string>
+    <string name="C329">N<ns1:g id="separator">=</ns1:g>Nuku\'alofa<ns1:g id="timezone">|Pacific/Tongatapu</ns1:g></string>
+    <string name="C33">B<ns1:g id="separator">=</ns1:g>Barbados<ns1:g id="timezone">|America/Barbados</ns1:g></string>
+    <string name="C330">O<ns1:g id="separator">=</ns1:g>Ouagadougou<ns1:g id="timezone">|Africa/Ouagadougou</ns1:g></string>
+    <string name="C331">P<ns1:g id="separator">=</ns1:g>Palikir<ns1:g id="timezone">|Pacific/Noumea</ns1:g></string>
+    <string name="C332">P<ns1:g id="separator">=</ns1:g>Philipsburg<ns1:g id="timezone">|America/Lower_Princes</ns1:g></string>
+    <string name="C333">P<ns1:g id="separator">=</ns1:g>Podgorica<ns1:g id="timezone">|Europe/Podgorica</ns1:g></string>
+    <string name="C334">P<ns1:g id="separator">=</ns1:g>Port Moresby<ns1:g id="timezone">|Pacific/Palau</ns1:g></string>
+    <string name="C335">P<ns1:g id="separator">=</ns1:g>Port Vila<ns1:g id="timezone">|Pacific/Efate</ns1:g></string>
+    <string name="C336">P<ns1:g id="separator">=</ns1:g>Porto-Novo<ns1:g id="timezone">|Africa/Porto-Novo</ns1:g></string>
+    <string name="C337">P<ns1:g id="separator">=</ns1:g>Priština<ns1:g id="timezone">|Europe/Belgrade</ns1:g></string>
+    <string name="C338">R<ns1:g id="separator">=</ns1:g>Roseau<ns1:g id="timezone">|America/Dominica</ns1:g></string>
+    <string name="C339">T<ns1:g id="separator">=</ns1:g>Tashkent<ns1:g id="timezone">|Asia/Tashkent</ns1:g></string>
+    <string name="C34">B<ns1:g id="separator">=</ns1:g>Belize<ns1:g id="timezone">|America/Belize</ns1:g></string>
+    <string name="C340">T<ns1:g id="separator">=</ns1:g>Tbilisi<ns1:g id="timezone">|Asia/Tbilisi</ns1:g></string>
+    <string name="C341">T<ns1:g id="separator">=</ns1:g>Thimphu<ns1:g id="timezone">|Asia/Thimphu</ns1:g></string>
+    <string name="C342">T<ns1:g id="separator">=</ns1:g>Tirana<ns1:g id="timezone">|Europe/Tirane</ns1:g></string>
+    <string name="C343">V<ns1:g id="separator">=</ns1:g>Vaduz<ns1:g id="timezone">|Europe/Vaduz</ns1:g></string>
+    <string name="C344">V<ns1:g id="separator">=</ns1:g>Vientiane<ns1:g id="timezone">|Asia/Vientiane</ns1:g></string>
+    <string name="C345">W<ns1:g id="separator">=</ns1:g>Windhoek<ns1:g id="timezone">|Africa/Windhoek</ns1:g></string>
+    <string name="C346">Y<ns1:g id="separator">=</ns1:g>Yaoundé<ns1:g id="timezone">|Africa/Douala</ns1:g></string>
+    <string name="C347">Y<ns1:g id="separator">=</ns1:g>Yaren District<ns1:g id="timezone">|Pacific/Nauru</ns1:g></string>
+    <string name="C348">Y<ns1:g id="separator">=</ns1:g>Yerevan<ns1:g id="timezone">|Asia/Yerevan</ns1:g></string>
+    <string name="C35">B<ns1:g id="separator">=</ns1:g>Bogotá<ns1:g id="timezone">|America/Bogota</ns1:g></string>
+    <string name="C36">B<ns1:g id="separator">=</ns1:g>Buenos Aires<ns1:g id="timezone">|America/Buenos_Aires</ns1:g></string>
+    <string name="C37">C<ns1:g id="separator">=</ns1:g>Cancun<ns1:g id="timezone">|America/Cancun</ns1:g></string>
+    <string name="C38">C<ns1:g id="separator">=</ns1:g>Caracas<ns1:g id="timezone">|America/Caracas</ns1:g></string>
+    <string name="C39">C<ns1:g id="separator">=</ns1:g>Cayman<ns1:g id="timezone">|America/Cayman</ns1:g></string>
+    <string name="C4">A<ns1:g id="separator">=</ns1:g>Algiers<ns1:g id="timezone">|Africa/Algiers</ns1:g></string>
+    <string name="C40">C<ns1:g id="separator">=</ns1:g>Chicago<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C42">C<ns1:g id="separator">=</ns1:g>Curaçao<ns1:g id="timezone">|America/Curacao</ns1:g></string>
+    <string name="C43">D<ns1:g id="separator">=</ns1:g>Dawson Creek<ns1:g id="timezone">|America/Dawson_Creek</ns1:g></string>
+    <string name="C44">D<ns1:g id="separator">=</ns1:g>Denver<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C45">D<ns1:g id="separator">=</ns1:g>Detroit<ns1:g id="timezone">|America/Detroit</ns1:g></string>
+    <string name="C46">D<ns1:g id="separator">=</ns1:g>Dominica<ns1:g id="timezone">|America/Dominica</ns1:g></string>
+    <string name="C47">E<ns1:g id="separator">=</ns1:g>Edmonton<ns1:g id="timezone">|America/Edmonton</ns1:g></string>
+    <string name="C48">E<ns1:g id="separator">=</ns1:g>El Salvador<ns1:g id="timezone">|America/El_Salvador</ns1:g></string>
+    <string name="C49">F<ns1:g id="separator">=</ns1:g>Fortaleza<ns1:g id="timezone">|America/Fortaleza</ns1:g></string>
+    <string name="C5">B<ns1:g id="separator">=</ns1:g>Blantyre<ns1:g id="timezone">|Africa/Blantyre</ns1:g></string>
+    <string name="C50">G<ns1:g id="separator">=</ns1:g>Grand Turk<ns1:g id="timezone">|America/Grand_Turk</ns1:g></string>
+    <string name="C51">G<ns1:g id="separator">=</ns1:g>Grenada<ns1:g id="timezone">|America/Grenada</ns1:g></string>
+    <string name="C52">G<ns1:g id="separator">=</ns1:g>Guatemala City<ns1:g id="timezone">|America/Guatemala</ns1:g></string>
+    <string name="C53">G<ns1:g id="separator">=</ns1:g>Guyana<ns1:g id="timezone">|America/Guyana</ns1:g></string>
+    <string name="C54">H<ns1:g id="separator">=</ns1:g>Halifax<ns1:g id="timezone">|America/Halifax</ns1:g></string>
+    <string name="C55">H<ns1:g id="separator">=</ns1:g>Havana<ns1:g id="timezone">|America/Havana</ns1:g></string>
+    <string name="C56">I<ns1:g id="separator">=</ns1:g>Indianapolis<ns1:g id="timezone">|America/Indiana/Indianapolis</ns1:g></string>
+    <string name="C57">K<ns1:g id="separator">=</ns1:g>Knox<ns1:g id="timezone">|America/Indiana/Knox</ns1:g></string>
+    <string name="C58">M<ns1:g id="separator">=</ns1:g>Marengo<ns1:g id="timezone">|America/Indiana/Marengo</ns1:g></string>
+    <string name="C59">P<ns1:g id="separator">=</ns1:g>Petersburg<ns1:g id="timezone">|America/Indiana/Petersburg</ns1:g></string>
+    <string name="C6">B<ns1:g id="separator">=</ns1:g>Brazzaville<ns1:g id="timezone">|Africa/Brazzaville</ns1:g></string>
+    <string name="C60">T<ns1:g id="separator">=</ns1:g>Tell City<ns1:g id="timezone">|America/Indiana/Tell_City</ns1:g></string>
+    <string name="C61">V<ns1:g id="separator">=</ns1:g>Vevay<ns1:g id="timezone">|America/Indiana/Vevay</ns1:g></string>
+    <string name="C62">V<ns1:g id="separator">=</ns1:g>Vincennes<ns1:g id="timezone">|America/Indiana/Vincennes</ns1:g></string>
+    <string name="C63">W<ns1:g id="separator">=</ns1:g>Winamac<ns1:g id="timezone">|America/Indiana/Winamac</ns1:g></string>
+    <string name="C64">K<ns1:g id="separator">=</ns1:g>Kingston<ns1:g id="timezone">|America/Jamaica</ns1:g></string>
+    <string name="C65">N<ns1:g id="separator">=</ns1:g>Nuestra Señora de La Paz<ns1:g id="timezone">|America/La_Paz</ns1:g></string>
+    <string name="C66">L<ns1:g id="separator">=</ns1:g>Lima<ns1:g id="timezone">|America/Lima</ns1:g></string>
+    <string name="C67">L<ns1:g id="separator">=</ns1:g>Los Angeles<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C68">L<ns1:g id="separator">=</ns1:g>Louisville<ns1:g id="timezone">|America/Louisville</ns1:g></string>
+    <string name="C69">M<ns1:g id="separator">=</ns1:g>Managua<ns1:g id="timezone">|America/Managua</ns1:g></string>
+    <string name="C7">C<ns1:g id="separator">=</ns1:g>Cairo<ns1:g id="timezone">|Africa/Cairo</ns1:g></string>
+    <string name="C70">M<ns1:g id="separator">=</ns1:g>Martinique<ns1:g id="timezone">|America/Martinique</ns1:g></string>
+    <string name="C71">M<ns1:g id="separator">=</ns1:g>Mendoza<ns1:g id="timezone">|America/Mendoza</ns1:g></string>
+    <string name="C72">M<ns1:g id="separator">=</ns1:g>Metlakatla<ns1:g id="timezone">|America/Metlakatla</ns1:g></string>
+    <string name="C73">M<ns1:g id="separator">=</ns1:g>Mexico City<ns1:g id="timezone">|America/Mexico_City</ns1:g></string>
+    <string name="C74">M<ns1:g id="separator">=</ns1:g>Monterrey<ns1:g id="timezone">|America/Monterrey</ns1:g></string>
+    <string name="C75">M<ns1:g id="separator">=</ns1:g>Montevideo<ns1:g id="timezone">|America/Montevideo</ns1:g></string>
+    <string name="C76">M<ns1:g id="separator">=</ns1:g>Montreal<ns1:g id="timezone">|America/Montreal</ns1:g></string>
+    <string name="C77">N<ns1:g id="separator">=</ns1:g>Nassau<ns1:g id="timezone">|America/Nassau</ns1:g></string>
+    <string name="C78">N<ns1:g id="separator">=</ns1:g>New York<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C79">B<ns1:g id="separator">=</ns1:g>Beulah<ns1:g id="timezone">|America/North_Dakota/Beulah</ns1:g></string>
+    <string name="C8">C<ns1:g id="separator">=</ns1:g>Casablanca<ns1:g id="timezone">|Africa/Casablanca</ns1:g></string>
+    <string name="C80">C<ns1:g id="separator">=</ns1:g>Center<ns1:g id="timezone">|America/North_Dakota/Center</ns1:g></string>
+    <string name="C81">N<ns1:g id="separator">=</ns1:g>New Salem<ns1:g id="timezone">|America/North_Dakota/New_Salem</ns1:g></string>
+    <string name="C82">P<ns1:g id="separator">=</ns1:g>Panama<ns1:g id="timezone">|America/Panama</ns1:g></string>
+    <string name="C83">P<ns1:g id="separator">=</ns1:g>Phoenix<ns1:g id="timezone">|America/Phoenix</ns1:g></string>
+    <string name="C84">P<ns1:g id="separator">=</ns1:g>Port of Spain<ns1:g id="timezone">|America/Port_of_Spain</ns1:g></string>
+    <string name="C85">P<ns1:g id="separator">=</ns1:g>Port-au-Prince<ns1:g id="timezone">|America/Port-au-Prince</ns1:g></string>
+    <string name="C86">P<ns1:g id="separator">=</ns1:g>Puerto Rico<ns1:g id="timezone">|America/Puerto_Rico</ns1:g></string>
+    <string name="C87">S<ns1:g id="separator">=</ns1:g>Santo Domingo<ns1:g id="timezone">|America/Santo_Domingo</ns1:g></string>
+    <string name="C88">S<ns1:g id="separator">=</ns1:g>São Paulo<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C89">S<ns1:g id="separator">=</ns1:g>St. Johns<ns1:g id="timezone">|America/St_Johns</ns1:g></string>
+    <string name="C9">C<ns1:g id="separator">=</ns1:g>Conakry<ns1:g id="timezone">|Africa/Conakry</ns1:g></string>
+    <string name="C90">S<ns1:g id="separator">=</ns1:g>St. Kitts<ns1:g id="timezone">|America/St_Kitts</ns1:g></string>
+    <string name="C91">S<ns1:g id="separator">=</ns1:g>St. Lucia<ns1:g id="timezone">|America/St_Lucia</ns1:g></string>
+    <string name="C92">S<ns1:g id="separator">=</ns1:g>St. Thomas<ns1:g id="timezone">|America/St_Thomas</ns1:g></string>
+    <string name="C93">T<ns1:g id="separator">=</ns1:g>Tijuana<ns1:g id="timezone">|America/Tijuana</ns1:g></string>
+    <string name="C94">T<ns1:g id="separator">=</ns1:g>Toronto<ns1:g id="timezone">|America/Toronto</ns1:g></string>
+    <string name="C95">V<ns1:g id="separator">=</ns1:g>Vancouver<ns1:g id="timezone">|America/Vancouver</ns1:g></string>
+    <string name="C96">W<ns1:g id="separator">=</ns1:g>Winnipeg<ns1:g id="timezone">|America/Winnipeg</ns1:g></string>
+    <string name="C97">S<ns1:g id="separator">=</ns1:g>South Pole<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Antarctica/South_Pole</ns1:g></string>
+    <string name="C98">L<ns1:g id="separator">=</ns1:g>Longyearbyen<ns1:g id="timezone">|Arctic/Longyearbyen</ns1:g></string>
+    <string name="C99">A<ns1:g id="separator">=</ns1:g>Almaty<ns1:g id="timezone">|Asia/Almaty</ns1:g></string>
+    <string name="_00">00</string>
+    <string name="abbrev_wday"> / EEE</string>
+    <string name="abbrev_wday_month_day_no_year">EEEMMMd</string>
+    <string name="action_add_minute">Add Minute</string>
+    <string name="action_collapse">Collapse</string>
+    <string name="action_collapse_implied">Collapse Implied</string>
+    <string name="action_create">Create</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_disable">Disable</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_enable">Enable</string>
+    <string name="action_expand">Expand</string>
+    <string name="action_expand_implied">Expand Implied</string>
+    <string name="action_fire">Fire</string>
+    <string name="action_lap">Lap</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_set_label">Set Label</string>
+    <string name="action_set_ringtone">Set Ringtone</string>
+    <string name="action_set_time">Set Time</string>
+    <string name="action_show">Show</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_toggle_repeat_days">Toggle Repeat Days</string>
+    <string name="action_toggle_vibrate">Toggle Vibrate</string>
+    <string name="action_update">Update</string>
+    <string name="add_new_sound">Add new</string>
+    <string name="alarm_alert_dismiss_text">Dismiss</string>
+    <string name="alarm_alert_off_text">Alarm off</string>
+    <string name="alarm_alert_predismiss_title">Upcoming alarm</string>
+    <string name="alarm_alert_snooze_text">Snooze</string>
+    <string name="alarm_alert_snooze_until">Snoozing until <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snoozed_text">Snoozed</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away"><ns1:g example="14:20" id="alarm_time">%s</ns1:g> alarm can\'t be dismissed yet, still more than 24 hours away</string>
+    <string name="alarm_deleted">Alarm deleted</string>
+    <string name="alarm_is_dismissed"><ns1:g example="14:20" id="alarm_time">%s</ns1:g> alarm dismissed</string>
+    <string name="alarm_is_set">Alarm is set for <ns1:g example="14:20" id="alarm_time">%s</ns1:g></string>
+    <string name="alarm_is_snoozed"><ns1:g example="14:20" id="alarm_time">%s</ns1:g> alarm snoozed for 10 minutes</string>
+    <string name="alarm_missed_channel">Missed alarms</string>
+    <string name="alarm_missed_text"><ns1:g id="alarm_time">%1$s</ns1:g> - <ns1:g id="alarm_label">%2$s</ns1:g></string>
+    <string name="alarm_missed_title">Missed alarm</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_settings">Alarms</string>
+    <string name="alarm_snooze_channel">Snoozed alarms</string>
+    <string name="alarm_sound">Alarm sound</string>
+    <string name="alarm_today">Today</string>
+    <string name="alarm_tomorrow">Tomorrow</string>
+    <string name="alarm_undo">undo</string>
+    <string name="alarm_upcoming_channel">Upcoming alarms</string>
+    <string name="alarm_vibrate">Vibrate</string>
+    <string name="alarm_volume_muted">Alarm volume muted</string>
+    <string name="alarm_volume_title">Alarm volume</string>
+    <string name="alarms_blocked_by_dnd">Device is set to total silence</string>
+    <string name="all_timers_stopped_notif">Tap to see your timers</string>
+    <string name="analog_gadget">Analog clock</string>
+    <string name="app_label">Clock</string>
+    <string name="app_notifications_blocked">Clock notifications are blocked</string>
+    <string name="auto_silence_never">Never</string>
+    <string name="auto_silence_title">Silence after</string>
+    <string name="automatic_home_clock">Automatic home clock</string>
+    <string name="automatic_home_clock_summary">While traveling in an area where the time is different, add a clock for home</string>
+    <string name="button_alarms">Add alarm</string>
+    <string name="button_cities">Cities</string>
+    <string name="category_alarm">Alarm</string>
+    <string name="category_analog_widget">Analog Widget</string>
+    <string name="category_clock">Clock</string>
+    <string name="category_digital_widget">Digital Widget</string>
+    <string name="category_screensaver">Screensaver</string>
+    <string name="category_stopwatch">Stopwatch</string>
+    <string name="category_timer">Timer</string>
+    <string name="change_setting_action">Change</string>
+    <string name="cities_activity_title">Cities</string>
+    <string name="city_checked"><ns1:g id="city_name">%s</ns1:g> checked</string>
+    <string name="city_unchecked"><ns1:g id="city_name">%s</ns1:g> unchecked</string>
+    <string name="clock_emoji">A</string>
+    <string name="clock_settings">Clock</string>
+    <string name="clock_style">Style</string>
+    <string name="collapse_alarm">Collapse alarm</string>
+    <string name="confirm_remove_custom_ringtone">Alarms and timers using this sound will play the default sound instead.</string>
+    <string name="crescendo_duration_title">Gradually increase volume</string>
+    <string name="custom_ringtone_lost_permissions">The sound content cannot be accessed.</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">Default alarm sound</string>
+    <string name="default_clock_style">digital</string>
+    <string name="default_label">Alarm</string>
+    <string name="default_timer_ringtone_title">Timer Expired</string>
+    <string name="delete">Delete</string>
+    <string name="description_direction_both">Swipe left to snooze or right to dismiss</string>
+    <string name="description_direction_left">Swipe left to snooze</string>
+    <string name="description_direction_right">Swipe right to dismiss</string>
+    <string name="device_sounds">Device sounds</string>
+    <string name="digital_gadget">Digital clock</string>
+    <string name="dismiss_alarm">Dismiss alarm</string>
+    <string name="display_clock_seconds_pref">Display time with seconds</string>
+    <string name="every_day">Every day</string>
+    <string name="expand_alarm">Expand alarm</string>
+    <string name="firing_alarms_timers_channel">Firing alarms &amp; timers</string>
+    <string name="flip_action_title">Device flip action</string>
+    <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
+    <string name="home_label">Home</string>
+    <string name="home_time_zone">Home time zone</string>
+    <string name="home_time_zone_title">Home time zone</string>
+    <string name="hours_label">h</string>
+    <string name="hours_minutes_seconds"><ns1:g example="2" id="hours">%1$d</ns1:g>:<ns1:g example="3" id="minutes">%2$02d</ns1:g>:<ns1:g example="44" id="seconds">%3$02d</ns1:g></string>
+    <string name="invalid_time">Invalid time <ns1:g example="25" id="invalid_hour">%1$d</ns1:g>:<ns1:g example="63" id="invalid_minutes">%2$d</ns1:g> <ns1:g example="PM" id="invalid_ampm">%3$s</ns1:g></string>
+    <string name="invalid_timer">Invalid timer selected</string>
+    <string name="invalid_timer_length">Invalid timer length</string>
+    <string name="key_theme">key_theme</string>
+    <string name="label">Label</string>
+    <string name="label_description">Label</string>
+    <string name="label_deskclock">DeskClock</string>
+    <string name="label_hardware_button">HardwareButton</string>
+    <string name="label_intent">Intent</string>
+    <string name="label_notification">Notification</string>
+    <string name="label_shortcut">Shortcut</string>
+    <string name="lap_number_double_digit"># <ns1:g id="lapNumber">%02d</ns1:g></string>
+    <string name="lap_number_single_digit"># <ns1:g id="lapNumber">%d</ns1:g></string>
+    <string name="loading_widget">Loading\u2026</string>
+    <string name="lock_screen_12_hour_format">h:mm</string>
+    <string name="lock_screen_24_hour_format">kk:mm</string>
+    <string name="menu_alarm">Alarm</string>
+    <string name="menu_clock">Clock</string>
+    <string name="menu_item_night_mode">Screen saver</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+    <string name="menu_item_sort_by_name">Sort by name</string>
+    <string name="menu_stopwatch">Stopwatch</string>
+    <string name="menu_timer">Timer</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_seconds"><ns1:g example="3" id="minutes">%1$d</ns1:g>:<ns1:g example="44" id="seconds">%2$02d</ns1:g></string>
+    <string name="missed_alarm_has_been_deleted">Your missed alarm has been deleted</string>
+    <string name="missed_named_timer_notification_label">Missed timer: <ns1:g example="Pick up kids" id="name">%s</ns1:g></string>
+    <string name="missed_timer_notification_label">Missed timer</string>
+    <string name="next_alarm_description">Next alarm: <ns1:g example="Wed 8:00am" id="alarm_time">%s</ns1:g></string>
+    <string name="next_timer_notif">Next timer: <ns1:g example="2 minutes remaining" id="time_remaining">%s</ns1:g></string>
+    <string name="night_mode_summary">Very dim display (for dark rooms)</string>
+    <string name="night_mode_title">Night mode</string>
+    <string name="no_alarm_at">No alarm at <ns1:g example="14" id="alarm_time_hour">%1$d</ns1:g>:<ns1:g example="23" id="alarm_time_minutes">%2$d</ns1:g></string>
+    <string name="no_alarm_scheduled_for_this_time">No alarm scheduled for this time</string>
+    <string name="no_alarms">No Alarms</string>
+    <string name="no_alarms_with_label">No alarms contain the label</string>
+    <string name="no_expired_timers">No expired timers</string>
+    <string name="no_firing_alarms">No firing alarms</string>
+    <string name="no_label_specified">No label specified</string>
+    <string name="no_scheduled_alarms">No scheduled alarms</string>
+    <string name="open_date_settings">Change date \u0026 time</string>
+    <string name="pick_alarm_to_dismiss">Pick which alarm to dismiss</string>
+    <string name="power_button_title" ns2:ignore="MissingTranslation">Power button</string>
+    <string name="remove_sound">Remove</string>
+    <string name="ringtone_description">Ringtone</string>
+    <string name="screensaver_settings">Screen saver settings</string>
+    <string name="seconds"><ns1:g example="44" id="seconds">%d</ns1:g></string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">Selected Cities</string>
+    <string name="settings">Settings</string>
+    <string name="shake_action_title">Device shake action</string>
+    <string name="shortcut_new_alarm_long">Create new alarm</string>
+    <string name="shortcut_new_alarm_short">New alarm</string>
+    <string name="shortcut_new_timer_long">Create new timer</string>
+    <string name="shortcut_new_timer_short">New timer</string>
+    <string name="shortcut_pause_stopwatch_long">Pause stopwatch</string>
+    <string name="shortcut_pause_stopwatch_short">Pause</string>
+    <string name="shortcut_start_screensaver_long">Start screen saver</string>
+    <string name="shortcut_start_screensaver_short">Screen saver</string>
+    <string name="shortcut_start_stopwatch_long">Start stopwatch</string>
+    <string name="shortcut_start_stopwatch_short">Start</string>
+    <string name="silent_default_alarm_ringtone">Default alarm ringtone is silent</string>
+    <string name="silent_ringtone_title">Silent</string>
+    <string name="snooze_duration_title">Snooze length</string>
+    <string name="stopwatch_channel">Stopwatch</string>
+    <string name="stopwatch_service_desc">Processes actions from stopwatch notifications.</string>
+    <string name="sw_lap_button">Lap</string>
+    <string name="sw_notification_lap_number">Lap <ns1:g id="number">%d</ns1:g></string>
+    <string name="sw_pause_button">Pause</string>
+    <string name="sw_reset_button">Reset</string>
+    <string name="sw_resume_button">Resume</string>
+    <string name="sw_share_button">Share</string>
+    <string name="sw_share_laps">Lap times:</string>
+    <string name="sw_share_main">My time is <ns1:g id="time">%s</ns1:g></string>
+    <string name="sw_start_button">Start</string>
+    <string name="swn_paused">Paused</string>
+    <string name="timer_accessibility_one_minute_added">One minute added to timer, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_accessibility_started">Timer running, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_accessibility_stopped">Timer paused, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_add_minute">+ 1:00</string>
+    <string name="timer_add_timer">Add Timer</string>
+    <string name="timer_cancel">Cancel</string>
+    <string name="timer_canceled">Timer canceled</string>
+    <string name="timer_channel">Timer</string>
+    <string name="timer_created">Timer created</string>
+    <string name="timer_delete">Delete</string>
+    <string name="timer_deleted">Timer deleted</string>
+    <string name="timer_descriptive_delete">Delete <ns1:g id="number_string">%s</ns1:g></string>
+    <string name="timer_multi_missed"><ns1:g example="2" id="number">%d</ns1:g> timers missed</string>
+    <string name="timer_multi_times_up"><ns1:g example="2" id="NUM_TIMERS">%d</ns1:g> timers expired</string>
+    <string name="timer_notification_label">Timer</string>
+    <string name="timer_notifications_hours"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_hours_minutes"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g><ns1:g example="2 minutes" id="MINUTES"> %2$s</ns1:g> remaining</string>
+    <string name="timer_notifications_hours_minutes_seconds"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g><ns1:g example="2 minutes" id="MINUTES"> %2$s</ns1:g><ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_hours_seconds"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g> <ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_less_min">Less than a minute remaining</string>
+    <string name="timer_notifications_minutes"><ns1:g example="2 minutes" id="MINUTES">%2$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_minutes_seconds"><ns1:g example="2 minutes" id="MINUTES">%2$s</ns1:g> <ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_seconds"><ns1:g example="2 seconds" id="SECONDS">%4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_paused">Timer paused</string>
+    <string name="timer_plus_1_min">Add 1 min</string>
+    <string name="timer_plus_one">Add 1 Minute</string>
+    <string name="timer_remaining_multiple">remaining</string>
+    <string name="timer_remaining_single">remaining</string>
+    <string name="timer_reset">Reset</string>
+    <string name="timer_reset_all">Reset all timers</string>
+    <string name="timer_service_desc">Processes actions from timer notifications.</string>
+    <string name="timer_settings">Timers</string>
+    <string name="timer_setup_description"><ns1:g example="1 hour" id="hours">%1$s</ns1:g>, <ns1:g example="15 minutes" id="minutes">%2$s</ns1:g>, <ns1:g example="30 seconds" id="seconds">%3$s</ns1:g></string>
+    <string name="timer_sound">Timer sound</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_stop">Stop</string>
+    <string name="timer_stop_all">Stop all timers</string>
+    <string name="timer_times_up">Time\'s up</string>
+    <string name="timer_vibrate_title">Timer vibrate</string>
+    <string name="timers_in_use"><ns1:g example="7" id="number">%d</ns1:g> timers</string>
+    <string name="timers_stopped"><ns1:g example="7" id="number">%d</ns1:g> timers paused</string>
+    <string name="title_theme">Theme</string>
+    <string name="unknown_ringtone_title">Unknown</string>
+    <string name="unmute_alarm_volume">Unmute</string>
+    <string name="volume_button_setting_title">Volume buttons</string>
+    <string name="week_start_title">Start week on</string>
+    <string name="world_day_of_week_label"> / <ns1:g id="label">%s</ns1:g></string>
+    <string name="world_hours_minutes_ahead"><ns1:g example="6 hr" id="hours">%1$s</ns1:g> <ns1:g example="30 min" id="minutes">%2$s</ns1:g> ahead</string>
+    <string name="world_hours_minutes_behind"><ns1:g example="4 hr" id="hours">%1$s</ns1:g> <ns1:g example="30 min" id="minutes">%2$s</ns1:g> behind</string>
+    <string name="world_hours_tomorrow">Tomorrow, <ns1:g example="6 hours ahead" id="time">%1$s</ns1:g></string>
+    <string name="world_hours_yesterday">Yesterday, <ns1:g example="4 hours behind" id="time">%1$s</ns1:g></string>
+    <string name="world_time_ahead"><ns1:g example="6 hours" id="time">%1$s</ns1:g> ahead</string>
+    <string name="world_time_behind"><ns1:g example="4 hours" id="time">%1$s</ns1:g> behind</string>
+    <string name="world_tomorrow">Tomorrow</string>
+    <string name="world_yesterday">Yesterday</string>
+    <string name="your_sounds">Your sounds</string>
+    <style name="PopupMenuOverflowStyle" parent="@style/Widget.Material3.PopupMenu.Overflow">
+        <item name="android:popupBackground">@drawable/popup_menu_background</item>
+        <item name="android:dropDownHorizontalOffset">-12.0dip</item>
+        <item name="android:overlapAnchor">false</item>
+    </style>
+    <style name="SettingsDropDownSpinnerStyle" parent="@android:style/Widget.Material.Spinner">
+        <item name="android:popupBackground">@drawable/popup_background</item>
+    </style>
+    <style name="SwitchStyle" parent="@style/Widget.Material3.CompoundButton.Switch">
+        <item name="android:thumb">@drawable/switch_thumb</item>
+        <item name="switchMinWidth">52.0dip</item>
+        <item name="thumbTint">@color/switch_thumb_color</item>
+        <item name="track">@drawable/switch_track</item>
+        <item name="trackTint">@color/switch_track_color</item>
+    </style>
+    <style name="Theme.DeskClock" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent
+        </item>
+        <item name="android:navigationBarColor">
+            @color/md_theme_light_bottomNav
+        </item>
+        <item name="android:windowLightNavigationBar" ns2:targetApi="o_mr1">true</item>
+        <item name="android:dialogCornerRadius" ns2:targetApi="p">8dp</item>
+        <item name="bottomNavigationStyle">@style/Widget.Material3.BottomNavigationView</item>
+        <item name="switchStyle">@style/SwitchStyle</item>
+        <item name="checkboxStyle">@style/Widget.CheckBox</item>
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+        <item name="actionOverflowMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="popupMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="materialTimePickerTheme">@style/TimePickerTheme</item>
+    </style>
+    <style name="Theme.DeskClock.Actionbar" parent="@style/Theme.DeskClock">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:dropDownSpinnerStyle">@style/SettingsDropDownSpinnerStyle</item>
+    </style>
+    <style name="Theme.DeskClock.Actionbar.Dark" parent="Theme.DeskClock.Dark">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:dropDownSpinnerStyle">@style/SettingsDropDownSpinnerStyle</item>
+    </style>
+    <style name="Theme.DeskClock.Actionbar.Light" parent="Theme.DeskClock.Light">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:dropDownSpinnerStyle">@style/SettingsDropDownSpinnerStyle</item>
+    </style>
+    <style name="Theme.DeskClock.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent
+        </item>
+        <item name="android:navigationBarColor">
+            @color/md_theme_dark_bottomNav
+        </item>
+        <item name="android:windowLightNavigationBar" ns2:targetApi="o_mr1">false</item>
+        <item name="bottomNavigationStyle">@style/Widget.Material3.BottomNavigationView</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:dialogCornerRadius" ns2:targetApi="p">8dp</item>
+        <item name="switchStyle">@style/SwitchStyle</item>
+        <item name="checkboxStyle">@style/Widget.CheckBox</item>
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_dark_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_dark_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_dark_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_dark_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_dark_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_dark_error</item>
+        <item name="colorErrorContainer">@color/md_theme_dark_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_dark_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_dark_onErrorContainer</item>
+        <item name="android:colorBackground">@color/md_theme_dark_background</item>
+        <item name="colorOnBackground">@color/md_theme_dark_onBackground</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_dark_outline</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_dark_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
+        <item name="actionOverflowMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="popupMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="materialTimePickerTheme">@style/TimePickerTheme</item>
+    </style>
+    <style name="Theme.DeskClock.Light" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent
+        </item>
+        <item name="android:navigationBarColor">
+            @color/md_theme_light_bottomNav
+        </item>
+        <item name="android:windowLightNavigationBar" ns2:targetApi="o_mr1">true</item>
+        <item name="android:dialogCornerRadius" ns2:targetApi="p">8dp</item>
+        <item name="bottomNavigationStyle">@style/Widget.Material3.BottomNavigationView</item>
+        <item name="switchStyle">@style/SwitchStyle</item>
+        <item name="checkboxStyle">@style/Widget.CheckBox</item>
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+        <item name="actionOverflowMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="popupMenuStyle">@style/PopupMenuOverflowStyle</item>
+        <item name="materialTimePickerTheme">@style/TimePickerTheme</item>
+    </style>
+    <style name="Theme.DeskClock.Wallpaper">
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="android:windowBackground">@color/md_theme_light_background</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.DeskClock.Wallpaper.Dark" parent="Theme.DeskClock.Dark">
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="colorOnBackground">@color/md_theme_dark_onBackground</item>
+        <item name="android:windowBackground">@color/md_theme_dark_background</item>
+        <item name="android:colorBackground">@color/md_theme_dark_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.DeskClock.Wallpaper.Light" parent="Theme.DeskClock.Light">
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="android:windowBackground">@color/md_theme_light_background</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="TimePickerShapeAppearance">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28.0dip</item>
+    </style>
+    <style name="TimePickerStyle" parent="@style/Widget.Material3.MaterialTimePicker">
+        <item name="shapeAppearance">@style/TimePickerShapeAppearance</item>
+    </style>
+    <style name="TimePickerTheme" parent="@style/ThemeOverlay.Material3.MaterialTimePicker">
+        <item name="materialTimePickerStyle">@style/TimePickerStyle</item>
+    </style>
+    <style name="Widget.Button.TimerSetupDigit" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+    <style name="Widget.CheckBox" parent="@style/Widget.Material3.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/selector_checkbox_material</item>
+        <item name="android:minWidth">@dimen/touch_target_min_size</item>
+        <item name="android:minHeight">@dimen/touch_target_min_size</item>
+    </style>
+    <style name="big_normal">
+        <item name="android:textSize">@dimen/big_font_size</item>
+    </style>
+    <style name="label">
+        <item name="android:textSize">@dimen/label_font_size</item>
+    </style>
+    <style name="no_alarms">
+        <item name="android:textSize">@dimen/no_alarm_font_size</item>
+    </style>
+    <style name="widget_big_thin" parent="big_normal">
+        <item name="android:shadowRadius">@dimen/widget_shadow_radius</item>
+        <item name="android:shadowColor">@color/widget_shadow_color</item>
+        <item name="android:shadowDx">@dimen/widget_shadow_dx</item>
+        <item name="android:shadowDy">@dimen/widget_shadow_dy</item>
+    </style>
+    <style name="widget_label" parent="label">
+        <item name="android:shadowRadius">@dimen/widget_shadow_radius</item>
+        <item name="android:shadowColor">@color/widget_shadow_color</item>
+        <item name="android:shadowDx">@dimen/widget_shadow_dx</item>
+        <item name="android:shadowDy">@dimen/widget_shadow_dy</item>
+    </style>
+    <style name="widget_medium_thin">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:shadowRadius">@dimen/widget_shadow_radius</item>
+        <item name="android:shadowColor">@color/widget_shadow_color</item>
+        <item name="android:shadowDx">@dimen/widget_shadow_dx</item>
+        <item name="android:shadowDy">@dimen/widget_shadow_dy</item>
+    </style>
+    <style name="world_clock_time">
+        <item name="android:textSize">36sp</item>
+    </style>
+    <declare-styleable name="CircleView">
+        
+        <attr name="android:gravity"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="dimension" name="centerX"/>
+        
+        <attr format="dimension" name="centerY"/>
+        
+        <attr format="dimension" name="radius"/>
+    </declare-styleable>
+</resources>
