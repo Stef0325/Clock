@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-sw720dp\\dimens.xml",
                     "from": {
                         "startLines": "20,18,23",
                         "startColumns": "4,4,4",

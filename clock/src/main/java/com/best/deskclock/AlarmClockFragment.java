@@ -34,6 +34,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.ItemTouchHelper;
@@ -69,6 +70,16 @@ public final class AlarmClockFragment extends DeskClockFragment implements
         LoaderManager.LoaderCallbacks<Cursor>,
         ScrollHandler,
         TimePickerDialogFragment.OnTimeSetListener {
+    @Override
+    public void onTopLeftButtonClick(Button topLeft) {
+        Toast.makeText(getContext()," no Fragment is shown in left ",Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void onTopRightButtonClick(Button topRight) {
+
+        UiDataModel.getUiDataModel().setSelectedTab(UiDataModel.Tab.CLOCKS);
+    }
 
     // This extra is used when receiving an intent to create an alarm, but no alarm details
     // have been passed in, so the alarm page should start the process of creating a new alarm.

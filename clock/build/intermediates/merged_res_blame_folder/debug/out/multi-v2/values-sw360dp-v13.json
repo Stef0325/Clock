@@ -4,17 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\temp\\.gradle\\caches\\transforms-3\\0ac13472c9f768ecd44711af18007deb\\transformed\\preference-1.2.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "71",
-                        "endOffsets": "122"
-                    }
-                },
-                {
-                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-sw360dp\\dimens.xml",
                     "from": {
                         "startLines": "16,17,18",
                         "startColumns": "4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "127,172,224",
                         "endColumns": "44,51,46",
                         "endOffsets": "167,219,266"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ZhangCheng\\.gradle\\caches\\transforms-3\\0ac13472c9f768ecd44711af18007deb\\transformed\\preference-1.2.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
                     }
                 }
             ]

@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-fy-rNL/values-fy-rNL.xml",
             "map": [
                 {
-                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-fy-rNL\\cm_strings.xml",
+                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-fy-rNL\\cm_strings.xml",
                     "from": {
                         "startLines": "19,25,26,27,24,17,18,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

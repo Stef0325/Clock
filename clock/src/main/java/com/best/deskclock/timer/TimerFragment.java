@@ -437,6 +437,16 @@ public final class TimerFragment extends DeskClockFragment {
     }
 
     @Override
+    public void onTopLeftButtonClick(Button topLeft) {
+        UiDataModel.getUiDataModel().setSelectedTab(UiDataModel.Tab.CLOCKS);
+    }
+
+    @Override
+    public void onTopRightButtonClick(Button topRight) {
+        UiDataModel.getUiDataModel().setSelectedTab(UiDataModel.Tab.STOPWATCH);
+    }
+
+    @Override
     public void onLeftButtonClick(@NonNull Button left) {
         if (mCurrentView == mTimersView) {
             // Clicking the "delete" button.
