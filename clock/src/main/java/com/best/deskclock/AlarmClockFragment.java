@@ -18,6 +18,7 @@ package com.best.deskclock;
 
 import static com.best.deskclock.uidata.UiDataModel.Tab.ALARMS;
 
+import android.annotation.SuppressLint;
 import android.app.LoaderManager;
 import android.content.Context;
 import android.content.Intent;
@@ -26,6 +27,7 @@ import android.database.Cursor;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.SystemClock;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -49,9 +51,9 @@ import com.best.deskclock.alarms.dataadapter.ExpandedAlarmViewHolder;
 import com.best.deskclock.events.Events;
 import com.best.deskclock.provider.Alarm;
 import com.best.deskclock.provider.AlarmInstance;
-import com.best.deskclock.settings.SettingsActivity;
 import com.best.deskclock.uidata.UiDataModel;
 import com.best.deskclock.widget.EmptyViewController;
+import com.best.deskclock.widget.TextTime;
 import com.best.deskclock.widget.toast.SnackbarManager;
 import com.best.deskclock.widget.toast.ToastManager;
 import com.google.android.material.snackbar.Snackbar;
@@ -114,6 +116,7 @@ public final class AlarmClockFragment extends DeskClockFragment implements
         }
     }
 
+    @SuppressLint("MissingInflatedId")
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedState) {
         // Inflate the layout for this fragment
@@ -185,6 +188,7 @@ public final class AlarmClockFragment extends DeskClockFragment implements
         itemAnimator.setMoveDuration(300L);
         mRecyclerView.setItemAnimator(itemAnimator);
 
+
         new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(0, ItemTouchHelper.RIGHT) {
             @Override
             public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
@@ -205,7 +209,6 @@ public final class AlarmClockFragment extends DeskClockFragment implements
 
         return v;
     }
-
 
     @Override
     public void onStart() {
@@ -423,29 +426,10 @@ public final class AlarmClockFragment extends DeskClockFragment implements
 
     @Override
     public void onUpdateFabButtons(@NonNull Button left, @NonNull Button right) {
-//        left.setVisibility(View.INVISIBLE);
-//        right.setVisibility(View.INVISIBLE);
-        left.setVisibility(View.VISIBLE);
-        right.setVisibility(View.VISIBLE);
-        //      给底部增加的Button设置显示的Text
-        left.setText(R.string.menu_item_night_mode);
-        right.setText(R.string.menu_item_settings);
-
-       onLeftButtonClick(left);
-       onRightButtonClick(right);
+        left.setVisibility(View.INVISIBLE);
+        right.setVisibility(View.INVISIBLE);
     }
 
-    @Override
-    public void onLeftButtonClick(@NonNull Button left) {
-        super.onLeftButtonClick(left);
-        left.setOnClickListener(view->{startActivity(new Intent(view.getContext(),ScreensaverActivity.class));});
-    }
-
-    @Override
-    public void onRightButtonClick(@NonNull Button right) {
-        super.onRightButtonClick(right);
-        right.setOnClickListener(view ->{startActivity(new Intent(view.getContext(), SettingsActivity.class));} );
-    }
 
     public void startCreatingAlarm() {
         // Clear the currently selected alarm.
@@ -492,3 +476,4 @@ public final class AlarmClockFragment extends DeskClockFragment implements
         }
     }
 }
+

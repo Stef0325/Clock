@@ -2946,6 +2946,7 @@ id androidx_compose_ui_view_composition_context
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
+id apmz
 id arc
 id arrow
 id asConfigured
@@ -3114,7 +3115,6 @@ id jumpToStart
 id label
 id labeled
 id lap_number
-id lap_time
 id lap_total
 id laps_list
 id layout

@@ -21,6 +21,7 @@ import static android.text.format.DateUtils.MINUTE_IN_MILLIS;
 import static android.text.format.DateUtils.SECOND_IN_MILLIS;
 
 import android.content.Context;
+import android.util.Log;
 import android.widget.TextView;
 
 import com.best.deskclock.uidata.UiDataModel;
@@ -56,15 +57,18 @@ public final class StopwatchTextController {
         final int seconds = (int) (remainder / SECOND_IN_MILLIS);
         remainder = (int) (remainder % SECOND_IN_MILLIS);
 
-        mHundredthsTextView.setText(UiDataModel.getUiDataModel().getFormattedNumber(
-                remainder / 10, 2));
+        mHundredthsTextView.setText(UiDataModel.getUiDataModel().getFormattedNumber(remainder / 10, 2));
+        mHundredthsTextView.setTextSize(50);
+        mMainTextView.setTextSize(30);
+
 
         // Avoid unnecessary computations and garbage creation if seconds have not changed since
         // last layout pass.
         if ((mLastTime / SECOND_IN_MILLIS) != (accumulatedTime / SECOND_IN_MILLIS)) {
             final Context context = mMainTextView.getContext();
             final String time = Utils.getTimeString(context, hours, minutes, seconds);
-            mMainTextView.setText(time);
+            mMainTextView.setText(time + ".");
+
         }
         mLastTime = accumulatedTime;
     }

@@ -282,6 +282,7 @@ id alert_info
 id alert_title
 id analog_appwidget
 id analog_clock
+id apmz
 id arrow
 id bottom_view
 id cancel_button
@@ -322,7 +323,6 @@ id icon_frame
 id index
 id label
 id lap_number
-id lap_time
 id lap_total
 id laps_list
 id leftBottom_button

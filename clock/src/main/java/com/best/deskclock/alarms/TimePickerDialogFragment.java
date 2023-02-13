@@ -25,6 +25,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.text.format.DateFormat;
+import android.util.Log;
 import android.widget.TimePicker;
 
 import androidx.appcompat.app.AlertDialog;
@@ -45,6 +46,8 @@ public class TimePickerDialogFragment extends DialogFragment {
 
     private static final String ARG_HOUR = TAG + "_hour";
     private static final String ARG_MINUTE = TAG + "_minute";
+
+    private static final String ARG_APM = TAG + "_apm";
 
     public static void show(Fragment fragment) {
         show(fragment, -1 /* hour */, -1 /* minute */);
@@ -72,6 +75,13 @@ public class TimePickerDialogFragment extends DialogFragment {
         if (minute >= 0 && minute < 60) {
             args.putInt(ARG_MINUTE, minute);
         }
+        if (hourOfDay >= 0 && hourOfDay < 12) {
+            args.putString(ARG_APM, "AM");
+        }
+        if (hourOfDay >= 12 && hourOfDay < 24) {
+            args.putString(ARG_APM, "PM");
+        }
+
 
         fragment.setArguments(args);
         fragment.show(manager, TAG);

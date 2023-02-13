@@ -29,9 +29,9 @@
         android:layout_gravity="center">
 
         <com.best.deskclock.TimerCircleFrameLayout
+            android:id="@+id/stopwatch_time_wrapper"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/stopwatch_time_wrapper"
             android:layout_gravity="center"
             app:layout_aspectRatio="100%"
             app:layout_heightPercent="@fraction/timer_circle_height_percent"
@@ -40,10 +40,10 @@
             <include layout="@layout/stopwatch_time" />
 
             <!-- Sufficient space exists to include the bounding stopwatch circle. -->
-            <com.best.deskclock.stopwatch.StopwatchCircleView
-                android:id="@+id/stopwatch_circle"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+            <!--            <com.best.deskclock.stopwatch.StopwatchCircleView-->
+            <!--                android:id="@+id/stopwatch_circle"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="match_parent" />-->
 
         </com.best.deskclock.TimerCircleFrameLayout>
 

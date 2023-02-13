@@ -776,6 +776,10 @@
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_stopwatch.xml"
     },
     {
+        "merged": "com.best.deskclock-merged_res-51:/layout_lap_view.xml.flat",
+        "source": "com.best.deskclock-main-53:/layout/lap_view.xml"
+    },
+    {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_switch_thumb_color.xml.flat",
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\switch_thumb_color.xml"
     },
@@ -978,10 +982,6 @@
     {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm_off_24dp.xml.flat",
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm_off_24dp.xml"
-    },
-    {
-        "merged": "com.best.deskclock-merged_res-51:/layout_desk_clock.xml.flat",
-        "source": "com.best.deskclock-main-53:/layout/desk_clock.xml"
     },
     {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_stop_white_24dp.png.flat",

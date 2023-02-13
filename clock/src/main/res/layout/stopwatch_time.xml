@@ -31,7 +31,7 @@
         android:includeFontPadding="false"
         android:paddingStart="30dp"
         android:paddingEnd="3dp"
-        android:textSize="70sp" />
+        android:textSize="50sp" />
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/stopwatch_hundredths_text"
@@ -42,6 +42,7 @@
         android:includeFontPadding="false"
         android:paddingStart="3dp"
         android:paddingEnd="30dp"
-        android:textSize="30sp" />
+ />
+
 
 </LinearLayout>

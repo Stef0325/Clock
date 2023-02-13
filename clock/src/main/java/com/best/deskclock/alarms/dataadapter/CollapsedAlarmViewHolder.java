@@ -48,7 +48,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
 
     public static final int VIEW_TYPE = R.layout.alarm_time_collapsed;
     public final TextView daysOfWeek;
-    private final TextView alarmLabel;
+//    private final TextView alarmLabel;
     private final TextView upcomingInstanceLabel;
     private final View hairLine;
 
@@ -57,7 +57,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
     private CollapsedAlarmViewHolder(View itemView) {
         super(itemView);
 
-        alarmLabel = itemView.findViewById(R.id.label);
+//        alarmLabel = itemView.findViewById(R.id.label);
         daysOfWeek = itemView.findViewById(R.id.days_of_week);
         upcomingInstanceLabel = itemView.findViewById(R.id.upcoming_instance_label);
         hairLine = itemView.findViewById(R.id.hairline);
@@ -70,13 +70,13 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
                 getItemHolder().expand();
             }
         });
-        alarmLabel.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Events.sendAlarmEvent(R.string.action_expand_implied, R.string.label_deskclock);
-                getItemHolder().expand();
-            }
-        });
+//        alarmLabel.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Events.sendAlarmEvent(R.string.action_expand_implied, R.string.label_deskclock);
+//                getItemHolder().expand();
+//            }
+//        });
         arrow.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -104,22 +104,22 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
         final AlarmInstance alarmInstance = itemHolder.getAlarmInstance();
         final Context context = itemView.getContext();
         bindRepeatText(context, alarm);
-        bindReadOnlyLabel(context, alarm);
+//        bindReadOnlyLabel(context, alarm);
         bindUpcomingInstance(context, alarm);
         bindPreemptiveDismissButton(context, alarm, alarmInstance);
         bindAnnotations(context, alarm);
     }
 
-    private void bindReadOnlyLabel(Context context, Alarm alarm) {
-        if (alarm.label != null && alarm.label.length() != 0) {
-            alarmLabel.setText(alarm.label);
-            alarmLabel.setVisibility(View.VISIBLE);
-            alarmLabel.setContentDescription(context.getString(R.string.label_description)
-                    + " " + alarm.label);
-        } else {
-            alarmLabel.setVisibility(View.GONE);
-        }
-    }
+//    private void bindReadOnlyLabel(Context context, Alarm alarm) {
+//        if (alarm.label != null && alarm.label.length() != 0) {
+//            alarmLabel.setText(alarm.label);
+//            alarmLabel.setVisibility(View.VISIBLE);
+//            alarmLabel.setContentDescription(context.getString(R.string.label_description)
+//                    + " " + alarm.label);
+//        } else {
+//            alarmLabel.setVisibility(View.GONE);
+//        }
+//    }
 
     private void bindRepeatText(Context context, Alarm alarm) {
         if (alarm.daysOfWeek.isRepeating()) {
@@ -151,6 +151,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
     private void bindAnnotations(Context context, Alarm alarm) {
         annotationsAlpha = alarm.enabled ? CLOCK_ENABLED_ALPHA : CLOCK_DISABLED_ALPHA;
         setChangingViewsAlpha(annotationsAlpha);
+
     }
 
     @Override
@@ -195,7 +196,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
 
         final AnimatorSet alphaAnimatorSet = new AnimatorSet();
         alphaAnimatorSet.playTogether(
-                ObjectAnimator.ofFloat(alarmLabel, View.ALPHA, 0f),
+//                ObjectAnimator.ofFloat(alarmLabel, View.ALPHA, 0f),
                 ObjectAnimator.ofFloat(daysOfWeek, View.ALPHA, 0f),
                 ObjectAnimator.ofFloat(upcomingInstanceLabel, View.ALPHA, 0f),
                 ObjectAnimator.ofFloat(preemptiveDismissButton, View.ALPHA, 0f),
@@ -216,7 +217,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
     private Animator createCollapsingAnimator(AlarmItemViewHolder oldHolder, long duration) {
         final AnimatorSet alphaAnimatorSet = new AnimatorSet();
         alphaAnimatorSet.playTogether(
-                ObjectAnimator.ofFloat(alarmLabel, View.ALPHA, annotationsAlpha),
+//                ObjectAnimator.ofFloat(alarmLabel, View.ALPHA, annotationsAlpha),
                 ObjectAnimator.ofFloat(daysOfWeek, View.ALPHA, annotationsAlpha),
                 ObjectAnimator.ofFloat(upcomingInstanceLabel, View.ALPHA, annotationsAlpha),
                 ObjectAnimator.ofFloat(preemptiveDismissButton, View.ALPHA, annotationsAlpha),
@@ -258,7 +259,7 @@ public final class CollapsedAlarmViewHolder extends AlarmItemViewHolder {
     }
 
     private void setChangingViewsAlpha(float alpha) {
-        alarmLabel.setAlpha(alpha);
+//        alarmLabel.setAlpha(alpha);
         daysOfWeek.setAlpha(alpha);
         upcomingInstanceLabel.setAlpha(alpha);
         hairLine.setAlpha(alpha);

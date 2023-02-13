@@ -197,6 +197,8 @@ public final class StopwatchFragment extends DeskClockFragment {
                 new int[]{textColorPrimary, colorAccent});
         mMainTimeText.setTextColor(timeTextColor);
         mHundredthsTimeText.setTextColor(timeTextColor);
+        mHundredthsTimeText.setTextSize(50);
+        mMainTimeText.setTextSize(30);
 
         return v;
     }

@@ -174,9 +174,11 @@ class LapsAdapter extends RecyclerView.Adapter<LapsAdapter.LapItemHolder> {
         }
 
         // Bind data into the child views.
-        viewHolder.lapTime.setText(formatLapTime(lapTime, true));
+//        viewHolder.lapTime.setText(formatLapTime(lapTime, true));
         viewHolder.accumulatedTime.setText(formatAccumulatedTime(totalTime, true));
         viewHolder.lapNumber.setText(formatLapNumber(getLaps().size() + 1, lapNumber));
+        viewHolder.accumulatedTime.setTextSize(30);
+        viewHolder.lapNumber.setTextSize(30);
     }
 
     @Override
@@ -205,7 +207,7 @@ class LapsAdapter extends RecyclerView.Adapter<LapsAdapter.LapItemHolder> {
             final long lapTime = DataModel.getDataModel().getCurrentLapTime(totalTime);
 
             final LapItemHolder holder = (LapItemHolder) rv.getChildViewHolder(currentLapView);
-            holder.lapTime.setText(formatLapTime(lapTime, false));
+//            holder.lapTime.setText(formatLapTime(lapTime, false));
             holder.accumulatedTime.setText(formatAccumulatedTime(totalTime, false));
         }
     }
@@ -364,13 +366,12 @@ class LapsAdapter extends RecyclerView.Adapter<LapsAdapter.LapItemHolder> {
     static final class LapItemHolder extends RecyclerView.ViewHolder {
 
         private final TextView lapNumber;
-        private final TextView lapTime;
         private final TextView accumulatedTime;
 
         LapItemHolder(View itemView) {
             super(itemView);
 
-            lapTime = itemView.findViewById(R.id.lap_time);
+
             lapNumber = itemView.findViewById(R.id.lap_number);
             accumulatedTime = itemView.findViewById(R.id.lap_total);
         }
