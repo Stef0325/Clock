@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-eo/values-eo.xml",
             "map": [
                 {
-                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-eo\\strings.xml",
+                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-eo\\strings.xml",
                     "from": {
                         "startLines": "32,41,27,21,20,19,16,31,25,18,17,73,74,79,76,26,75,78,77,80",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

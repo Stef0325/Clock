@@ -13,14 +13,17 @@
      limitations under the License.
 -->
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:gravity="center"
     android:layoutDirection="ltr"
     android:orientation="horizontal"
     android:paddingTop="@dimen/body_font_padding"
-    android:paddingBottom="@dimen/body_font_padding">
+    android:paddingBottom="@dimen/body_font_padding"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    >
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/lap_number"
@@ -28,24 +31,28 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:fontFeatureSettings="tnum"
-        android:gravity="start"
-        android:textAllCaps="false" />
+        android:layout_alignParentLeft="true"
+        android:textAllCaps="false"
 
-    <com.google.android.material.textview.MaterialTextView
-        android:id="@+id/lap_time"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="16dp"
-        android:fontFeatureSettings="tnum"
-        android:gravity="end"
-        android:textAllCaps="false" />
+        />
+
+<!--    <com.google.android.material.textview.MaterialTextView-->
+<!--        android:id="@+id/lap_time"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:fontFeatureSettings="tnum"-->
+<!--        android:gravity="end"-->
+<!--        android:textAllCaps="false" />-->
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/lap_total"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
         android:fontFeatureSettings="tnum"
-        android:gravity="end"
-        android:textAllCaps="false" />
+        android:textAllCaps="false"
 
-</LinearLayout>
+        />
+
+</RelativeLayout>
