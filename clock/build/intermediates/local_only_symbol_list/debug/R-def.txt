@@ -372,6 +372,9 @@ id stopwatch_circle
 id stopwatch_hundredths_text
 id stopwatch_time_text
 id stopwatch_time_wrapper
+id textViewHH
+id textViewMM
+id textViewSS
 id timer_label
 id timer_setup
 id timer_setup_delete

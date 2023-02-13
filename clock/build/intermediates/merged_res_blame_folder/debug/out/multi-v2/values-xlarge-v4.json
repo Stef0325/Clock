@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ZhangCheng\\.gradle\\caches\\transforms-3\\8df399761f18912b682c0730b8cc2738\\transformed\\appcompat-1.4.2\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\temp\\.gradle\\caches\\transforms-3\\8df399761f18912b682c0730b8cc2738\\transformed\\appcompat-1.4.2\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

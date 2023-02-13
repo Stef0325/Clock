@@ -78,6 +78,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
+            android:alpha="0"
             android:baselineAligned="false"
             android:orientation="horizontal"
             app:layout_behavior="com.best.deskclock.widget.toast.SnackbarSlidingBehavior">
@@ -90,19 +91,19 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/left_button"
-                    android:layout_width="wrap_content"
+                    android:layout_width="32dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:minWidth="48dp"
-                    android:minHeight="48dp"
+                    android:minWidth="4dp"
+                    android:minHeight="4dp"
                     android:scaleType="centerInside" />
 
             </FrameLayout>
 
             <com.google.android.material.floatingactionbutton.FloatingActionButton
                 android:id="@+id/fab"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="32dp"
+                android:layout_height="28dp"
                 android:layout_gravity="center"
                 android:layout_margin="@dimen/fab_margin"
                 app:borderWidth="0dp"
@@ -116,11 +117,11 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/right_button"
-                    android:layout_width="wrap_content"
+                    android:layout_width="32dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:minWidth="48dp"
-                    android:minHeight="48dp"
+                    android:minWidth="4dp"
+                    android:minHeight="4dp"
                     android:scaleType="centerInside" />
 
             </FrameLayout>
@@ -144,7 +145,7 @@
             android:id="@+id/centerBottom_ImageView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true"/>
+            android:layout_centerInParent="true" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/rightBottom_button"

@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ZhangCheng\\.gradle\\caches\\transforms-3\\bd267ef70641b0180622c3e4bf7d76ec\\transformed\\material-1.7.0-alpha02\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\temp\\.gradle\\caches\\transforms-3\\bd267ef70641b0180622c3e4bf7d76ec\\transformed\\material-1.7.0-alpha02\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
