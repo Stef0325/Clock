@@ -3360,6 +3360,9 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewHH
+id textViewMM
+id textViewSS
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
