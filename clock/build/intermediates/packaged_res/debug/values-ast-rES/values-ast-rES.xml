@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="action_setting_entries">
+        <item>Posponer</item>
+        <item>Escartar</item>
+        <item>Nada</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>L\'alarma va sonar en menos d\'un minutu.</item>
+        <item>L\'alarma va sonar en <ns1:g id="DAYS">%1$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="HOURS">%2$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="DAYS">%1$s</ns1:g> y <ns1:g id="HOURS">%2$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="MINUTES">%3$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="DAYS">%1$s</ns1:g> y <ns1:g id="MINUTES">%3$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="HOURS">%2$s</ns1:g> y <ns1:g id="MINUTES">%3$s</ns1:g>.</item>
+        <item>L\'alarma va sonar en <ns1:g id="DAYS">%1$s</ns1:g>, <ns1:g id="HOURS">%2$s</ns1:g> y <ns1:g id="MINUTES">%3$s</ns1:g>.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>1 minutu</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Analóxicu</item>
+        <item>Dixital</item>
+    </string-array>
+    <string-array name="crescendo_entries">
+        <item>Non</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>20 seconds</item>
+        <item>25 seconds</item>
+        <item>30 seconds</item>
+        <item>35 seconds</item>
+        <item>40 seconds</item>
+        <item>45 seconds</item>
+        <item>50 seconds</item>
+        <item>55 seconds</item>
+        <item>60 seconds</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minutu</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>4 minutes</item>
+        <item>5 minutos</item>
+        <item>6 minutes</item>
+        <item>7 minutes</item>
+        <item>8 minutes</item>
+        <item>9 minutes</item>
+        <item>10 minutos</item>
+        <item>11 minutes</item>
+        <item>12 minutes</item>
+        <item>13 minutes</item>
+        <item>14 minutes</item>
+        <item>15 minutos</item>
+        <item>16 minutes</item>
+        <item>17 minutes</item>
+        <item>18 minutes</item>
+        <item>19 minutes</item>
+        <item>20 minutos</item>
+        <item>21 minutes</item>
+        <item>22 minutes</item>
+        <item>23 minutes</item>
+        <item>24 minutes</item>
+        <item>25 minutos</item>
+        <item>26 minutes</item>
+        <item>27 minutes</item>
+        <item>28 minutes</item>
+        <item>29 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="sw_share_strings" translatable="true">
+        <item>Yes el rei de la velocidá.</item>
+        <item>Esfruta de los frutos del to trabayu.</item>
+        <item>Los androides son conocíos por ser rápidos, pero non tanto como tu.</item>
+        <item>¡Uf!</item>
+        <item>L33t vegaes</item>
+        <item>Una velocidá ablucante</item>
+        <item>Vamos a saltar nel tiempu otra vegada.</item>
+        <item>Namái un saltu a la esquierda</item>
+        <item>Tienes munches coses que facer en pocu tiempu.</item>
+        <item>Velocidá fotónica</item>
+    </string-array>
+    <string-array name="timezone_labels" ns2:ignore="Typos">
+        <item>"Islles Marshall"</item>
+        <item>"Islles Midway"</item>
+        <item>"Hawái"</item>
+        <item>"Alaska"</item>
+        <item>"Hora del Pacíficu"</item>
+        <item>"Tijuana"</item>
+        <item>"Arizona"</item>
+        <item>"Chihuahua"</item>
+        <item>"Hora de les Montañes Rocoses"</item>
+        <item>"Centroamérica"</item>
+        <item>"Hora central"</item>
+        <item>"Ciudá de Méxicu"</item>
+        <item>"Saskatchewan"</item>
+        <item>"Bogotá"</item>
+        <item>"Hora del Este"</item>
+        <item>"Venezuela"</item>
+        <item>"Hora del Atlánticu (Barbados)"</item>
+        <item>"Hora del Atlánticu (Canadá)"</item>
+        <item>"Manaos"</item>
+        <item>"Santiago"</item>
+        <item>"Terranova"</item>
+        <item>"Brasilia"</item>
+        <item>"Buenos Aires"</item>
+        <item>"Groenlandia"</item>
+        <item>"Montevidéu"</item>
+        <item>"Atlánticu Mediu"</item>
+        <item>"Azores"</item>
+        <item>"Islles de Cabu Verde"</item>
+        <item>"Casablanca"</item>
+        <item>"Londres, Dublín"</item>
+        <item>"Ámsterdam, Berlín"</item>
+        <item>"Belgráu"</item>
+        <item>"Bruxeles"</item>
+        <item>"Sarayevu"</item>
+        <item>"Windhoek"</item>
+        <item>"Hora África Occidental"</item>
+        <item>"Amán, Xordania"</item>
+        <item>"Atenes, Estambul"</item>
+        <item>"Beirut, Líbanu"</item>
+        <item>"El Cairu"</item>
+        <item>"Helsinki"</item>
+        <item>"Xerusalén"</item>
+        <item>"Minsk"</item>
+        <item>"Harare"</item>
+        <item>"Bagdad"</item>
+        <item>"Moscú"</item>
+        <item>"Kuwait"</item>
+        <item>"Nairobi"</item>
+        <item>"Teḥrán"</item>
+        <item>"Bakú"</item>
+        <item>"Tiflis"</item>
+        <item>"Ereván"</item>
+        <item>"Dubái"</item>
+        <item>"Kabul"</item>
+        <item>"Islamabad, Karachi"</item>
+        <item>"Oral"</item>
+        <item>"Ekaterimburgu"</item>
+        <item>"Calcuta"</item>
+        <item>"Sri Lanka"</item>
+        <item>"Katmandú"</item>
+        <item>"Astaná"</item>
+        <item>"Rangún"</item>
+        <item>"Krasnoyarsk"</item>
+        <item>"Bangkok"</item>
+        <item>"Pequín"</item>
+        <item>"Hong Kong"</item>
+        <item>"Irkutsk"</item>
+        <item>"Kuala Lumpur"</item>
+        <item>"Perth"</item>
+        <item>"Taipei"</item>
+        <item>"Seúl"</item>
+        <item>"Tokiu, Osaka"</item>
+        <item>"Yakutsk"</item>
+        <item>"Adelaida"</item>
+        <item>"Darwin"</item>
+        <item>"Brisbane"</item>
+        <item>"Hobart"</item>
+        <item>"Sidney, Canberra"</item>
+        <item>"Vladivostok"</item>
+        <item>"Guam"</item>
+        <item>"Magadán"</item>
+        <item>"Auckland"</item>
+        <item>"Fixi"</item>
+        <item>"Tonga"</item>
+        <item>"Xakarta"</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Posponer l\'alarma</item>
+        <item>Escartar</item>
+        <item>Controlar volume</item>
+    </string-array>
+    <string-array name="week_start_entries">
+        <item>Sábadu</item>
+        <item>Domingu</item>
+        <item>Llunes</item>
+    </string-array>
+    <plurals name="alarm_alert_snooze_duration">
+        <item quantity="one">1 min</item>
+        <item quantity="other"><ns1:g example="7" id="number">%d</ns1:g> mins</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="one">Pospuesta 1 minutu.</item>
+        <item quantity="other">Pospuesta <ns1:g id="MINUTES">%d</ns1:g> minutos.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="one">1 minutu</item>
+        <item quantity="other"><ns1:g example="7" id="formatted_number">%s</ns1:g> minutos</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">1 día</item>
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> díes</item>
+    </plurals>
+    <plurals name="expired_timers_dismissed">
+        <item quantity="one">Temporidador de despidu</item>
+        <item quantity="other"><ns1:g example="5" id="number">%d</ns1:g> temporizadores de despidu</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">1 hora</item>
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> hores</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">1 minutu</item>
+        <item quantity="other"><ns1:g example="7" id="number">%s</ns1:g> minutos</item>
+    </plurals>
+    <string name="C1">A<ns1:g id="separator">=</ns1:g>Abidjan<ns1:g id="timezone">|Africa/Abidjan</ns1:g></string>
+    <string name="C10">D<ns1:g id="separator">=</ns1:g>Dakar<ns1:g id="timezone">|Africa/Dakar</ns1:g></string>
+    <string name="C100">A<ns1:g id="separator">=</ns1:g>Amman<ns1:g id="timezone">|Asia/Amman</ns1:g></string>
+    <string name="C101">A<ns1:g id="separator">=</ns1:g>Anadyr<ns1:g id="timezone">|Asia/Anadyr</ns1:g></string>
+    <string name="C102">A<ns1:g id="separator">=</ns1:g>Aqtau<ns1:g id="timezone">|Asia/Aqtau</ns1:g></string>
+    <string name="C103">B<ns1:g id="separator">=</ns1:g>Baghdad<ns1:g id="timezone">|Asia/Baghdad</ns1:g></string>
+    <string name="C104">B<ns1:g id="separator">=</ns1:g>Bahrain<ns1:g id="timezone">|Asia/Bahrain</ns1:g></string>
+    <string name="C105">B<ns1:g id="separator">=</ns1:g>Baku<ns1:g id="timezone">|Asia/Baku</ns1:g></string>
+    <string name="C106">B<ns1:g id="separator">=</ns1:g>Bangkok<ns1:g id="timezone">|Asia/Bangkok</ns1:g></string>
+    <string name="C107">B<ns1:g id="separator">=</ns1:g>Beirut<ns1:g id="timezone">|Asia/Beirut</ns1:g></string>
+    <string name="C108">K<ns1:g id="separator">=</ns1:g>Kolkata<ns1:g id="timezone">|Asia/Calcutta</ns1:g></string>
+    <string name="C109">D<ns1:g id="separator">=</ns1:g>Damascu<ns1:g id="timezone">|Asia/Damascu</ns1:g></string>
+    <string name="C11">D<ns1:g id="separator">=</ns1:g>Dar es Salaam<ns1:g id="timezone">|Africa/Dar_es_Salaam</ns1:g></string>
+    <string name="C110">D<ns1:g id="separator">=</ns1:g>Dhaka<ns1:g id="timezone">|Asia/Dhaka</ns1:g></string>
+    <string name="C111">D<ns1:g id="separator">=</ns1:g>Dubai<ns1:g id="timezone">|Asia/Dubai</ns1:g></string>
+    <string name="C112">G<ns1:g id="separator">=</ns1:g>Gaza<ns1:g id="timezone">|Asia/Gaza</ns1:g></string>
+    <string name="C113">H<ns1:g id="separator">=</ns1:g>Hebron<ns1:g id="timezone">|Asia/Hebron</ns1:g></string>
+    <string name="C114">H<ns1:g id="separator">=</ns1:g>Ho Chi Minh<ns1:g id="timezone">|Asia/Ho_Chi_Minh</ns1:g></string>
+    <string name="C115">H<ns1:g id="separator">=</ns1:g>Hong Kong<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Hong_Kong</ns1:g></string>
+    <string name="C117">J<ns1:g id="separator">=</ns1:g>Jakarta<ns1:g id="timezone">|Asia/Jakarta</ns1:g></string>
+    <string name="C118">J<ns1:g id="separator">=</ns1:g>Jerusalem<ns1:g id="timezone">|Asia/Jerusalem</ns1:g></string>
+    <string name="C119">K<ns1:g id="separator">=</ns1:g>Kabul<ns1:g id="timezone">|Asia/Kabul</ns1:g></string>
+    <string name="C12">D<ns1:g id="separator">=</ns1:g>Djibouti<ns1:g id="timezone">|Africa/Djibouti</ns1:g></string>
+    <string name="C120">K<ns1:g id="separator">=</ns1:g>Karachi<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C121">K<ns1:g id="separator">=</ns1:g>Kathmandu<ns1:g id="timezone">|Asia/Kathmandu</ns1:g></string>
+    <string name="C122">K<ns1:g id="separator">=</ns1:g>Kuala Lumpur<ns1:g id="timezone">|Asia/Kuala_Lumpur</ns1:g></string>
+    <string name="C123">K<ns1:g id="separator">=</ns1:g>Kuwait<ns1:g id="timezone">|Asia/Kuwait</ns1:g></string>
+    <string name="C124">M<ns1:g id="separator">=</ns1:g>Macau<ns1:g id="timezone">|Asia/Macau</ns1:g></string>
+    <string name="C125">M<ns1:g id="separator">=</ns1:g>Manila<ns1:g id="timezone">|Asia/Manila</ns1:g></string>
+    <string name="C126">M<ns1:g id="separator">=</ns1:g>Muscat<ns1:g id="timezone">|Asia/Muscat</ns1:g></string>
+    <string name="C127">P<ns1:g id="separator">=</ns1:g>Phnom Penh<ns1:g id="timezone">|Asia/Phnom_Penh</ns1:g></string>
+    <string name="C128">P<ns1:g id="separator">=</ns1:g>Pyongyang<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Pyongyang</ns1:g></string>
+    <string name="C13">F<ns1:g id="separator">=</ns1:g>Freetown<ns1:g id="timezone">|Africa/Freetown</ns1:g></string>
+    <string name="C130">R<ns1:g id="separator">=</ns1:g>Rangoon<ns1:g id="timezone">|Asia/Rangoon</ns1:g></string>
+    <string name="C131">R<ns1:g id="separator">=</ns1:g>Riyadh<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C133">S<ns1:g id="separator">=</ns1:g>Seoul<ns1:g id="timezone">|Asia/Seoul</ns1:g></string>
+    <string name="C134">S<ns1:g id="separator">=</ns1:g>Shanghai<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C135">S<ns1:g id="separator">=</ns1:g>Singapore<ns1:g id="timezone">|Asia/Singapore</ns1:g></string>
+    <string name="C136">T<ns1:g id="separator">=</ns1:g>Taipei<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Taipei</ns1:g></string>
+    <string name="C137">T<ns1:g id="separator">=</ns1:g>Tehran<ns1:g id="timezone">|Asia/Tehran</ns1:g></string>
+    <string name="C138">T<ns1:g id="separator">=</ns1:g>Tel Aviv<ns1:g id="timezone">|Asia/Tel_Aviv</ns1:g></string>
+    <string name="C139">T<ns1:g id="separator">=</ns1:g>Tokyo<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Tokyo</ns1:g></string>
+    <string name="C14">G<ns1:g id="separator">=</ns1:g>Gaborone<ns1:g id="timezone">|Africa/Gaborone</ns1:g></string>
+    <string name="C140">U<ns1:g id="separator">=</ns1:g>Ulaanbaatar<ns1:g id="timezone">|Asia/Ulaanbaatar</ns1:g></string>
+    <string name="C141">B<ns1:g id="separator">=</ns1:g>Bermuda<ns1:g id="timezone">|Atlantic/Bermuda</ns1:g></string>
+    <string name="C142">C<ns1:g id="separator">=</ns1:g>Canaries<ns1:g id="timezone">|Atlantic/Canaries</ns1:g></string>
+    <string name="C143">C<ns1:g id="separator">=</ns1:g>Cape Verde<ns1:g id="timezone">|Atlantic/Cabu_Verde</ns1:g></string>
+    <string name="C144">R<ns1:g id="separator">=</ns1:g>Reykjavik<ns1:g id="timezone">|Atlantic/Reykjavik</ns1:g></string>
+    <string name="C145">S<ns1:g id="separator">=</ns1:g>Stanley<ns1:g id="timezone">|Atlantic/Stanley</ns1:g></string>
+    <string name="C146">A<ns1:g id="separator">=</ns1:g>Adelaide<ns1:g id="timezone">|Australia/Adelaide</ns1:g></string>
+    <string name="C147">B<ns1:g id="separator">=</ns1:g>Brisbane<ns1:g id="timezone">|Australia/Brisbane</ns1:g></string>
+    <string name="C148">C<ns1:g id="separator">=</ns1:g>Canberra<ns1:g id="timezone">|Australia/Canberra</ns1:g></string>
+    <string name="C149">D<ns1:g id="separator">=</ns1:g>Darwin<ns1:g id="timezone">|Australia/Darwin</ns1:g></string>
+    <string name="C15">H<ns1:g id="separator">=</ns1:g>Harare<ns1:g id="timezone">|Africa/Harare</ns1:g></string>
+    <string name="C150">M<ns1:g id="separator">=</ns1:g>Melbourne<ns1:g id="timezone">|Australia/Melbourne</ns1:g></string>
+    <string name="C151">N<ns1:g id="separator">=</ns1:g>New South Wales<ns1:g id="timezone">|Australia/NSW</ns1:g></string>
+    <string name="C152">P<ns1:g id="separator">=</ns1:g>Perth<ns1:g id="timezone">|Australia/Perth</ns1:g></string>
+    <string name="C153">Q<ns1:g id="separator">=</ns1:g>Queensland<ns1:g id="timezone">|Australia/Queensland</ns1:g></string>
+    <string name="C154">S<ns1:g id="separator">=</ns1:g>Sydney<ns1:g id="timezone">|Australia/Sydney</ns1:g></string>
+    <string name="C155">V<ns1:g id="separator">=</ns1:g>Victoria<ns1:g id="timezone">|Australia/Victoria</ns1:g></string>
+    <string name="C156">N<ns1:g id="separator">=</ns1:g>Newfoundland<ns1:g id="timezone">|Canada/Newfoundland</ns1:g></string>
+    <string name="C157">S<ns1:g id="separator">=</ns1:g>Saskatchewan<ns1:g id="timezone">|Canada/Saskatchewan</ns1:g></string>
+    <string name="C158">E<ns1:g id="separator">=</ns1:g>Easter Island<ns1:g id="timezone">|Chile/EasterIsland</ns1:g></string>
+    <string name="C159">A<ns1:g id="separator">=</ns1:g>Amsterdam<ns1:g id="timezone">|Europe/Amsterdam</ns1:g></string>
+    <string name="C16">J<ns1:g id="separator">=</ns1:g>Johannesburg<ns1:g id="timezone">|Africa/Johannesburg</ns1:g></string>
+    <string name="C160">A<ns1:g id="separator">=</ns1:g>Andorra<ns1:g id="timezone">|Europe/Andorra</ns1:g></string>
+    <string name="C161">A<ns1:g id="separator">=</ns1:g>Athens<ns1:g id="timezone">|Europe/Athens</ns1:g></string>
+    <string name="C162">B<ns1:g id="separator">=</ns1:g>Belfast<ns1:g id="timezone">|Europe/Belfast</ns1:g></string>
+    <string name="C163">B<ns1:g id="separator">=</ns1:g>Belgrade<ns1:g id="timezone">|Europe/Belgrade</ns1:g></string>
+    <string name="C164">B<ns1:g id="separator">=</ns1:g>Berlin<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C165">B<ns1:g id="separator">=</ns1:g>Bratislava<ns1:g id="timezone">|Europe/Bratislava</ns1:g></string>
+    <string name="C166">B<ns1:g id="separator">=</ns1:g>Brussels<ns1:g id="timezone">|Europe/Brussels</ns1:g></string>
+    <string name="C167">B<ns1:g id="separator">=</ns1:g>Bucharest<ns1:g id="timezone">|Europe/Bucharest</ns1:g></string>
+    <string name="C168">B<ns1:g id="separator">=</ns1:g>Budapest<ns1:g id="timezone">|Europe/Budapest</ns1:g></string>
+    <string name="C169">C<ns1:g id="separator">=</ns1:g>Chisinau<ns1:g id="timezone">|Europe/Chisinau</ns1:g></string>
+    <string name="C17">K<ns1:g id="separator">=</ns1:g>Kampala<ns1:g id="timezone">|Africa/Kampala</ns1:g></string>
+    <string name="C170">C<ns1:g id="separator">=</ns1:g>Copenhagen<ns1:g id="timezone">|Europe/Copenhagen</ns1:g></string>
+    <string name="C171">D<ns1:g id="separator">=</ns1:g>Dublin<ns1:g id="timezone">|Europe/Dublin</ns1:g></string>
+    <string name="C172">G<ns1:g id="separator">=</ns1:g>Gibraltar<ns1:g id="timezone">|Europe/Gibraltar</ns1:g></string>
+    <string name="C173">H<ns1:g id="separator">=</ns1:g>Helsinki<ns1:g id="timezone">|Europe/Helsinki</ns1:g></string>
+    <string name="C174">I<ns1:g id="separator">=</ns1:g>Islla de Man<ns1:g id="timezone">|Europe/Islla_de_Man</ns1:g></string>
+    <string name="C175">I<ns1:g id="separator">=</ns1:g>Istanbul<ns1:g id="timezone">|Europe/Istanbul</ns1:g></string>
+    <string name="C176">K<ns1:g id="separator">=</ns1:g>Kiev<ns1:g id="timezone">|Europe/Kiev</ns1:g></string>
+    <string name="C177">L<ns1:g id="separator">=</ns1:g>Lisboa<ns1:g id="timezone">|Europe/Lisboa</ns1:g></string>
+    <string name="C178">L<ns1:g id="separator">=</ns1:g>London<ns1:g id="timezone">|Europe/London</ns1:g></string>
+    <string name="C179">L<ns1:g id="separator">=</ns1:g>Luxembourg<ns1:g id="timezone">|Europe/Luxembourg</ns1:g></string>
+    <string name="C18">K<ns1:g id="separator">=</ns1:g>Khartoum<ns1:g id="timezone">|Africa/Khartoum</ns1:g></string>
+    <string name="C180">M<ns1:g id="separator">=</ns1:g>Madrid<ns1:g id="timezone">|Europe/Madrid</ns1:g></string>
+    <string name="C181">M<ns1:g id="separator">=</ns1:g>Malta<ns1:g id="timezone">|Europe/Malta</ns1:g></string>
+    <string name="C182">M<ns1:g id="separator">=</ns1:g>Minsk<ns1:g id="timezone">|Europe/Minsk</ns1:g></string>
+    <string name="C183">M<ns1:g id="separator">=</ns1:g>Mónaco<ns1:g id="timezone">|Europe/Mónaco</ns1:g></string>
+    <string name="C184">M<ns1:g id="separator">=</ns1:g>Moscu<ns1:g id="timezone">|Europe/Moscu</ns1:g></string>
+    <string name="C185">O<ns1:g id="separator">=</ns1:g>Oslo<ns1:g id="timezone">|Europe/Oslo</ns1:g></string>
+    <string name="C186">P<ns1:g id="separator">=</ns1:g>Paris<ns1:g id="timezone">|Europe/Paris</ns1:g></string>
+    <string name="C187">P<ns1:g id="separator">=</ns1:g>Prague<ns1:g id="timezone">|Europe/Prague</ns1:g></string>
+    <string name="C188">R<ns1:g id="separator">=</ns1:g>Riga<ns1:g id="timezone">|Europe/Riga</ns1:g></string>
+    <string name="C189">R<ns1:g id="separator">=</ns1:g>Rome<ns1:g id="timezone">|Europe/Roma</ns1:g></string>
+    <string name="C19">K<ns1:g id="separator">=</ns1:g>Kigali<ns1:g id="timezone">|Africa/Kigali</ns1:g></string>
+    <string name="C190">S<ns1:g id="separator">=</ns1:g>San Marino<ns1:g id="timezone">|Europe/San_Marino</ns1:g></string>
+    <string name="C191">S<ns1:g id="separator">=</ns1:g>Sarajevo<ns1:g id="timezone">|Europe/Sarajevo</ns1:g></string>
+    <string name="C192">S<ns1:g id="separator">=</ns1:g>Simferopol<ns1:g id="timezone">|Europe/Simferopol</ns1:g></string>
+    <string name="C193">S<ns1:g id="separator">=</ns1:g>Skopje<ns1:g id="timezone">|Europe/Skopje</ns1:g></string>
+    <string name="C194">S<ns1:g id="separator">=</ns1:g>Sofia<ns1:g id="timezone">|Europe/Sofía</ns1:g></string>
+    <string name="C195">S<ns1:g id="separator">=</ns1:g>Stockholm<ns1:g id="timezone">|Europe/Stockholm</ns1:g></string>
+    <string name="C196">T<ns1:g id="separator">=</ns1:g>Tallinn<ns1:g id="timezone">|Europe/Tallinn</ns1:g></string>
+    <string name="C197">V<ns1:g id="separator">=</ns1:g>Vatican<ns1:g id="timezone">|Europe/Vatican</ns1:g></string>
+    <string name="C198">V<ns1:g id="separator">=</ns1:g>Vienna<ns1:g id="timezone">|Europe/Vienna</ns1:g></string>
+    <string name="C199">V<ns1:g id="separator">=</ns1:g>Vilnius<ns1:g id="timezone">|Europe/Vilnius</ns1:g></string>
+    <string name="C2">A<ns1:g id="separator">=</ns1:g>Accra<ns1:g id="timezone">|Africa/Accra</ns1:g></string>
+    <string name="C20">K<ns1:g id="separator">=</ns1:g>Kinshasa<ns1:g id="timezone">|Africa/Kinshasa</ns1:g></string>
+    <string name="C200">W<ns1:g id="separator">=</ns1:g>Varsovia<ns1:g id="timezone">|Europe/Varsovia</ns1:g></string>
+    <string name="C201">Z<ns1:g id="separator">=</ns1:g>Zagreb<ns1:g id="timezone">|Europe/Zagreb</ns1:g></string>
+    <string name="C202">Z<ns1:g id="separator">=</ns1:g>Zurich<ns1:g id="timezone">|Europe/Zurich</ns1:g></string>
+    <string name="C203">A<ns1:g id="separator">=</ns1:g>Antananarivo<ns1:g id="timezone">|Indian/Antananarivo</ns1:g></string>
+    <string name="C204">M<ns1:g id="separator">=</ns1:g>Maldives<ns1:g id="timezone">|Indian/Maldives</ns1:g></string>
+    <string name="C205">M<ns1:g id="separator">=</ns1:g>Mauritius<ns1:g id="timezone">|Indian/Mauritius</ns1:g></string>
+    <string name="C206">A<ns1:g id="separator">=</ns1:g>Auckland<ns1:g id="timezone">|Pacific/Auckland</ns1:g></string>
+    <string name="C207">F<ns1:g id="separator">=</ns1:g>Fiji<ns1:g id="timezone">|Pacific/Fiji</ns1:g></string>
+    <string name="C208">G<ns1:g id="separator">=</ns1:g>Guam<ns1:g id="timezone">|Pacific/Guam</ns1:g></string>
+    <string name="C209">H<ns1:g id="separator">=</ns1:g>Honolulu<ns1:g id="timezone">|Pacific/Honolulu</ns1:g></string>
+    <string name="C21">L<ns1:g id="separator">=</ns1:g>Lagos<ns1:g id="timezone">|Africa/Lagos</ns1:g></string>
+    <string name="C210">K<ns1:g id="separator">=</ns1:g>Kiritimati<ns1:g id="timezone">|Pacific/Kiritimati</ns1:g></string>
+    <string name="C211">N<ns1:g id="separator">=</ns1:g>Noumea<ns1:g id="timezone">|Pacific/Noumea</ns1:g></string>
+    <string name="C214">A<ns1:g id="separator">=</ns1:g>Antigua<ns1:g id="timezone">|America/Antigua</ns1:g></string>
+    <string name="C215">A<ns1:g id="separator">=</ns1:g>Austin<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C216">B<ns1:g id="separator">=</ns1:g>Boston<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C217">C<ns1:g id="separator">=</ns1:g>Calgary<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C218">C<ns1:g id="separator">=</ns1:g>Columbus<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C219">D<ns1:g id="separator">=</ns1:g>Dallas<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C22">M<ns1:g id="separator">=</ns1:g>Maseru<ns1:g id="timezone">|Africa/Maseru</ns1:g></string>
+    <string name="C220">K<ns1:g id="separator">=</ns1:g>Knoxville<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C221">M<ns1:g id="separator">=</ns1:g>Memphis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C222">M<ns1:g id="separator">=</ns1:g>Miami<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C223">M<ns1:g id="separator">=</ns1:g>Minneapolis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C224">O<ns1:g id="separator">=</ns1:g>Ottawa<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C225">P<ns1:g id="separator">=</ns1:g>Philadelphia<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C226">P<ns1:g id="separator">=</ns1:g>Portland<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C227">S<ns1:g id="separator">=</ns1:g>San Diego<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C228">S<ns1:g id="separator">=</ns1:g>San Francisco<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C229">S<ns1:g id="separator">=</ns1:g>Salt Lake City<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C23">M<ns1:g id="separator">=</ns1:g>Mogadishu<ns1:g id="timezone">|Africa/Mogadishu</ns1:g></string>
+    <string name="C230">S<ns1:g id="separator">=</ns1:g>San Jose<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C231">S<ns1:g id="separator">=</ns1:g>San Salvador<ns1:g id="timezone">|America/Guatemala</ns1:g></string>
+    <string name="C232">S<ns1:g id="separator">=</ns1:g>Seattle<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C233">S<ns1:g id="separator">=</ns1:g>St. Louis<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C234">W<ns1:g id="separator">=</ns1:g>Washington D.C.<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C235">H<ns1:g id="separator">=</ns1:g>Houston<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C236">S<ns1:g id="separator">=</ns1:g>San Antonio<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C237">J<ns1:g id="separator">=</ns1:g>Jacksonville<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C238">B<ns1:g id="separator">=</ns1:g>Baltimore<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C239">N<ns1:g id="separator">=</ns1:g>Nashville<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C24">N<ns1:g id="separator">=</ns1:g>Nairobi<ns1:g id="timezone">|Africa/Nairobi</ns1:g></string>
+    <string name="C240">M<ns1:g id="separator">=</ns1:g>Milwaukee<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C241">O<ns1:g id="separator">=</ns1:g>Oklahoma City<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C242">L<ns1:g id="separator">=</ns1:g>Las Vegas<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C243">A<ns1:g id="separator">=</ns1:g>Albuquerque<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C244">T<ns1:g id="separator">=</ns1:g>Tucson<ns1:g id="timezone">|MST</ns1:g></string>
+    <string name="C245">S<ns1:g id="separator">=</ns1:g>Sacramento<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C246">A<ns1:g id="separator">=</ns1:g>Atlanta<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C247">C<ns1:g id="separator">=</ns1:g>Cleveland<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C248">N<ns1:g id="separator">=</ns1:g>New Orleans<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C249">T<ns1:g id="separator">=</ns1:g>Tampa<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C25">S<ns1:g id="separator">=</ns1:g>São Tomé<ns1:g id="timezone">|Africa/Sao_Tome</ns1:g></string>
+    <string name="C250">P<ns1:g id="separator">=</ns1:g>Pittsburgh<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C251">C<ns1:g id="separator">=</ns1:g>Cincinnati<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C252">M<ns1:g id="separator">=</ns1:g>Mountain View<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C253">R<ns1:g id="separator">=</ns1:g>Reno<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C254">B<ns1:g id="separator">=</ns1:g>Black Rock City<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C255">D<ns1:g id="separator">=</ns1:g>Doha<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C256">B<ns1:g id="separator">=</ns1:g>Beijing<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C257">M<ns1:g id="separator">=</ns1:g>Mumbai<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C258">D<ns1:g id="separator">=</ns1:g>Delhi<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C259">O<ns1:g id="separator">=</ns1:g>Osaka<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Tokyo</ns1:g></string>
+    <string name="C26">T<ns1:g id="separator">=</ns1:g>Timbuktu<ns1:g id="timezone">|Africa/Timbuktu</ns1:g></string>
+    <string name="C260">L<ns1:g id="separator">=</ns1:g>Lahore<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C261">S<ns1:g id="separator">=</ns1:g>Sana\'a<ns1:g id="timezone">|Asia/Riyadh</ns1:g></string>
+    <string name="C262">B<ns1:g id="separator">=</ns1:g>Barcelona<ns1:g id="timezone">|Europe/Madrid</ns1:g></string>
+    <string name="C263">M<ns1:g id="separator">=</ns1:g>Munich<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C264">M<ns1:g id="separator">=</ns1:g>Milan<ns1:g id="timezone">|Europe/Rome</ns1:g></string>
+    <string name="C265">F<ns1:g id="separator">=</ns1:g>Frankfurt<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C266">H<ns1:g id="separator">=</ns1:g>Hanoi<ns1:g id="timezone">|Asia/Bangkok</ns1:g></string>
+    <string name="C267">A<ns1:g id="separator">=</ns1:g>Ankara<ns1:g id="timezone">|Europe/Istanbul</ns1:g></string>
+    <string name="C268">B<ns1:g id="separator">=</ns1:g>Bangalore<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C269">B<ns1:g id="separator">=</ns1:g>Brasília<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C27">T<ns1:g id="separator">=</ns1:g>Tripoli<ns1:g id="timezone">|Africa/Tripoli</ns1:g></string>
+    <string name="C270">C<ns1:g id="separator">=</ns1:g>Cape Town<ns1:g id="timezone">|Africa/Johannesburg</ns1:g></string>
+    <string name="C271">I<ns1:g id="separator">=</ns1:g>Islamabad<ns1:g id="timezone">|Asia/Karachi</ns1:g></string>
+    <string name="C272">R<ns1:g id="separator">=</ns1:g>Rio de Janeiro<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C273">A<ns1:g id="separator">=</ns1:g>Ann Arbor<ns1:g id="timezone">|America/Detroit</ns1:g></string>
+    <string name="C274">B<ns1:g id="separator">=</ns1:g>Boulder<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C275">C<ns1:g id="separator">=</ns1:g>Cambridge<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C276">K<ns1:g id="separator">=</ns1:g>Kirkland<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C277">M<ns1:g id="separator">=</ns1:g>Madison<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C278">G<ns1:g id="separator">=</ns1:g>Guangzhou<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Asia/Shanghai</ns1:g></string>
+    <string name="C279">H<ns1:g id="separator">=</ns1:g>Hyderabad<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C28">T<ns1:g id="separator">=</ns1:g>Tunis<ns1:g id="timezone">|Africa/Tunis</ns1:g></string>
+    <string name="C280">R<ns1:g id="separator">=</ns1:g>Reston<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C281">B<ns1:g id="separator">=</ns1:g>Belo Horizonte<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C282">S<ns1:g id="separator">=</ns1:g>Santiago<ns1:g id="timezone">|America/Santiago</ns1:g></string>
+    <string name="C283">M<ns1:g id="separator">=</ns1:g>Monrovia<ns1:g id="timezone">|Africa/Monrovia</ns1:g></string>
+    <string name="C284">C<ns1:g id="separator">=</ns1:g>Colombo<ns1:g id="timezone">|Asia/Colombo</ns1:g></string>
+    <string name="C285">C<ns1:g id="separator">=</ns1:g>Chihuahua<ns1:g id="timezone">|America/Chihuahua</ns1:g></string>
+    <string name="C286">S<ns1:g id="separator">=</ns1:g>Salvador<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C287">G<ns1:g id="separator">=</ns1:g>Gurgaon<ns1:g id="timezone">|Asia/Kolkata</ns1:g></string>
+    <string name="C288">M<ns1:g id="separator">=</ns1:g>Manchester<ns1:g id="timezone">|Europe/London</ns1:g></string>
+    <string name="C29">A<ns1:g id="separator">=</ns1:g>Anchorage<ns1:g id="timezone">|America/Anchorage</ns1:g></string>
+    <string name="C290">S<ns1:g id="separator">=</ns1:g>St. Petersburg<ns1:g id="timezone">|Europe/Moscow</ns1:g></string>
+    <string name="C291">K<ns1:g id="separator">=</ns1:g>Kraków<ns1:g id="timezone">|Europe/Warsaw</ns1:g></string>
+    <string name="C292">W<ns1:g id="separator">=</ns1:g>Wroclaw<ns1:g id="timezone">|Europe/Warsaw</ns1:g></string>
+    <string name="C293">H<ns1:g id="separator">=</ns1:g>Hamburg<ns1:g id="timezone">|Europe/Berlin</ns1:g></string>
+    <string name="C294">O<ns1:g id="separator">=</ns1:g>Oulu<ns1:g id="timezone">|Europe/Bucharest</ns1:g></string>
+    <string name="C295">H<ns1:g id="separator">=</ns1:g>Haifa<ns1:g id="timezone">|Asia/Jerusalem</ns1:g></string>
+    <string name="C296">S<ns1:g id="separator">=</ns1:g>San Juan<ns1:g id="timezone">|America/Puerto_Rico</ns1:g></string>
+    <string name="C297">T<ns1:g id="separator">=</ns1:g>Tegucigalpa<ns1:g id="timezone">|America/Tegucigalpa</ns1:g></string>
+    <string name="C298">P<ns1:g id="separator">=</ns1:g>Paramaribo<ns1:g id="timezone">|America/Paramaribo</ns1:g></string>
+    <string name="C299">Q<ns1:g id="separator">=</ns1:g>Quito<ns1:g id="timezone">|America/Panama</ns1:g></string>
+    <string name="C3">A<ns1:g id="separator">=</ns1:g>Addis Ababa<ns1:g id="timezone">|Africa/Addis_Ababa</ns1:g></string>
+    <string name="C300">L<ns1:g id="separator">=</ns1:g>Ljubljana<ns1:g id="timezone">|Europe/Ljubljana</ns1:g></string>
+    <string name="C301">A<ns1:g id="separator">=</ns1:g>Ashgabat<ns1:g id="timezone">|Asia/Ashgabat</ns1:g></string>
+    <string name="C302">A<ns1:g id="separator">=</ns1:g>Asmara<ns1:g id="timezone">|Africa/Asmara</ns1:g></string>
+    <string name="C303">B<ns1:g id="separator">=</ns1:g>Bandar Seri Begawan<ns1:g id="timezone">|Asia/Brunei</ns1:g></string>
+    <string name="C304">B<ns1:g id="separator">=</ns1:g>Bangui<ns1:g id="timezone">|Africa/Bangui</ns1:g></string>
+    <string name="C305">B<ns1:g id="separator">=</ns1:g>Banjul<ns1:g id="timezone">|Africa/Banjul</ns1:g></string>
+    <string name="C306">B<ns1:g id="separator">=</ns1:g>Bishkek<ns1:g id="timezone">|Asia/Bishkek</ns1:g></string>
+    <string name="C307">B<ns1:g id="separator">=</ns1:g>Bissau<ns1:g id="timezone">|Africa/Bissau</ns1:g></string>
+    <string name="C308">B<ns1:g id="separator">=</ns1:g>Bujumbura<ns1:g id="timezone">|Africa/Bujumbura</ns1:g></string>
+    <string name="C309">D<ns1:g id="separator">=</ns1:g>Dili<ns1:g id="timezone">|Asia/Dili</ns1:g></string>
+    <string name="C31">A<ns1:g id="separator">=</ns1:g>Aruba<ns1:g id="timezone">|America/Aruba</ns1:g></string>
+    <string name="C310">D<ns1:g id="separator">=</ns1:g>Dushanbe<ns1:g id="timezone">|Asia/Dushanbe</ns1:g></string>
+    <string name="C311">F<ns1:g id="separator">=</ns1:g>Funafuti<ns1:g id="timezone">|Pacific/Funafuti</ns1:g></string>
+    <string name="C312">H<ns1:g id="separator">=</ns1:g>Honiara<ns1:g id="timezone">|Pacific/Guadalcanal</ns1:g></string>
+    <string name="C313">J<ns1:g id="separator">=</ns1:g>Juba<ns1:g id="timezone">|Africa/Juba</ns1:g></string>
+    <string name="C314">K<ns1:g id="separator">=</ns1:g>Kingstown<ns1:g id="timezone">|America/St_Vincent</ns1:g></string>
+    <string name="C315">L<ns1:g id="separator">=</ns1:g>Libreville<ns1:g id="timezone">|Africa/Libreville</ns1:g></string>
+    <string name="C316">L<ns1:g id="separator">=</ns1:g>Lomé<ns1:g id="timezone">|Africa/Lome</ns1:g></string>
+    <string name="C317">L<ns1:g id="separator">=</ns1:g>Luanda<ns1:g id="timezone">|Africa/Luanda</ns1:g></string>
+    <string name="C318">L<ns1:g id="separator">=</ns1:g>Lusaka<ns1:g id="timezone">|Africa/Lusaka</ns1:g></string>
+    <string name="C319">M<ns1:g id="separator">=</ns1:g>Majuro<ns1:g id="timezone">|Pacific/Majuro</ns1:g></string>
+    <string name="C32">A<ns1:g id="separator">=</ns1:g>Asunción<ns1:g id="timezone">|America/Asuncion</ns1:g></string>
+    <string name="C320">M<ns1:g id="separator">=</ns1:g>Malabo<ns1:g id="timezone">|Africa/Malabo</ns1:g></string>
+    <string name="C321">M<ns1:g id="separator">=</ns1:g>Maputo<ns1:g id="timezone">|Africa/Maputo</ns1:g></string>
+    <string name="C322">M<ns1:g id="separator">=</ns1:g>Mbabane<ns1:g id="timezone">|Africa/Mbabane</ns1:g></string>
+    <string name="C323">M<ns1:g id="separator">=</ns1:g>Moroni<ns1:g id="timezone">|Indian/Comoro</ns1:g></string>
+    <string name="C324">N<ns1:g id="separator">=</ns1:g>N\'Djamena<ns1:g id="timezone">|Africa/Ndjamena</ns1:g></string>
+    <string name="C325">N<ns1:g id="separator">=</ns1:g>Ngerulmud<ns1:g id="timezone">|Pacific/Palau</ns1:g></string>
+    <string name="C326">N<ns1:g id="separator">=</ns1:g>Niamey<ns1:g id="timezone">|Africa/Niamey</ns1:g></string>
+    <string name="C327">N<ns1:g id="separator">=</ns1:g>Nicosia<ns1:g id="timezone">|Europe/Nicosia</ns1:g></string>
+    <string name="C328">N<ns1:g id="separator">=</ns1:g>Nouakchott<ns1:g id="timezone">|Africa/Nouakchott</ns1:g></string>
+    <string name="C329">N<ns1:g id="separator">=</ns1:g>Nuku\'alofa<ns1:g id="timezone">|Pacific/Tongatapu</ns1:g></string>
+    <string name="C33">B<ns1:g id="separator">=</ns1:g>Barbados<ns1:g id="timezone">|America/Barbados</ns1:g></string>
+    <string name="C330">O<ns1:g id="separator">=</ns1:g>Ouagadougou<ns1:g id="timezone">|Africa/Ouagadougou</ns1:g></string>
+    <string name="C331">P<ns1:g id="separator">=</ns1:g>Palikir<ns1:g id="timezone">|Pacific/Noumea</ns1:g></string>
+    <string name="C332">P<ns1:g id="separator">=</ns1:g>Philipsburg<ns1:g id="timezone">|America/Lower_Princes</ns1:g></string>
+    <string name="C333">P<ns1:g id="separator">=</ns1:g>Podgorica<ns1:g id="timezone">|Europe/Podgorica</ns1:g></string>
+    <string name="C334">P<ns1:g id="separator">=</ns1:g>Port Moresby<ns1:g id="timezone">|Pacific/Palau</ns1:g></string>
+    <string name="C335">P<ns1:g id="separator">=</ns1:g>Port Vila<ns1:g id="timezone">|Pacific/Efate</ns1:g></string>
+    <string name="C336">P<ns1:g id="separator">=</ns1:g>Porto-Novo<ns1:g id="timezone">|Africa/Porto-Novo</ns1:g></string>
+    <string name="C337">P<ns1:g id="separator">=</ns1:g>Priština<ns1:g id="timezone">|Europe/Belgrade</ns1:g></string>
+    <string name="C338">R<ns1:g id="separator">=</ns1:g>Roseau<ns1:g id="timezone">|America/Dominica</ns1:g></string>
+    <string name="C339">T<ns1:g id="separator">=</ns1:g>Tashkent<ns1:g id="timezone">|Asia/Tashkent</ns1:g></string>
+    <string name="C34">B<ns1:g id="separator">=</ns1:g>Belize<ns1:g id="timezone">|America/Belize</ns1:g></string>
+    <string name="C340">T<ns1:g id="separator">=</ns1:g>Tbilisi<ns1:g id="timezone">|Asia/Tbilisi</ns1:g></string>
+    <string name="C341">T<ns1:g id="separator">=</ns1:g>Thimphu<ns1:g id="timezone">|Asia/Thimphu</ns1:g></string>
+    <string name="C342">T<ns1:g id="separator">=</ns1:g>Tirana<ns1:g id="timezone">|Europe/Tirane</ns1:g></string>
+    <string name="C343">V<ns1:g id="separator">=</ns1:g>Vaduz<ns1:g id="timezone">|Europe/Vaduz</ns1:g></string>
+    <string name="C344">V<ns1:g id="separator">=</ns1:g>Vientiane<ns1:g id="timezone">|Asia/Vientiane</ns1:g></string>
+    <string name="C345">W<ns1:g id="separator">=</ns1:g>Windhoek<ns1:g id="timezone">|Africa/Windhoek</ns1:g></string>
+    <string name="C346">Y<ns1:g id="separator">=</ns1:g>Yaoundé<ns1:g id="timezone">|Africa/Douala</ns1:g></string>
+    <string name="C347">Y<ns1:g id="separator">=</ns1:g>Yaren District<ns1:g id="timezone">|Pacific/Nauru</ns1:g></string>
+    <string name="C348">Y<ns1:g id="separator">=</ns1:g>Yerevan<ns1:g id="timezone">|Asia/Yerevan</ns1:g></string>
+    <string name="C35">B<ns1:g id="separator">=</ns1:g>Bogotá<ns1:g id="timezone">|America/Bogota</ns1:g></string>
+    <string name="C36">B<ns1:g id="separator">=</ns1:g>Buenos Aires<ns1:g id="timezone">|America/Buenos_Aires</ns1:g></string>
+    <string name="C37">C<ns1:g id="separator">=</ns1:g>Cancun<ns1:g id="timezone">|America/Cancun</ns1:g></string>
+    <string name="C38">C<ns1:g id="separator">=</ns1:g>Caracas<ns1:g id="timezone">|America/Caracas</ns1:g></string>
+    <string name="C39">C<ns1:g id="separator">=</ns1:g>Cayman<ns1:g id="timezone">|America/Cayman</ns1:g></string>
+    <string name="C4">A<ns1:g id="separator">=</ns1:g>Algiers<ns1:g id="timezone">|Africa/Algiers</ns1:g></string>
+    <string name="C40">C<ns1:g id="separator">=</ns1:g>Chicago<ns1:g id="timezone">|America/Chicago</ns1:g></string>
+    <string name="C42">C<ns1:g id="separator">=</ns1:g>Curaçao<ns1:g id="timezone">|America/Curacao</ns1:g></string>
+    <string name="C43">D<ns1:g id="separator">=</ns1:g>Dawson Creek<ns1:g id="timezone">|America/Dawson_Creek</ns1:g></string>
+    <string name="C44">D<ns1:g id="separator">=</ns1:g>Denver<ns1:g id="timezone">|America/Denver</ns1:g></string>
+    <string name="C45">D<ns1:g id="separator">=</ns1:g>Detroit<ns1:g id="timezone">|America/Detroit</ns1:g></string>
+    <string name="C46">D<ns1:g id="separator">=</ns1:g>Dominica<ns1:g id="timezone">|America/Dominica</ns1:g></string>
+    <string name="C47">E<ns1:g id="separator">=</ns1:g>Edmonton<ns1:g id="timezone">|America/Edmonton</ns1:g></string>
+    <string name="C48">E<ns1:g id="separator">=</ns1:g>El Salvador<ns1:g id="timezone">|America/El_Salvador</ns1:g></string>
+    <string name="C49">F<ns1:g id="separator">=</ns1:g>Fortaleza<ns1:g id="timezone">|America/Fortaleza</ns1:g></string>
+    <string name="C5">B<ns1:g id="separator">=</ns1:g>Blantyre<ns1:g id="timezone">|Africa/Blantyre</ns1:g></string>
+    <string name="C50">G<ns1:g id="separator">=</ns1:g>Grand Turk<ns1:g id="timezone">|America/Grand_Turk</ns1:g></string>
+    <string name="C51">G<ns1:g id="separator">=</ns1:g>Grenada<ns1:g id="timezone">|America/Grenada</ns1:g></string>
+    <string name="C52">G<ns1:g id="separator">=</ns1:g>Guatemala City<ns1:g id="timezone">|America/Guatemala</ns1:g></string>
+    <string name="C53">G<ns1:g id="separator">=</ns1:g>Guyana<ns1:g id="timezone">|America/Guyana</ns1:g></string>
+    <string name="C54">H<ns1:g id="separator">=</ns1:g>Halifax<ns1:g id="timezone">|America/Halifax</ns1:g></string>
+    <string name="C55">H<ns1:g id="separator">=</ns1:g>Habana L\'<ns1:g id="timezone">|America/Habana L\'</ns1:g></string>
+    <string name="C56">I<ns1:g id="separator">=</ns1:g>Indianapolis<ns1:g id="timezone">|America/Indiana/Indianapolis</ns1:g></string>
+    <string name="C57">K<ns1:g id="separator">=</ns1:g>Knox<ns1:g id="timezone">|America/Indiana/Knox</ns1:g></string>
+    <string name="C58">M<ns1:g id="separator">=</ns1:g>Marengo<ns1:g id="timezone">|America/Indiana/Marengo</ns1:g></string>
+    <string name="C59">P<ns1:g id="separator">=</ns1:g>Petersburg<ns1:g id="timezone">|America/Indiana/Petersburg</ns1:g></string>
+    <string name="C6">B<ns1:g id="separator">=</ns1:g>Brazzaville<ns1:g id="timezone">|Africa/Brazzaville</ns1:g></string>
+    <string name="C60">T<ns1:g id="separator">=</ns1:g>Tell City<ns1:g id="timezone">|America/Indiana/Tell_City</ns1:g></string>
+    <string name="C61">V<ns1:g id="separator">=</ns1:g>Vevay<ns1:g id="timezone">|America/Indiana/Vevay</ns1:g></string>
+    <string name="C62">V<ns1:g id="separator">=</ns1:g>Vincennes<ns1:g id="timezone">|America/Indiana/Vincennes</ns1:g></string>
+    <string name="C63">W<ns1:g id="separator">=</ns1:g>Winamac<ns1:g id="timezone">|America/Indiana/Winamac</ns1:g></string>
+    <string name="C64">K<ns1:g id="separator">=</ns1:g>Kingston<ns1:g id="timezone">|America/Jamaica</ns1:g></string>
+    <string name="C65">N<ns1:g id="separator">=</ns1:g>Nuestra Señora de La Paz<ns1:g id="timezone">|America/La_Paz</ns1:g></string>
+    <string name="C66">L<ns1:g id="separator">=</ns1:g>Lima<ns1:g id="timezone">|America/Lima</ns1:g></string>
+    <string name="C67">L<ns1:g id="separator">=</ns1:g>Los Angeles<ns1:g id="timezone">|America/Los_Angeles</ns1:g></string>
+    <string name="C68">L<ns1:g id="separator">=</ns1:g>Louisville<ns1:g id="timezone">|America/Louisville</ns1:g></string>
+    <string name="C69">M<ns1:g id="separator">=</ns1:g>Managua<ns1:g id="timezone">|America/Managua</ns1:g></string>
+    <string name="C7">C<ns1:g id="separator">=</ns1:g>Cairo<ns1:g id="timezone">|Africa/Cairo</ns1:g></string>
+    <string name="C70">M<ns1:g id="separator">=</ns1:g>Martinique<ns1:g id="timezone">|America/Martinique</ns1:g></string>
+    <string name="C71">M<ns1:g id="separator">=</ns1:g>Mendoza<ns1:g id="timezone">|America/Mendoza</ns1:g></string>
+    <string name="C72">M<ns1:g id="separator">=</ns1:g>Metlakatla<ns1:g id="timezone">|America/Metlakatla</ns1:g></string>
+    <string name="C73">M<ns1:g id="separator">=</ns1:g>Mexico City<ns1:g id="timezone">|America/Mexico_City</ns1:g></string>
+    <string name="C74">M<ns1:g id="separator">=</ns1:g>Monterrey<ns1:g id="timezone">|America/Monterrey</ns1:g></string>
+    <string name="C75">M<ns1:g id="separator">=</ns1:g>Montevideo<ns1:g id="timezone">|America/Montevideo</ns1:g></string>
+    <string name="C76">M<ns1:g id="separator">=</ns1:g>Montreal<ns1:g id="timezone">|America/Montreal</ns1:g></string>
+    <string name="C77">N<ns1:g id="separator">=</ns1:g>Nassau<ns1:g id="timezone">|America/Nassau</ns1:g></string>
+    <string name="C78">N<ns1:g id="separator">=</ns1:g>New York<ns1:g id="timezone">|America/New_York</ns1:g></string>
+    <string name="C79">B<ns1:g id="separator">=</ns1:g>Beulah<ns1:g id="timezone">|America/North_Dakota/Beulah</ns1:g></string>
+    <string name="C8">C<ns1:g id="separator">=</ns1:g>Casablanca<ns1:g id="timezone">|Africa/Casablanca</ns1:g></string>
+    <string name="C80">C<ns1:g id="separator">=</ns1:g>Center<ns1:g id="timezone">|America/North_Dakota/Center</ns1:g></string>
+    <string name="C81">N<ns1:g id="separator">=</ns1:g>New Salem<ns1:g id="timezone">|America/North_Dakota/New_Salem</ns1:g></string>
+    <string name="C82">P<ns1:g id="separator">=</ns1:g>Panama<ns1:g id="timezone">|America/Panama</ns1:g></string>
+    <string name="C83">P<ns1:g id="separator">=</ns1:g>Phoenix<ns1:g id="timezone">|America/Phoenix</ns1:g></string>
+    <string name="C84">P<ns1:g id="separator">=</ns1:g>Port of Spain<ns1:g id="timezone">|America/Port_of_Spain</ns1:g></string>
+    <string name="C85">P<ns1:g id="separator">=</ns1:g>Port-au-Prince<ns1:g id="timezone">|America/Port-au-Prince</ns1:g></string>
+    <string name="C86">P<ns1:g id="separator">=</ns1:g>Puerto Rico<ns1:g id="timezone">|America/Puerto_Rico</ns1:g></string>
+    <string name="C87">S<ns1:g id="separator">=</ns1:g>Santo Domingo<ns1:g id="timezone">|America/Santo_Domingo</ns1:g></string>
+    <string name="C88">S<ns1:g id="separator">=</ns1:g>São Paulo<ns1:g id="timezone">|America/Sao_Paulo</ns1:g></string>
+    <string name="C89">S<ns1:g id="separator">=</ns1:g>St. Johns<ns1:g id="timezone">|America/St_Johns</ns1:g></string>
+    <string name="C9">C<ns1:g id="separator">=</ns1:g>Conakry<ns1:g id="timezone">|Africa/Conakry</ns1:g></string>
+    <string name="C90">S<ns1:g id="separator">=</ns1:g>St. Kitts<ns1:g id="timezone">|America/St_Kitts</ns1:g></string>
+    <string name="C91">S<ns1:g id="separator">=</ns1:g>St. Lucia<ns1:g id="timezone">|America/St_Lucia</ns1:g></string>
+    <string name="C92">S<ns1:g id="separator">=</ns1:g>St. Thomas<ns1:g id="timezone">|America/St_Thomas</ns1:g></string>
+    <string name="C93">T<ns1:g id="separator">=</ns1:g>Tijuana<ns1:g id="timezone">|America/Tijuana</ns1:g></string>
+    <string name="C94">T<ns1:g id="separator">=</ns1:g>Toronto<ns1:g id="timezone">|America/Toronto</ns1:g></string>
+    <string name="C95">V<ns1:g id="separator">=</ns1:g>Vancouver<ns1:g id="timezone">|America/Vancouver</ns1:g></string>
+    <string name="C96">W<ns1:g id="separator">=</ns1:g>Winnipeg<ns1:g id="timezone">|America/Winnipeg</ns1:g></string>
+    <string name="C97">S<ns1:g id="separator">=</ns1:g>South Pole<ns1:g id="phonetic">:</ns1:g><ns1:g id="timezone">|Antarctica/South_Pole</ns1:g></string>
+    <string name="C98">L<ns1:g id="separator">=</ns1:g>Longyearbyen<ns1:g id="timezone">|Arctic/Longyearbyen</ns1:g></string>
+    <string name="C99">A<ns1:g id="separator">=</ns1:g>Almaty<ns1:g id="timezone">|Asia/Almaty</ns1:g></string>
+    <string name="alarm_alert_dismiss_text">Escartar</string>
+    <string name="alarm_alert_off_text">Alarma apagada</string>
+    <string name="alarm_alert_predismiss_title">Próxima alarma</string>
+    <string name="alarm_alert_snooze_text">Posponer</string>
+    <string name="alarm_alert_snooze_until">Repetir a les <ns1:g id="TIME">%s</ns1:g></string>
+    <string name="alarm_alert_snoozed_text">Snoozed</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">Aínda nun pue inorase l\'alarma <ns1:g example="14:20" id="alarm_time">%s</ns1:g> porque entá falten más de 24 hores pa que s\'active</string>
+    <string name="alarm_deleted">Alarma desaniciada</string>
+    <string name="alarm_is_dismissed">Inoróse l\'alarma <ns1:g example="14:20" id="alarm_time">%s</ns1:g></string>
+    <string name="alarm_is_set">Afitóse l\'alarma a les <ns1:g example="14:20" id="alarm_time">%s</ns1:g></string>
+    <string name="alarm_is_snoozed">L\'alarma <ns1:g example="14:20" id="alarm_time">%s</ns1:g> pospúsose por diez minutos</string>
+    <string name="alarm_missed_title">Alarma perdida</string>
+    <string name="alarm_repeat">Repitir</string>
+    <string name="alarm_settings">Alarmes</string>
+    <string name="alarm_today">Güei</string>
+    <string name="alarm_tomorrow">Mañana</string>
+    <string name="alarm_undo">desfacer</string>
+    <string name="alarm_vibrate">Vibrar</string>
+    <string name="alarm_volume_muted">Volume de l\'alarma matáu</string>
+    <string name="alarm_volume_title">Volume d\'alarma</string>
+    <string name="alarms_blocked_by_dnd">El preséu ta configuráu pa silenciu ensembre</string>
+    <string name="all_timers_stopped_notif">Calca pa ver los tos temporizadores</string>
+    <string name="analog_gadget">Reló analóxicu</string>
+    <string name="app_label">Reló</string>
+    <string name="app_notifications_blocked">Les notificaciones del reló tán torgaes</string>
+    <string name="auto_silence_never">Enxamás</string>
+    <string name="auto_silence_title">Silenciar dempués de</string>
+    <string name="automatic_home_clock">Reló de la to ciudá automáticu</string>
+    <string name="automatic_home_clock_summary">Cuando viaxes a una zona con una hora diferente, amiesta un reló pa la hora de la to ciudá</string>
+    <string name="button_alarms">Amestar alarma</string>
+    <string name="button_cities">Ciudaes</string>
+    <string name="change_setting_action">Camudar</string>
+    <string name="cities_activity_title">Ciudaes</string>
+    <string name="city_checked"><ns1:g id="city_name">%s</ns1:g> xequeáu</string>
+    <string name="city_unchecked"><ns1:g id="city_name">%s</ns1:g> ensin xequiar</string>
+    <string name="clock_settings">Reló</string>
+    <string name="clock_style">Estilu</string>
+    <string name="collapse_alarm">Contrayer alarma</string>
+    <string name="crescendo_duration_title">Aumentar adulces el volume</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">Alarma</string>
+    <string name="default_timer_ringtone_title">Caducó\'l temporizador</string>
+    <string name="delete">Desaniciar</string>
+    <string name="description_direction_both">Esliza\'l deu a manzorga pa posponer l\'alarma o a mandrecha pa inorala</string>
+    <string name="description_direction_left">Esliza pa la esquierda pa posponer</string>
+    <string name="description_direction_right">Esliza pa la drecha pa escartar</string>
+    <string name="digital_gadget">Reló dixital</string>
+    <string name="dismiss_alarm">Inorar alarma</string>
+    <string name="display_clock_seconds_pref">Pantalla de tiempu con segundos</string>
+    <string name="every_day">Tolos díes</string>
+    <string name="expand_alarm">Espander alarma</string>
+    <string name="flip_action_title">Aición al voltiar el preséu</string>
+    <string name="home_label">Casa</string>
+    <string name="home_time_zone">Estaya horaria llocal</string>
+    <string name="home_time_zone_title">Estaya horaria llocal</string>
+    <string name="hours_label">h</string>
+    <string name="invalid_time">Tiempu inválidu <ns1:g example="25" id="invalid_hour">%1$d</ns1:g>:<ns1:g example="63" id="invalid_minutes">%2$d</ns1:g> <ns1:g example="PM" id="invalid_ampm">%3$s</ns1:g></string>
+    <string name="invalid_timer">Temporizador escoyíu inválidu</string>
+    <string name="invalid_timer_length">La duración del temporizador nun ye válida</string>
+    <string name="label">Nome l\'alarma</string>
+    <string name="label_description">Nome</string>
+    <string name="loading_widget">Cargando\u2026</string>
+    <string name="menu_alarm">Alarma</string>
+    <string name="menu_clock">Reló</string>
+    <string name="menu_item_settings">Axustes</string>
+    <string name="menu_item_sort_by_gmt_offset">Ordenar por hora</string>
+    <string name="menu_item_sort_by_name">Ordenar por nome</string>
+    <string name="menu_stopwatch">Cronómetru</string>
+    <string name="menu_timer">Temporizador</string>
+    <string name="minutes_label">m</string>
+    <string name="missed_alarm_has_been_deleted">Desaniciáronse les alarmes perdíes</string>
+    <string name="missed_named_timer_notification_label">Cronu desapaecíu: <ns1:g example="Pick up kids" id="name">%s</ns1:g></string>
+    <string name="missed_timer_notification_label">Cronu desapaecíu</string>
+    <string name="next_alarm_description">Próxima alarma: <ns1:g id="ALARM_TIME">%s</ns1:g></string>
+    <string name="next_timer_notif">Próximu temporizador: <ns1:g id="TIME_REMAINING">%s</ns1:g></string>
+    <string name="night_mode_summary">Pantalla amatagada (pa espacios escuros)</string>
+    <string name="night_mode_title">Mou nocherniegu</string>
+    <string name="no_alarm_at">Nun hai alarma pa les <ns1:g example="14" id="alarm_time_hour">%1$d</ns1:g>:<ns1:g example="23" id="alarm_time_minutes">%2$d</ns1:g></string>
+    <string name="no_alarm_scheduled_for_this_time">Nun se planificaron alarmes pa esta hora</string>
+    <string name="no_alarms">Nun hai alarmes</string>
+    <string name="no_alarms_with_label">Nun hai nenguna alarma con esa etiqueta</string>
+    <string name="no_expired_timers">Temporizadores non cadudaos</string>
+    <string name="no_firing_alarms">Nun hai alarmes actives</string>
+    <string name="no_label_specified">Nun s\'especificó nenguna etiqueta</string>
+    <string name="no_scheduled_alarms">Nun hai alarmes programaes</string>
+    <string name="open_date_settings">Camudar data \u0026 y hora</string>
+    <string name="pick_alarm_to_dismiss">Esbilla l\'alarma que quies inorar</string>
+    <string name="ringtone_description">Timbre</string>
+    <string name="screensaver_settings">Axustes de guardáu de la pantalla</string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">Ciudaes esbillaes</string>
+    <string name="settings">Axustes</string>
+    <string name="shake_action_title">Aición al ximelgar el preséu</string>
+    <string name="shortcut_new_alarm_long">Crear una alarma nueva</string>
+    <string name="shortcut_new_alarm_short">Alarma nueva</string>
+    <string name="shortcut_new_timer_long">Crear un temporizador nuevu</string>
+    <string name="shortcut_new_timer_short">Temporizador nuevu</string>
+    <string name="shortcut_pause_stopwatch_long">Posar cronómetru</string>
+    <string name="shortcut_pause_stopwatch_short">Posar</string>
+    <string name="shortcut_start_screensaver_long">Arrancar un curiapantalles</string>
+    <string name="shortcut_start_screensaver_short">Curiapantalles</string>
+    <string name="shortcut_start_stopwatch_long">Arrancar cronómetru</string>
+    <string name="shortcut_start_stopwatch_short">Aniciar</string>
+    <string name="silent_default_alarm_ringtone">El tonu por defeutu de l\'alarma ta matáu</string>
+    <string name="silent_ringtone_title">Silenciu</string>
+    <string name="snooze_duration_title">Repetir alarma dempués de</string>
+    <string name="stopwatch_service_desc">Procesa les aiciones de los avisos del cronómetru.</string>
+    <string name="sw_lap_button">Amestar vuelta</string>
+    <string name="sw_notification_lap_number">Fase <ns1:g id="NUMBER">%d</ns1:g></string>
+    <string name="sw_pause_button">Posar</string>
+    <string name="sw_reset_button">Llimpiar</string>
+    <string name="sw_resume_button">Reanudar</string>
+    <string name="sw_share_button">Compartir</string>
+    <string name="sw_share_laps">Duración de les vueltes:</string>
+    <string name="sw_share_main">Hora: <ns1:g id="TIME">%s</ns1:g></string>
+    <string name="sw_start_button">Aniciar</string>
+    <string name="swn_paused">Posáu</string>
+    <string name="timer_accessibility_one_minute_added">Amestáu un minutu al cronu, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_accessibility_started">Cronu funcionando, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_accessibility_stopped">Cronu posáu, <ns1:g example="5 hours remaining" id="TIME">%1$s</ns1:g></string>
+    <string name="timer_add_timer">Amestar temporizador</string>
+    <string name="timer_cancel">Encaboxar</string>
+    <string name="timer_canceled">Encaboxóse\'l temporizador</string>
+    <string name="timer_created">Creóse\'l temporizador</string>
+    <string name="timer_delete">Desaniciar</string>
+    <string name="timer_deleted">Desanicióse\'l temporizador</string>
+    <string name="timer_descriptive_delete">Desaniciar <ns1:g id="number_string">%s</ns1:g></string>
+    <string name="timer_multi_missed"><ns1:g example="2" id="number">%d</ns1:g> cronos despaecíos</string>
+    <string name="timer_multi_times_up"><ns1:g example="2" id="NUM_TIMERS">%d</ns1:g> temporizadores deteníos</string>
+    <string name="timer_notification_label">Temporizador</string>
+    <string name="timer_notifications_hours"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_hours_minutes">Queden <ns1:g id="HOURS">%1$s</ns1:g> y <ns1:g id="MINUTES">%2$s</ns1:g></string>
+    <string name="timer_notifications_hours_minutes_seconds"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g><ns1:g example="2 minutes" id="MINUTES"> %2$s</ns1:g><ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_hours_seconds"><ns1:g example="2 hours" id="HOURS">%1$s</ns1:g> <ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_less_min">Queda menos de 1 minutu</string>
+    <string name="timer_notifications_minutes"><ns1:g example="2 minutes" id="MINUTES">%2$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_minutes_seconds"><ns1:g example="2 minutes" id="MINUTES">%2$s</ns1:g> <ns1:g example="2 seconds" id="SECONDS"> %4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_notifications_seconds"><ns1:g example="2 seconds" id="SECONDS">%4$s</ns1:g><ns1:g example="remaining" id="REMAINING"> %3$s</ns1:g></string>
+    <string name="timer_pause">Posar</string>
+    <string name="timer_paused">Posóse\'l temporizador</string>
+    <string name="timer_plus_1_min">Añadir 1 min</string>
+    <string name="timer_plus_one">Amestar 1 minutu</string>
+    <string name="timer_remaining_multiple">restantes</string>
+    <string name="timer_remaining_single">restante</string>
+    <string name="timer_reset">Llimpiar</string>
+    <string name="timer_reset_all">Reaniciar tolos temporizadores</string>
+    <string name="timer_service_desc">Procesa les aiciones de los avisos del temporizador.</string>
+    <string name="timer_settings">Temporizadores</string>
+    <string name="timer_start">Aniciar</string>
+    <string name="timer_stop">Detener</string>
+    <string name="timer_stop_all">Parar tolos temporizadores</string>
+    <string name="timer_times_up">Tiempu agotáu</string>
+    <string name="timer_vibrate_title">Temporizador en vibración</string>
+    <string name="timers_in_use"><ns1:g id="NUMBER">%d</ns1:g> temporizadores</string>
+    <string name="timers_stopped"><ns1:g id="Number">%d</ns1:g> temporizadores posaos</string>
+    <string name="unknown_ringtone_title">Desconocíu</string>
+    <string name="unmute_alarm_volume">Activar soníu</string>
+    <string name="volume_button_setting_title">Botones de volume</string>
+    <string name="week_start_title">Entamar la selmana el</string>
+    <string name="world_day_of_week_label">/ <ns1:g id="LABEL">%s</ns1:g></string>
+    <string name="world_hours_minutes_ahead"><ns1:g example="6 hr" id="hours">%1$s</ns1:g> <ns1:g example="30 min" id="minutes">%2$s</ns1:g> alantre</string>
+    <string name="world_hours_minutes_behind"><ns1:g example="4 hr" id="hours">%1$s</ns1:g> <ns1:g example="30 min" id="minutes">%2$s</ns1:g> atrás</string>
+    <string name="world_hours_tomorrow">Mañana, <ns1:g example="6 hours ahead" id="time">%1$s</ns1:g></string>
+    <string name="world_hours_yesterday">Ayeri, <ns1:g example="4 hours behind" id="time">%1$s</ns1:g></string>
+    <string name="world_time_ahead"><ns1:g example="6 hours" id="time">%1$s</ns1:g> alantre</string>
+    <string name="world_time_behind"><ns1:g example="4 hours" id="time">%1$s</ns1:g> atrás</string>
+    <string name="world_tomorrow">Mañana</string>
+    <string name="world_yesterday">Ayeri</string>
+</resources>
