@@ -2944,6 +2944,7 @@ id androidx_compose_ui_view_composition_context
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
+id appBarLayout
 id arc
 id arrow
 id asConfigured
@@ -3355,6 +3356,9 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewHH
+id textViewMM
+id textViewSS
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

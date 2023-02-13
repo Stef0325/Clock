@@ -76,9 +76,9 @@ public class TimerSetupView extends LinearLayout implements View.OnClickListener
          numberPickerHH = findViewById(R.id.numberPickerHH);
          numberPickerMM = findViewById(R.id.numberPickerMM);
          numberPickerSS = findViewById(R.id.numberPickerSS);
-         numberPickerHH.setMaxValue(99);
-         numberPickerMM.setMaxValue(99);
-         numberPickerSS.setMaxValue(99);
+         numberPickerHH.setMaxValue(24);
+         numberPickerMM.setMaxValue(60);
+         numberPickerSS.setMaxValue(60);
          numberPickerSS.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
              @Override
              public void onValueChange(NumberPicker picker, int oldVal, int newVal) {

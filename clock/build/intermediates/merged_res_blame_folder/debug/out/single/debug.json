@@ -444,6 +444,10 @@
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_digits.xml"
     },
     {
+        "merged": "com.best.deskclock-merged_res-51:/layout_timer_setup_picker.xml.flat",
+        "source": "com.best.deskclock-main-53:/layout/timer_setup_picker.xml"
+    },
+    {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_dark.png.flat",
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_dark.png"
     },
@@ -722,10 +726,6 @@
     {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_light.png.flat",
         "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_light.png"
-    },
-    {
-        "merged": "com.best.deskclock-merged_res-51:/layout_stopwatch_time.xml.flat",
-        "source": "com.best.deskclock-main-53:/layout/stopwatch_time.xml"
     },
     {
         "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone_silent.xml.flat",

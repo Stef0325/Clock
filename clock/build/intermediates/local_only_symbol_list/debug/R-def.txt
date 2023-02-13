@@ -280,6 +280,7 @@ id alert_info
 id alert_title
 id analog_appwidget
 id analog_clock
+id appBarLayout
 id arrow
 id bottom_view
 id cancel_button
@@ -367,6 +368,9 @@ id stopwatch_circle
 id stopwatch_hundredths_text
 id stopwatch_time_text
 id stopwatch_time_wrapper
+id textViewHH
+id textViewMM
+id textViewSS
 id timer_label
 id timer_setup
 id timer_setup_delete
