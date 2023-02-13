@@ -1920,6 +1920,8 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color self_blue
+color self_skyblue
 color switch_thumb_color
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
@@ -2944,7 +2946,6 @@ id androidx_compose_ui_view_composition_context
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
-id appBarLayout
 id arc
 id arrow
 id asConfigured
@@ -2965,6 +2966,7 @@ id buttonPanel
 id cancel_action
 id cancel_button
 id center
+id centerBottom_ImageView
 id centerCrop
 id centerInside
 id center_horizontal
@@ -3117,6 +3119,7 @@ id lap_total
 id laps_list
 id layout
 id left
+id leftBottom_button
 id leftToRight
 id left_button
 id left_clock
@@ -3255,6 +3258,7 @@ id repeat_onoff
 id reset_add
 id reverseSawtooth
 id right
+id rightBottom_button
 id rightToLeft
 id right_button
 id right_clock
@@ -3356,9 +3360,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textViewHH
-id textViewMM
-id textViewSS
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

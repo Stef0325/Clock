@@ -106,6 +106,8 @@ color md_theme_light_tertiary
 color md_theme_light_tertiaryContainer
 color navigation_icon_color
 color no_alarms
+color self_blue
+color self_skyblue
 color switch_thumb_color
 color switch_track_color
 color tab_tint_color
@@ -280,10 +282,10 @@ id alert_info
 id alert_title
 id analog_appwidget
 id analog_clock
-id appBarLayout
 id arrow
 id bottom_view
 id cancel_button
+id centerBottom_ImageView
 id checked
 id choose_ringtone
 id chronometer
@@ -323,6 +325,7 @@ id lap_number
 id lap_time
 id lap_total
 id laps_list
+id leftBottom_button
 id left_button
 id left_clock
 id main
@@ -353,6 +356,7 @@ id pulse
 id repeat_days
 id repeat_onoff
 id reset_add
+id rightBottom_button
 id right_button
 id right_clock
 id ringtone_content
@@ -368,9 +372,6 @@ id stopwatch_circle
 id stopwatch_hundredths_text
 id stopwatch_time_text
 id stopwatch_time_wrapper
-id textViewHH
-id textViewMM
-id textViewSS
 id timer_label
 id timer_setup
 id timer_setup_delete

@@ -18,6 +18,8 @@
 
     <color name="black">#FF000000</color>
     <color name="black_54p">#8A000000</color>
+    <color name="self_blue">#03A9F4</color>
+    <color name="self_skyblue">#B0EDED</color>
 
     <color name="white">#FFFFFFFF</color>
     <color name="white_08p">#14FFFFFF</color>

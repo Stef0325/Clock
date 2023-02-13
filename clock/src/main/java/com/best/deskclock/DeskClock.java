@@ -41,6 +41,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.annotation.NonNull;
 import androidx.annotation.StringRes;
 import androidx.appcompat.app.ActionBar;
@@ -58,6 +59,7 @@ import com.best.deskclock.data.DataModel.ThemeButtonBehavior;
 import com.best.deskclock.data.OnSilentSettingsListener;
 import com.best.deskclock.events.Events;
 import com.best.deskclock.provider.Alarm;
+import com.best.deskclock.settings.SettingsActivity;
 import com.best.deskclock.uidata.TabListener;
 import com.best.deskclock.uidata.UiDataModel;
 import com.best.deskclock.widget.toast.SnackbarManager;
@@ -182,6 +184,19 @@ public class DeskClock extends BaseActivity
      */
     private boolean mRecreateActivity;
 
+    private Button mLeftBottomButton;
+    private Button mRightBottomButton;
+    private ImageView mCenterBottomImageView;
+
+    private final AnimatorSet hideBottomAnimation = new AnimatorSet();
+
+    private final AnimatorSet showBottomAnimation = new AnimatorSet();
+
+    private final AnimatorSet mUpdateImageViewOnlyAnimation = new AnimatorSet();
+
+    private final AnimatorSet mUpdateLeftAndRightButtonsOnlyAnimation = new AnimatorSet();
+
+
     @Override
     public void onNewIntent(Intent newIntent) {
         super.onNewIntent(newIntent);
@@ -233,11 +248,78 @@ public class DeskClock extends BaseActivity
         mLeftButton = findViewById(R.id.left_button);
         mRightButton = findViewById(R.id.right_button);
 
+//        绑定在底部增加修改的Button
+        mLeftBottomButton=findViewById(R.id.leftBottom_button);
+        mRightBottomButton=findViewById(R.id.rightBottom_button);
+
+
+        mCenterBottomImageView=findViewById(R.id.centerBottom_ImageView);
+
+        mCenterBottomImageView.setOnClickListener(view -> getSelectedDeskClockFragment().onFabClick(mCenterBottomImageView));
+
+//        给底部增加修改的Button添加点击事件
+        mLeftBottomButton.setOnClickListener(view -> getSelectedDeskClockFragment().onLeftButtonClick(mLeftBottomButton));
+        mRightBottomButton.setOnClickListener(view -> getSelectedDeskClockFragment().onRightButtonClick(mRightBottomButton));
+
+//        获得按键出现或者消失的动画的持续时间
+        final long duration = UiDataModel.getUiDataModel().getShortAnimationDuration();
+
+//        设计ImageView、leftBottomButton和rightBottomButton消失和出现的动画，沿着x轴缩放
+        final ValueAnimator hideImageViewAnimator = getScaleAnimator(mCenterBottomImageView, 1f, 0f);
+        final ValueAnimator showImageViewAnimator = getScaleAnimator(mCenterBottomImageView, 0f, 1f);
+
+        final ValueAnimator hideLeftBottomButtonAnimation = getScaleAnimator(mLeftBottomButton, 1f, 0f);
+        final ValueAnimator hideRightBottomButtonAnimation = getScaleAnimator(mRightBottomButton, 1f, 0f);
+        final ValueAnimator showLeftBottomButtonAnimation = getScaleAnimator(mLeftBottomButton, 0f, 1f);
+        final ValueAnimator showRightBottomButtonAnimation = getScaleAnimator(mRightBottomButton, 0f, 1f);
+
+        hideImageViewAnimator.addListener(new AnimatorListenerAdapter() {
+            @Override
+            public void onAnimationEnd(Animator animation) {
+                getSelectedDeskClockFragment().onUpdateFab(mCenterBottomImageView);
+            }
+        });
+
+        hideLeftBottomButtonAnimation.addListener(new AnimatorListenerAdapter() {
+            @Override
+            public void onAnimationEnd(Animator animation) {
+                getSelectedDeskClockFragment().onUpdateFabButtons(mLeftBottomButton, mRightBottomButton);
+            }
+        });
+
+        hideBottomAnimation
+                .setDuration(duration)
+                .play(hideImageViewAnimator)
+                .with(hideLeftBottomButtonAnimation)
+                .with(hideRightBottomButtonAnimation);
+
+        showBottomAnimation
+                .setDuration(duration)
+                .play(showImageViewAnimator)
+                .with(showLeftBottomButtonAnimation)
+                .with(showRightBottomButtonAnimation);
+
+        // Build the reusable animation that hides and shows only the fab.
+        mUpdateImageViewOnlyAnimation
+                .setDuration(duration)
+                .play(showImageViewAnimator)
+                .after(hideImageViewAnimator);
+
+        // Build the reusable animation that hides and shows only the buttons.
+        mUpdateButtonsOnlyAnimation
+                .setDuration(duration)
+                .play(showLeftBottomButtonAnimation)
+                .with(showRightBottomButtonAnimation)
+                .after(hideLeftBottomButtonAnimation)
+                .after(showRightBottomButtonAnimation);
+
+
+
+
         mFab.setOnClickListener(view -> getSelectedDeskClockFragment().onFabClick(mFab));
         mLeftButton.setOnClickListener(view -> getSelectedDeskClockFragment().onLeftButtonClick(mLeftButton));
         mRightButton.setOnClickListener(view -> getSelectedDeskClockFragment().onRightButtonClick(mRightButton));
 
-        final long duration = UiDataModel.getUiDataModel().getShortAnimationDuration();
 
         final ValueAnimator hideFabAnimation = getScaleAnimator(mFab, 1f, 0f);
         final ValueAnimator showFabAnimation = getScaleAnimator(mFab, 0f, 1f);
@@ -309,6 +391,7 @@ public class DeskClock extends BaseActivity
         UiDataModel.getUiDataModel().addTabListener(mTabChangeWatcher);
 
         mTitleView = findViewById(R.id.title_view);
+
     }
 
     @Override
@@ -403,36 +486,46 @@ public class DeskClock extends BaseActivity
         switch (updateType & FAB_ANIMATION_MASK) {
             case FAB_SHRINK_AND_EXPAND:
                 mUpdateFabOnlyAnimation.start();
+                mUpdateImageViewOnlyAnimation.start();
                 break;
             case FAB_IMMEDIATE:
                 f.onUpdateFab(mFab);
+                f.onUpdateFab(mCenterBottomImageView);
                 break;
             case FAB_MORPH:
                 f.onMorphFab(mFab);
+                f.onMorphFab(mCenterBottomImageView);
                 break;
         }
         if ((updateType & FAB_REQUEST_FOCUS_MASK) == FAB_REQUEST_FOCUS) {
             Log.d("FAB_REQUEST_FOCUS", "used");
             mFab.requestFocus();
+            mCenterBottomImageView.requestFocus();
         }
         switch (updateType & BUTTONS_ANIMATION_MASK) {
             case BUTTONS_IMMEDIATE:
                 f.onUpdateFabButtons(mLeftButton, mRightButton);
+                f.onUpdateFabButtons(mLeftBottomButton,mRightBottomButton);
                 break;
             case BUTTONS_SHRINK_AND_EXPAND:
                 mUpdateButtonsOnlyAnimation.start();
+                mUpdateLeftAndRightButtonsOnlyAnimation.start();
                 break;
         }
         if ((updateType & BUTTONS_DISABLE_MASK) == BUTTONS_DISABLE) {
             mLeftButton.setClickable(false);
             mRightButton.setClickable(false);
+//            mLeftBottomButton.setClickable(false);
+//            mRightBottomButton.setClickable(false);
         }
         switch (updateType & FAB_AND_BUTTONS_SHRINK_EXPAND_MASK) {
             case FAB_AND_BUTTONS_SHRINK:
                 mHideAnimation.start();
+                hideBottomAnimation.start();
                 break;
             case FAB_AND_BUTTONS_EXPAND:
                 mShowAnimation.start();
+                showBottomAnimation.start();
                 break;
         }
     }
@@ -484,6 +577,7 @@ public class DeskClock extends BaseActivity
         }
 
         mTitleView.setText(selectedTab.getLabelResId());
+//        mcenterBottomTextiew.setText(selectedTab.getLabelResId());
     }
 
     /**
@@ -528,6 +622,7 @@ public class DeskClock extends BaseActivity
             if (mFabState == FabState.HIDE_ARMED && positionOffsetPixels != 0) {
                 mFabState = FabState.HIDING;
                 mHideAnimation.start();
+                hideBottomAnimation.start();
             }
         }
 
@@ -536,20 +631,26 @@ public class DeskClock extends BaseActivity
             if (mPriorState == SCROLL_STATE_IDLE && state == SCROLL_STATE_SETTLING) {
                 // The user has tapped a tab button; play the hide and show animations linearly.
                 mHideAnimation.addListener(mAutoStartShowListener);
+                hideBottomAnimation.addListener(mAutoStartShowListener);
                 mHideAnimation.start();
+                hideBottomAnimation.start();
                 mFabState = FabState.HIDING;
             } else if (mPriorState == SCROLL_STATE_SETTLING && state == SCROLL_STATE_DRAGGING) {
                 // The user has interrupted settling on a tab and the fab button must be re-hidden.
                 if (mShowAnimation.isStarted()) {
                     mShowAnimation.cancel();
+                    showBottomAnimation.cancel();
                 }
                 if (mHideAnimation.isStarted()) {
                     // Let the hide animation finish naturally; don't auto show when it ends.
                     mHideAnimation.removeListener(mAutoStartShowListener);
+                    hideBottomAnimation.removeListener(mAutoStartShowListener);
                 } else {
                     // Start and immediately end the hide animation to jump to the hidden state.
                     mHideAnimation.start();
                     mHideAnimation.end();
+                    hideBottomAnimation.start();
+                    hideBottomAnimation.end();
                 }
                 mFabState = FabState.HIDING;
 
@@ -558,10 +659,11 @@ public class DeskClock extends BaseActivity
                 if (mHideAnimation.isStarted()) {
                     // Finish the hide animation and then start the show animation.
                     mHideAnimation.addListener(mAutoStartShowListener);
+                    hideBottomAnimation.addListener(mAutoStartShowListener);
                 } else {
                     updateFab(FAB_AND_BUTTONS_IMMEDIATE);
                     mShowAnimation.start();
-
+                    showBottomAnimation.start();
                     // The animation to show the fab has begun; update the state to showing.
                     mFabState = FabState.SHOWING;
                 }
@@ -589,12 +691,13 @@ public class DeskClock extends BaseActivity
         public void onAnimationEnd(Animator animation) {
             // Prepare the hide animation for its next use; by default do not auto-show after hide.
             mHideAnimation.removeListener(mAutoStartShowListener);
-
+            hideBottomAnimation.removeListener(mAutoStartShowListener);
             // Update the buttons now that they are no longer visible.
             updateFab(FAB_AND_BUTTONS_IMMEDIATE);
 
             // Automatically start the grow animation now that shrinking is complete.
             mShowAnimation.start();
+            showBottomAnimation.start();
 
             // The animation to show the fab has begun; update the state to showing.
             mFabState = FabState.SHOWING;

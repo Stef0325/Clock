@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-h470dp-v21/values-h470dp-v21.xml",
             "map": [
                 {
-                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-h470dp-v21\\dimens.xml",
+                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-h470dp-v21\\dimens.xml",
                     "from": {
                         "startLines": "22,19",
                         "startColumns": "4,4",

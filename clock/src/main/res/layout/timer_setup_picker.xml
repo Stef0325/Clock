@@ -5,48 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textViewMM"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/minutes_label"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/numberPickerMM"
-        app:layout_constraintEnd_toEndOf="@+id/numberPickerMM"
-        app:layout_constraintStart_toStartOf="@+id/numberPickerMM"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1" />
-
-    <TextView
-        android:id="@+id/textViewHH"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hours_label"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/numberPickerHH"
-        app:layout_constraintEnd_toEndOf="@+id/numberPickerHH"
-        app:layout_constraintStart_toStartOf="@+id/numberPickerHH"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1" />
-
-    <TextView
-        android:id="@+id/textViewSS"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/seconds_label"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/numberPickerSS"
-        app:layout_constraintEnd_toEndOf="@+id/numberPickerSS"
-        app:layout_constraintStart_toStartOf="@+id/numberPickerSS"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1" />
 
     <NumberPicker
         android:id="@+id/numberPickerMM"
-        style="@android:style/Widget.Material.NumberPicker"
-        android:layout_width="120dp"
+        android:layout_width="127dp"
         android:layout_height="96dp"
-        android:fadingEdgeLength="45dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -55,7 +18,7 @@
 
     <NumberPicker
         android:id="@+id/numberPickerHH"
-        android:layout_width="120dp"
+        android:layout_width="127dp"
         android:layout_height="96dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/numberPickerMM"
@@ -64,7 +27,7 @@
 
     <NumberPicker
         android:id="@+id/numberPickerSS"
-        android:layout_width="120dp"
+        android:layout_width="127dp"
         android:layout_height="96dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -42,6 +42,6 @@
         android:includeFontPadding="false"
         android:paddingStart="3dp"
         android:paddingEnd="30dp"
-        android:textSize="45sp" />
+        android:textSize="30sp" />
 
 </LinearLayout>

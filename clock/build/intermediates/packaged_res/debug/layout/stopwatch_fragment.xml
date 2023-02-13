@@ -40,10 +40,10 @@
             <include layout="@layout/stopwatch_time" />
 
             <!-- Sufficient space exists to include the bounding stopwatch circle. -->
-            <!--com.best.deskclock.stopwatch.StopwatchCircleView
+            <com.best.deskclock.stopwatch.StopwatchCircleView
                 android:id="@+id/stopwatch_circle"
-                android:layout_width="64dp"
-                android:layout_height="64dp" /-->
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
 
         </com.best.deskclock.TimerCircleFrameLayout>
 

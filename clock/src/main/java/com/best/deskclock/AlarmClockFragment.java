@@ -49,6 +49,7 @@ import com.best.deskclock.alarms.dataadapter.ExpandedAlarmViewHolder;
 import com.best.deskclock.events.Events;
 import com.best.deskclock.provider.Alarm;
 import com.best.deskclock.provider.AlarmInstance;
+import com.best.deskclock.settings.SettingsActivity;
 import com.best.deskclock.uidata.UiDataModel;
 import com.best.deskclock.widget.EmptyViewController;
 import com.best.deskclock.widget.toast.SnackbarManager;
@@ -422,10 +423,29 @@ public final class AlarmClockFragment extends DeskClockFragment implements
 
     @Override
     public void onUpdateFabButtons(@NonNull Button left, @NonNull Button right) {
-        left.setVisibility(View.INVISIBLE);
-        right.setVisibility(View.INVISIBLE);
+//        left.setVisibility(View.INVISIBLE);
+//        right.setVisibility(View.INVISIBLE);
+        left.setVisibility(View.VISIBLE);
+        right.setVisibility(View.VISIBLE);
+        //      给底部增加的Button设置显示的Text
+        left.setText(R.string.menu_item_night_mode);
+        right.setText(R.string.menu_item_settings);
+
+       onLeftButtonClick(left);
+       onRightButtonClick(right);
     }
 
+    @Override
+    public void onLeftButtonClick(@NonNull Button left) {
+        super.onLeftButtonClick(left);
+        left.setOnClickListener(view->{startActivity(new Intent(view.getContext(),ScreensaverActivity.class));});
+    }
+
+    @Override
+    public void onRightButtonClick(@NonNull Button right) {
+        super.onRightButtonClick(right);
+        right.setOnClickListener(view ->{startActivity(new Intent(view.getContext(), SettingsActivity.class));} );
+    }
 
     public void startCreatingAlarm() {
         // Clear the currently selected alarm.

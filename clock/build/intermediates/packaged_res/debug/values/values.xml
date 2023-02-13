@@ -752,6 +752,8 @@
     <color name="md_theme_light_tertiaryContainer">#FBD7FC</color>
     <color name="navigation_icon_color">@color/black</color>
     <color name="no_alarms">#DE000000</color>
+    <color name="self_blue">#03A9F4</color>
+    <color name="self_skyblue">#B0EDED</color>
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="white_08p">#14FFFFFF</color>

@@ -203,6 +203,16 @@ public final class ClockFragment extends DeskClockFragment {
     }
 
     @Override
+    public void onLeftButtonClick(@NonNull Button left) {
+        super.onLeftButtonClick(left);
+    }
+
+    @Override
+    public void onRightButtonClick(@NonNull Button right) {
+        super.onRightButtonClick(right);
+    }
+
+    @Override
     public void onUpdateFab(@NonNull ImageView fab) {
         fab.setVisibility(VISIBLE);
         fab.setImageResource(R.drawable.ic_fab_public);
@@ -211,8 +221,17 @@ public final class ClockFragment extends DeskClockFragment {
 
     @Override
     public void onUpdateFabButtons(@NonNull Button left, @NonNull Button right) {
-        left.setVisibility(INVISIBLE);
-        right.setVisibility(INVISIBLE);
+//        left.setVisibility(INVISIBLE);
+//        right.setVisibility(INVISIBLE);
+        left.setVisibility(VISIBLE);
+        right.setVisibility(VISIBLE);
+
+        //      给底部增加的Button设置显示的Text
+        left.setText(R.string.menu_item_night_mode);
+        right.setText(R.string.menu_item_settings);
+
+        onLeftButtonClick(left);
+        onRightButtonClick(right);
     }
 
 
