@@ -646,6 +646,7 @@
     <string msgid="1413723516369078665" name="menu_item_settings">"设置"</string>
     <string msgid="3120860422682721706" name="menu_item_sort_by_gmt_offset">"按时间排序"</string>
     <string msgid="1762931290495104106" name="menu_item_sort_by_name">"按名称排序"</string>
+    <string name="menu_nothing">无</string>
     <string msgid="3396117705293574701" name="menu_stopwatch">"秒表"</string>
     <string msgid="6459070074762877114" name="menu_timer">"定时器"</string>
     <string msgid="3568098128251438588" name="minutes_label">"分"</string>

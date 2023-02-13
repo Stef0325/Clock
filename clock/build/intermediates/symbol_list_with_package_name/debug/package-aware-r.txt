@@ -2693,6 +2693,8 @@ drawable appwidget_clock_minute
 drawable appwidget_digital_clock_preview
 drawable avd_hide_password
 drawable avd_show_password
+drawable bar_left
+drawable bar_right
 drawable bg_circle_white
 drawable bg_day_button_animatable
 drawable bg_day_button_checked_to_unchecked_anim
@@ -2872,6 +2874,8 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id TopLeftButton
+id TopRightButton
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2946,6 +2950,7 @@ id androidx_compose_ui_view_composition_context
 id androidx_window_activity_scope
 id animateToEnd
 id animateToStart
+id appBarLayout
 id arc
 id arrow
 id asConfigured
@@ -4253,6 +4258,7 @@ string menu_item_night_mode
 string menu_item_settings
 string menu_item_sort_by_gmt_offset
 string menu_item_sort_by_name
+string menu_nothing
 string menu_stopwatch
 string menu_timer
 string minutes_label

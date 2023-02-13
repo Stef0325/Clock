@@ -1,1126 +1,1134 @@
 [
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_stopwatch_button_translatex_interpolator.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_stopwatch_button_translatex_interpolator.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_reset_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_reset_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_top.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_top.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_down_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_down_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_timer.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_timer.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_city_list_header.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\city_list_header.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_second.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_second.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_minute.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_minute.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_stop.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_stop.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_stop_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_stop_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_lap_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_lap_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_day_button.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\day_button.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_popup_background.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\popup_background.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_down_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_down_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_timer.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_timer.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_clock_minute_hand_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_clock_minute_hand_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_top.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_top.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_selector_checkbox_selected.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\selector_checkbox_selected.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_dismiss.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_dismiss.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_quantum_gm_ic_radio_button_unchecked_vd_theme_24.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\quantum_gm_ic_radio_button_unchecked_vd_theme_24.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_unchecked_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_unchecked_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_alarm_off_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_hour.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_hour.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_white.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_white.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_hour.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_selection_layout.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\selection_layout.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_clock_hour_hand_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_clock_hour_hand_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_snooze_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_snooze_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_top.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_top.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_l_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_l_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_world_clock_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\world_clock_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_dial.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_dial.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_alarm_animated.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_alarm_animated.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_alarm.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_alarm.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_main_clock_frame.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\main_clock_frame.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_reset_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_reset_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_settings.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\settings.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_selector_checkbox_selected.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\selector_checkbox_selected.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_stop.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_stop.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_backup_scheme.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\backup_scheme.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_stopwatch_time.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\stopwatch_time.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_reset_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_reset_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_item_sound.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_item_sound.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_dial.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_dial.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_play.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_play.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_tab_tint_color.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\tab_tint_color.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_lap_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_lap_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_pause.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_pause.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_stopwatch.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_stopwatch.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_snooze_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_snooze_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_city_container.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_city_container.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_container.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_container.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_pause_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_pause_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone_not_found.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone_not_found.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_timer_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_timer_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_expired_timers_activity.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\expired_timers_activity.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_clock_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\clock_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_expanded.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_expanded.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_dial.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_dial.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_start_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_start_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_clock.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_clock.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-nodpi_appwidget_analog_clock_preview.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-nodpi\\appwidget_analog_clock_preview.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_stop_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_stop_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_hour.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_up_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_up_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_reset_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_reset_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_down_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_down_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_hourglass_frame.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_hourglass_frame.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_timer_animated.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_timer_animated.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_alarm_off_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_alarm_off_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_view.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_view.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_transparent.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_transparent.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-nodpi_appwidget_analog_clock_preview.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-nodpi\\appwidget_analog_clock_preview.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_divider.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_divider.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-anydpi-v26_launcher_clock.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-anydpi-v26\\launcher_clock.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_clock_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_clock_animation_interpolator_1.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_alarm.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_alarm.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_alarm_background_expanded.9.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\alarm_background_expanded.9.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_minute.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_minute.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_pause.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_pause.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm_small.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm_small.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_minute.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_minute.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_base_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_base_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_minute.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_minute.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_row.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_row.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_screensaver_settings.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\screensaver_settings.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_new_alarm.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_new_alarm.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_tab_tint_color.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\tab_tint_color.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_screensaver_settings.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\screensaver_settings.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_world_clock_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\world_clock_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_simple_menu_dropdown_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\simple_menu_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_popup_menu_background.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\popup_menu_background.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_minute.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_minute.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-w320dp-h320dp_timer_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-w320dp-h320dp\\timer_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_checked_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_checked_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_clock_animation_interpolator_0.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_clock_animation_interpolator_0.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_alarm_off_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_dial.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_dial.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_stopwatch_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\stopwatch_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_container.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_container.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_stopwatch_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_stopwatch_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_quantum_gm_ic_radio_button_unchecked_vd_theme_24.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\quantum_gm_ic_radio_button_unchecked_vd_theme_24.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_r_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_r_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_timer.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_timer.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_play.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_play.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_hour.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_hour.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_transparent.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_transparent.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_main_clock_frame.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\main_clock_frame.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_clock_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\clock_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_desk_clock.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\desk_clock.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_digital_widget_sizer.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\digital_widget_sizer.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_hourglass_frame.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_hourglass_frame.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_l_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_l_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_stop_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_time.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_time.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_activity.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_activity.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_reset_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_reset_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_stopwatch.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_stopwatch.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_remote_list_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_remote_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_clock_animation_interpolator_1.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_clock_animation_interpolator_1.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_dial.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_dial.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_analog_appwidget.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\analog_appwidget.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_analog_appwidget.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\analog_appwidget.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_hourglass_fill.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_hourglass_fill.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_second.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_second.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_reset_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_reset_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_switch_track.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\switch_track.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_new_timer.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_new_timer.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_remote_list_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_remote_list_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_hour.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_settings.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\settings.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_alarm.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_alarm.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_lap_view.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\lap_view.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_snooze_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_snooze_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_snooze.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_snooze.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_stopwatch.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_stopwatch.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_stop_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_stop_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_alarm_off_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_alarm_off_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_alarm_off_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_stopwatch_button_translatex_interpolator.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_stopwatch_button_translatex_interpolator.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_picker.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_picker.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim-v22_caret_toopen_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim-v22\\caret_toopen_animation_interpolator_0.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_sw_lap_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_sw_lap_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_item_header.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_minute.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_minute.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_stopwatch.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_stopwatch.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_unchecked_to_checked_anim.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_unchecked_to_checked_anim.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_snooze_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_snooze_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_reset_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_reset_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_backspace.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_switch_track_color.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\switch_track_color.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_cities_activity.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\cities_activity.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_timer.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_timer.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\menu_bottom_navigation_menu.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\menu\\bottom_navigation_menu.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_up_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_up_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_stop_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_stop_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_placeholder_album_artwork.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_placeholder_album_artwork.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_timer.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_timer.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_expanded.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_expanded.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_minute.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_minute.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-ldrtl_ic_label.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-ldrtl\\ic_label.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_settings.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\settings.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_summary.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_summary.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_second.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_second.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_second.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_second.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_clock_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_clock_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_toggle_circle.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\toggle_circle.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_hour.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_hour.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_stopwatch_animated.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_stopwatch_animated.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_alarm.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_alarm.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_backspace.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_backspace.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_preemptive_dismiss.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\preemptive_dismiss.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_top.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_top.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_sw_lap_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_sw_lap_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_second.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_second.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_clock.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_clock.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_add_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_add_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_minute.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_minute.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_alarm.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_alarm.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_screensaver.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_screensaver.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_digits.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_digits.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_stopwatch_animated.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_stopwatch_animated.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_toggle_circle.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\toggle_circle.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_dismiss.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_dismiss.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_add.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_add.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_loading_widget.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\loading_widget.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_simple_menu_dropdown_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\simple_menu_dropdown_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_add.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_add.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_checked_alpha_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_checked_alpha_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-nodpi_appwidget_digital_clock_preview.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-nodpi\\appwidget_digital_clock_preview.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_down_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_down_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_clock.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_alarm_background_expanded.9.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\alarm_background_expanded.9.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_minute.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_minute.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_stopwatch_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\stopwatch_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_hour.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_hour.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_stopwatch_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\stopwatch_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_clock_animated.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_clock_animated.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_analog_appwidget.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\analog_appwidget.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_divider.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_divider.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_second.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_second.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_second.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_second.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_alarm.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_alarm.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_circle_white.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_circle_white.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-w320dp-h320dp_timer_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-w320dp-h320dp\\timer_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_day_button.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\day_button.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_bar_right.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\bar_right.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_stopwatch_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_stopwatch_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_minute.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_minute.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_timer_animated.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_timer_animated.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_alarm_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_alarm_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_hour.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_hour.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_second.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_second.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_minute.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_minute.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_stopwatch_animation_hand.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_stopwatch_animation_hand.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_clock_minute_hand_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_clock_minute_hand_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_chronometer_notif_content.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\chronometer_notif_content.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_main_clock_frame.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\main_clock_frame.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_alarm.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_alarm.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_top.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_top.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_loading_widget.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\loading_widget.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone_not_found.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone_not_found.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_alarm_background_expanded.9.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\alarm_background_expanded.9.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_snooze_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_snooze_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_digital_widget.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\digital_widget.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_hour.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_hour.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_analog_appwidget.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\analog_appwidget.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_settings.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\settings.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_switch_track.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_date_and_next_alarm_time.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\date_and_next_alarm_time.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_alarm_background_expanded.9.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\alarm_background_expanded.9.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_mask_1.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_mask_1.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_hour.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_hour.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_reset_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_reset_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_clock_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\clock_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_stat_notify_timer.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\stat_notify_timer.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_stop_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_stop_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\raw_alarm_expire.ogg.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\raw\\alarm_expire.ogg"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_row.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_row.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_top.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_top.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_snooze_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_snooze_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_up_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_up_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_alarm_background_expanded.9.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\alarm_background_expanded.9.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_alarm_background_expanded.9.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\alarm_background_expanded.9.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_alarm.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_alarm.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_popup_background.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\popup_background.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_minute.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_minute.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_popup_menu_background.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\popup_menu_background.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-nodpi_appwidget_digital_clock_preview.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-nodpi\\appwidget_digital_clock_preview.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_screensaver_info.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\screensaver_info.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_stopwatch.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_stopwatch.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_checked_alpha_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_checked_alpha_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_screensaver_info.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\screensaver_info.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_summary.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_summary.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_dial.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_dial.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_snooze.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_snooze.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_minute.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_minute.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_alarm_volume_preference.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\alarm_volume_preference.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_alarm_animation_button.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_alarm_animation_button.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_item_header.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_item_header.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_alarm_off_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_alarm_animated.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_alarm_animated.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_base_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_base_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_alarm_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_alarm_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_stopwatch.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_stopwatch.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_alarm_background_expanded.9.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\alarm_background_expanded.9.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_expired_timers_activity.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\expired_timers_activity.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_stopwatch.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_stopwatch.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_view.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_view.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_hour.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_base_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_base_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_switch_track_color.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\switch_track_color.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_second.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_second.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_alarm.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_alarm.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_snooze_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_snooze_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_second.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_second.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_hour.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_hour.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_stopwatch_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\stopwatch_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_hour.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_hour.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_minute.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_minute.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_minute.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_minute.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_timer.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_timer.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_collapsed.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_collapsed.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_caret_up_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_caret_up_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_city_list_header.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\city_list_header.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_l_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_l_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_stopwatch.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_stopwatch.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_cities_activity.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\cities_activity.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_checked_to_unchecked_anim.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_checked_to_unchecked_anim.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_snooze_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_snooze_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_stop_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_desk_clock_saver.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\desk_clock_saver.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_stop_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_timer.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_timer.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone_silent.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone_silent.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_picker.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_picker.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_hour.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_hour.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_stopwatch.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_stopwatch.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_unchecked_to_checked_anim.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_unchecked_to_checked_anim.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_add_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_add_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_hour.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_hour.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_timer.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_timer.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\menu\\bottom_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_stopwatch_animation_hand.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_stopwatch_animation_hand.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_clock_hour_hand_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_clock_hour_hand_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-ldrtl_ic_label.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-ldrtl\\ic_label.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_reset_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_reset_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_snooze_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_snooze_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_activity.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_activity.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_main_clock_frame.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\main_clock_frame.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_alarm.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_alarm.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_dial.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_dial.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_lap_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_lap_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_timer.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_timer.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_stopwatch.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_stopwatch.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_alarm_off_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_alarm_off_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_switch_thumb_color.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\switch_thumb_color.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_reset_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_reset_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_chronometer_notif_content.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\chronometer_notif_content.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_desk_clock.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\desk_clock.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_minute.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_minute.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_stopwatch_animation_button.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_stopwatch_animation_button.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_clock_animated.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_clock_animated.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_selection_layout.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\selection_layout.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_alarm_off_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_alarm_off_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm_small.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm_small.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_time.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_time.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_public.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_public.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_city_container.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_city_container.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\raw_timer_expire.ogg.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\raw\\timer_expire.ogg"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_timer_setup_view.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\timer_setup_view.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_dial.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_dial.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_stat_notify_timer.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\stat_notify_timer.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_stat_notify_alarm.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\stat_notify_alarm.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_screensaver_settings.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\screensaver_settings.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_clock_static.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_clock_static.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_tab_timer_static.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_tab_timer_static.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_r_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_r_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_minute.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_minute.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_second.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_second.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_unchecked_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_unchecked_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_clock_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\clock_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\color_switch_thumb_color.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\color\\switch_thumb_color.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_digital_widget_sizer.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\digital_widget_sizer.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_hour.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_hour.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_stat_notify_stopwatch.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\stat_notify_stopwatch.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_unchecked_alpha_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_unchecked_alpha_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_preemptive_dismiss.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\preemptive_dismiss.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_second.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_second.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_stopwatch.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_stopwatch.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_timer.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_timer.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_picker.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_picker.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_date_and_next_alarm_time.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\date_and_next_alarm_time.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim-v22_caret_toopen_animation_interpolator_0.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim-v22\\caret_toopen_animation_interpolator_0.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_hour.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_hour.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_snooze_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_snooze_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_dark.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_dark.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_snooze_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_snooze_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_picker.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_picker.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock_minute.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock_minute.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_light.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_alarm.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_alarm.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_alarm_volume_preference.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\alarm_volume_preference.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_unchecked_alpha_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_unchecked_alpha_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_time_collapsed.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_time_collapsed.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_alarm_off_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_alarm_off_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_stop_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_digital_widget.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\digital_widget.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_checked_to_unchecked_anim.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_checked_to_unchecked_anim.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_backup_scheme.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\backup_scheme.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_alarm_animation_button.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_alarm_animation_button.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-anydpi-v26_launcher_clock.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-anydpi-v26\\launcher_clock.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_noalarms.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_noalarms.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_minute.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_minute.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_appwidget_clock_dial.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\appwidget_clock_dial.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_alarm_clock.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\alarm_clock.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v21_day_button_checked_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v21\\day_button_checked_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_r_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_r_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_hour.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_hour.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_ringtone_item_sound.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\ringtone_item_sound.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_minute.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_minute.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_setup_digits.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_setup_digits.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-land_timer_setup_view.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-land\\timer_setup_view.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_start_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_start_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_hour.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_hour.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_lap_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_lap_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_checkmark.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_checkmark.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_hourglass_fill.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_hourglass_fill.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_r_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_r_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_top.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_top.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_new_alarm.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_new_alarm.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_expand_base_animation.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_expand_base_animation.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_fab_public.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_fab_public.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock_top.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock_top.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_alarm_background_expanded.9.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\alarm_background_expanded.9.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_stopwatch_animation_button.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_stopwatch_animation_button.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm_off_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm_off_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_hour.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_hour.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxhdpi_launcher_clock_top.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxhdpi\\launcher_clock_top.webp"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim-v22_caret_toclose_animation_interpolator_0.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim-v22\\caret_toclose_animation_interpolator_0.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\raw_timer_expire.ogg.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\raw\\timer_expire.ogg"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_stop_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_stop_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_pause_24dp.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_pause_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_alarm_off_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_alarm_off_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_desk_clock_saver.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\desk_clock_saver.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_bar_left.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\bar_left.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_animatable.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_animatable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_swipe_circle_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_alarm_background_expanded.9.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\alarm_background_expanded.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-hdpi_ic_swipe_circle_light.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-hdpi\\ic_swipe_circle_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_lap_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_lap_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_lap_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_lap_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_minute.webp.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_minute.webp"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_checkmark.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_checkmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_stopwatch_time.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\stopwatch_time.xml"
     },
     {
         "merged": "com.best.deskclock-merged_res-51:/layout_desk_clock.xml.flat",
         "source": "com.best.deskclock-main-53:/layout/desk_clock.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_stop_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_stop_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_dial.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_dial.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_label.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_label.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_animatable.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_animatable.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_city_list_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\city_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_label.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_label.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_digital_appwidget.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\digital_appwidget.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_city_list_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\city_list_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_swipe_circle_bottom.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_swipe_circle_bottom.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_lap_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_lap_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_item.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_item.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_ic_timer_animation_mask_1.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\ic_timer_animation_mask_1.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_screensaver.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_screensaver.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xxxhdpi_launcher_clock.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xxxhdpi\\launcher_clock.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_lap_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_lap_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_swipe_circle_dark.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_stopwatch.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_stopwatch.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_alarm_background_expanded.9.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\alarm_background_expanded.9.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_lap_view.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\lap_view.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xhdpi\\ic_swipe_circle_bottom.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_day_button_white.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_day_button_white.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_reset_24dp.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_reset_24dp.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_appwidget_clock_minute.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\appwidget_clock_minute.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_screensaver_settings.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\screensaver_settings.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_ic_reset_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\ic_reset_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_stat_notify_stopwatch.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\stat_notify_stopwatch.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim-v22_caret_toclose_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim-v22\\caret_toclose_animation_interpolator_0.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxhdpi_appwidget_clock_hour.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxhdpi\\appwidget_clock_hour.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_clock_analog_dial.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\clock_analog_dial.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-mdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-mdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\anim_ic_clock_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\anim\\ic_clock_animation_interpolator_0.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-w320dp-h320dp-land_stopwatch_fragment.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-w320dp-h320dp-land\\stopwatch_fragment.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_ringtone_silent.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_ringtone_silent.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-xxxhdpi_ic_swipe_circle_light.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-xxxhdpi\\ic_swipe_circle_light.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_selector_checkbox_material.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\selector_checkbox_material.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_top.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_top.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_lap_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_lap_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_switch_thumb.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\switch_thumb.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\animator-v22_caret_collapse_l_animation.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\animator-v22\\caret_collapse_l_animation.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_placeholder_album_artwork.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_placeholder_album_artwork.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_ic_noalarms.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\ic_noalarms.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-hdpi_launcher_clock.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-hdpi\\launcher_clock.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_ic_snooze_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\ic_snooze_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-mdpi_launcher_clock_top.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-mdpi\\launcher_clock_top.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_switch_thumb.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_ic_lap_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\ic_lap_white_24dp.png"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout-w320dp-h320dp-land_stopwatch_fragment.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout-w320dp-h320dp-land\\stopwatch_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\mipmap-xhdpi_launcher_clock_top.webp.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\mipmap-xhdpi\\launcher_clock_top.webp"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_bg_circle_white.xml.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\bg_circle_white.xml"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_timer_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\timer_item.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xhdpi_appwidget_clock_dial.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xhdpi\\appwidget_clock_dial.png"
     },
     {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\xml_digital_appwidget.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\xml\\digital_appwidget.xml"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_shortcut_new_timer.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\shortcut_new_timer.xml"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_swipe_circle_bottom.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_swipe_circle_bottom.png"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\raw_alarm_expire.ogg.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\raw\\alarm_expire.ogg"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\layout_world_clock_item.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\layout\\world_clock_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-hdpi_appwidget_clock_hour.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-hdpi\\appwidget_clock_hour.png"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_alarm_off_white_24dp.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_alarm_off_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-sw600dp-mdpi_ic_swipe_circle_dark.png.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-sw600dp-mdpi\\ic_swipe_circle_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable_selector_checkbox_material.xml.flat",
-        "source": "C:\\Users\\temp\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable\\selector_checkbox_material.xml"
+        "merged": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-merged_res-51:\\drawable-xxxhdpi_ic_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\ZhangCheng\\.gradle\\daemon\\7.5\\com.best.deskclock-main-53:\\drawable-xxxhdpi\\ic_stop_white_24dp.png"
     }
 ]

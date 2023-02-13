@@ -58,4 +58,10 @@ public interface FabController {
      * @param right the button to the right of the fab component
      */
     void onRightButtonClick(@NonNull Button right);
-}
+
+
+    void onTopLeftButtonClick(Button topLeft);
+
+    void onTopRightButtonClick(Button topRight);
+
+    }

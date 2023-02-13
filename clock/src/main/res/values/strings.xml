@@ -483,6 +483,8 @@
     <!-- Describes the purpose of the tab button which which switches the activity to the Stopwatch page -->
     <string name="menu_stopwatch">Stopwatch</string>
 
+    <string name="menu_nothing">Nothing</string>
+
     <!-- Clock view buttons strings-->
     <!-- Describes the purpose of the button to start the activity to add/edit/delete alarms -->
     <string name="button_alarms">Add alarm</string>

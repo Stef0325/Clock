@@ -121,4 +121,14 @@ public abstract class DeskClockFragment extends Fragment implements FabContainer
     public final void setTabScrolledToTop(boolean scrolledToTop) {
         UiDataModel.getUiDataModel().setTabScrolledToTop(mTab, scrolledToTop);
     }
+
+    @Override
+    public void onTopLeftButtonClick(Button topLeft) {
+
+    }
+
+    @Override
+    public void onTopRightButtonClick(Button topRight) {
+
+    }
 }

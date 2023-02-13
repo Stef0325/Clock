@@ -189,6 +189,8 @@ drawable appwidget_clock_dial
 drawable appwidget_clock_hour
 drawable appwidget_clock_minute
 drawable appwidget_digital_clock_preview
+drawable bar_left
+drawable bar_right
 drawable bg_circle_white
 drawable bg_day_button_animatable
 drawable bg_day_button_checked_to_unchecked_anim
@@ -274,6 +276,8 @@ drawable switch_track
 drawable toggle_circle
 fraction timer_circle_height_percent
 fraction timer_circle_width_percent
+id TopLeftButton
+id TopRightButton
 id alarm
 id alarms_empty_view
 id alarms_recycler_view
@@ -282,6 +286,7 @@ id alert_info
 id alert_title
 id analog_appwidget
 id analog_clock
+id appBarLayout
 id arrow
 id bottom_view
 id cancel_button
@@ -932,6 +937,7 @@ string menu_item_night_mode
 string menu_item_settings
 string menu_item_sort_by_gmt_offset
 string menu_item_sort_by_name
+string menu_nothing
 string menu_stopwatch
 string menu_timer
 string minutes_label

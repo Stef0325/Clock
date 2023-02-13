@@ -4,7 +4,7 @@
             "outputFile": "com.best.deskclock-mergeDebugResources-49:/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "D:\\android_project\\clock\\clock\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "source": "E:\\GitDownload\\clock\\clock\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
                     "from": {
                         "startLines": "22,21,18,25",
                         "startColumns": "4,4,4,4",

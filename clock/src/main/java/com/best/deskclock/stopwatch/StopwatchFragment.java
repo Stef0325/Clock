@@ -44,6 +44,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
@@ -271,6 +272,16 @@ public final class StopwatchFragment extends DeskClockFragment {
                 doShare();
                 break;
         }
+    }
+
+    @Override
+    public void onTopLeftButtonClick(Button topLeft) {
+        UiDataModel.getUiDataModel().setSelectedTab(Tab.TIMERS);
+    }
+
+    @Override
+    public void onTopRightButtonClick(Button topRight) {
+        Toast.makeText(getContext(),"no Fragement is shown in right",Toast.LENGTH_SHORT).show();
     }
 
     private void updateFab(@NonNull ImageView fab) {

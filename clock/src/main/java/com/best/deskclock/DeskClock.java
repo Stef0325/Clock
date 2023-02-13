@@ -196,6 +196,10 @@ public class DeskClock extends BaseActivity
 
     private final AnimatorSet mUpdateLeftAndRightButtonsOnlyAnimation = new AnimatorSet();
 
+    private Button topLeftButton;
+
+    private Button topRightButton;
+
 
     @Override
     public void onNewIntent(Intent newIntent) {
@@ -228,20 +232,32 @@ public class DeskClock extends BaseActivity
         final Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        topLeftButton=toolbar.findViewById(R.id.TopLeftButton);
+        topRightButton=toolbar.findViewById(R.id.TopRightButton);
+
+        topLeftButton.setOnClickListener(view->{getSelectedDeskClockFragment().onTopLeftButtonClick(topLeftButton);});
+        topRightButton.setOnClickListener(view->{getSelectedDeskClockFragment().onTopRightButtonClick(topRightButton);});
+
+//        topLeftButtonSetting(topLeftButton,getSelectedDeskClockFragment());
+//        topRightButtonSetting(topRightButton,getSelectedDeskClockFragment());
+
+
+
+
         final ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             actionBar.setDisplayShowTitleEnabled(false);
         }
 
         // Configure the menu item controllers add behavior to the toolbar.
-        mOptionsMenuManager.addMenuItemController(
-                new NightModeMenuItemController(this), new SettingsMenuItemController(this));
-        mOptionsMenuManager.addMenuItemController(
-                MenuItemControllerFactory.getInstance().buildMenuItemControllers(this));
+//        mOptionsMenuManager.addMenuItemController(
+//                new NightModeMenuItemController(this), new SettingsMenuItemController(this));
+//        mOptionsMenuManager.addMenuItemController(
+//                MenuItemControllerFactory.getInstance().buildMenuItemControllers(this));
 
         // Inflate the menu during creation to avoid a double layout pass. Otherwise, the menu
         // inflation occurs *after* the initial draw and a second layout pass adds in the menu.
-        onCreateOptionsMenu(toolbar.getMenu());
+//        onCreateOptionsMenu(toolbar.getMenu());
 
         // Configure the buttons shared by the tabs.
         mFab = findViewById(R.id.fab);
@@ -386,12 +402,22 @@ public class DeskClock extends BaseActivity
         // Mirror changes made to the selected tab into UiDataModel.
         mBottomNavigation = findViewById(R.id.bottom_view);
         mBottomNavigation.setOnItemSelectedListener(mNavigationListener);
+        mBottomNavigation.setVisibility(View.INVISIBLE);
+        mBottomNavigation.setClickable(false);
 
         // Honor changes to the selected tab from outside entities.
         UiDataModel.getUiDataModel().addTabListener(mTabChangeWatcher);
 
         mTitleView = findViewById(R.id.title_view);
 
+    }
+
+    private void topLeftButtonSetting(Button leftButton,DeskClockFragment fragment) {
+        leftButton.setOnClickListener(view->{fragment.onTopLeftButtonClick(leftButton);});
+    }
+
+    private void topRightButtonSetting(Button rightButton,DeskClockFragment fragment){
+        rightButton.setOnClickListener(view->{fragment.onTopRightButtonClick(rightButton);});
     }
 
     @Override
@@ -578,7 +604,48 @@ public class DeskClock extends BaseActivity
 
         mTitleView.setText(selectedTab.getLabelResId());
 //        mcenterBottomTextiew.setText(selectedTab.getLabelResId());
+        topLeftButton.setText(settingLeftButtonText(selectedTab.getLabelResId()));
+        topRightButton.setText(settingRightButtonText(selectedTab.getLabelResId()));
     }
+
+    private int settingLeftButtonText(int labelResId) {
+        int textId = 0;
+        switch (labelResId){
+            case R.string.menu_alarm:
+                textId=R.string.menu_nothing;
+                break;
+            case R.string.menu_clock:
+                textId=R.string.menu_alarm;
+                break;
+            case R.string.menu_timer:
+                textId=R.string.menu_clock;
+                break;
+            case R.string.menu_stopwatch:
+                textId=R.string.menu_timer;
+                break;
+        }
+        return textId;
+    }
+
+    private int settingRightButtonText(int labelResId) {
+        int textId = 0;
+        switch (labelResId){
+            case R.string.menu_alarm:
+                textId=R.string.menu_clock;
+                break;
+            case R.string.menu_clock:
+                textId=R.string.menu_timer;
+                break;
+            case R.string.menu_timer:
+                textId=R.string.menu_stopwatch;
+                break;
+            case R.string.menu_stopwatch:
+                textId=R.string.menu_nothing;
+                break;
+        }
+        return textId;
+    }
+
 
     /**
      * @return the DeskClockFragment that is currently selected according to UiDataModel

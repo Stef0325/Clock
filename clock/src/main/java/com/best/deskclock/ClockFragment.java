@@ -213,6 +213,16 @@ public final class ClockFragment extends DeskClockFragment {
     }
 
     @Override
+    public void onTopLeftButtonClick(Button topLeft) {
+        UiDataModel.getUiDataModel().setSelectedTab(UiDataModel.Tab.ALARMS);
+    }
+
+    @Override
+    public void onTopRightButtonClick(Button topRight) {
+        UiDataModel.getUiDataModel().setSelectedTab(UiDataModel.Tab.TIMERS);
+    }
+
+    @Override
     public void onUpdateFab(@NonNull ImageView fab) {
         fab.setVisibility(VISIBLE);
         fab.setImageResource(R.drawable.ic_fab_public);
